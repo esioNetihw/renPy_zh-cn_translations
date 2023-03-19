@@ -22,7 +22,7 @@ translate schinese ton_reaction_category_fail_5795d1ca:
 translate schinese ton_reaction_category_fail_894491d8:
 
     # ton "These crystal orbs are yet to predict that I would ever allow you to ask such a thing..." ("open", "closed", "shocked", "mid")
-    ton "这些水晶球还没有预测到我会允许你问这样的事.。." ("open", "closed", "shocked", "mid")
+    ton "这些水晶球还没有预测到我会允许你问这样的事..." ("open", "closed", "shocked", "mid")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:40
 translate schinese ton_reaction_category_fail_54ee4210:
@@ -64,7 +64,7 @@ translate schinese ton_reaction_category_fail_ecc1364e:
 translate schinese ton_reaction_category_fail_e6e61a7a:
 
     # ton "I decide where such things go..." ("open", "base", "base", "mid")
-    ton "我决定这类事情的去向.。。" ("open", "base", "base", "mid")
+    ton "我决定这类事情的去向..." ("open", "base", "base", "mid")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:55
 translate schinese ton_reaction_category_fail_862de8af:
@@ -106,7 +106,7 @@ translate schinese ton_reaction_touch_d6365c0c:
 translate schinese ton_reaction_touch_5526f49a:
 
     # ton "Teacher, I mean..." ("base", "narrow", "base", "downR")
-    ton "老师,我是说。。." ("base", "narrow", "base", "downR")
+    ton "老师,我是说..." ("base", "narrow", "base", "downR")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:75
 translate schinese ton_reaction_touch_df9c4420:
@@ -118,13 +118,13 @@ translate schinese ton_reaction_touch_df9c4420:
 translate schinese ton_reaction_touch_27bfc849:
 
     # ton "Don't you dare touch my elbows next..." ("soft", "narrow", "base", "mid")
-    ton "接下来你敢碰我的胳膊肘吗。。." ("soft", "narrow", "base", "mid")
+    ton "接下来你敢碰我的胳膊肘吗..." ("soft", "narrow", "base", "mid")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:78
 translate schinese ton_reaction_touch_dac9680f:
 
     # ton "Such a weird custom but I'll allow it..." ("horny", "closed", "base", "mid")
-    ton "这是个奇怪的习俗,但我会允许的。。." ("horny", "closed", "base", "mid")
+    ton "这是个奇怪的习俗,但我会允许的..." ("horny", "closed", "base", "mid")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:84
 translate schinese ton_reaction_touch_5f64d4dd:
@@ -148,25 +148,25 @@ translate schinese ton_reaction_touch_c726b963:
 translate schinese ton_reaction_touch_7acf5d30:
 
     # ton "I don't remember this being part of the job description..." ("horny", "narrow", "shocked", "down")
-    ton "我不记得这是我工作描述的一部分.。。" ("horny", "narrow", "shocked", "down")
+    ton "我不记得这是我工作描述的一部分..." ("horny", "narrow", "shocked", "down")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:91
 translate schinese ton_reaction_touch_3bf42872:
 
     # ton "But I'll look the other way for now..." ("grin", "closed", "base", "mid")
-    ton "但现在我再看看。。." ("grin", "closed", "base", "mid")
+    ton "但现在我再看看..." ("grin", "closed", "base", "mid")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:97
 translate schinese ton_reaction_touch_3000a119:
 
     # ton "A gentleman usually doesn't kiss on the lips but I'll allow it..." ("soft", "closed", "base", "mid")
-    ton "绅士通常不会吻嘴唇,但我允许。。." ("soft", "closed", "base", "mid")
+    ton "绅士通常不会吻嘴唇,但我允许..." ("soft", "closed", "base", "mid")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:99
 translate schinese ton_reaction_touch_b254ddbc:
 
     # ton "*Hmm*...{w=0.3} Did I feel some tongue? Must've been my imagination..." ("horny", "narrow", "base", "down")
-    ton "*嗯*{w=0.3}我有舌头吗?一定是我的想像力.。。" ("horny", "narrow", "base", "down")
+    ton "*嗯*{w=0.3}我有舌头吗?一定是我的想像力..." ("horny", "narrow", "base", "down")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:101
 translate schinese ton_reaction_touch_7e43a109:
@@ -256,7 +256,7 @@ translate schinese ton_reaction_touch_fail_f9041c92:
 translate schinese ton_reaction_touch_fail_c1571e58:
 
     # ton "Those aren't for you to play with..." (face="annoyed")
-    ton "那些不是你要玩的.。。" (face="annoyed")
+    ton "那些不是你要玩的..." (face="annoyed")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:151
 translate schinese ton_reaction_touch_fail_6fabac7b:
@@ -286,19 +286,19 @@ translate schinese ton_reaction_touch_fail_62a9f361:
 translate schinese ton_reaction_touch_fail_33f1e290:
 
     # ton "That forest is forbidden entry for first years... Let's get to know each other a bit better first..." (face="annoyed", eyebrows="angry", mouth="grin")
-    ton "那片森林在头几年是禁止进入的。。。让我们先更好地了解对方。。." (face="annoyed", eyebrows="angry", mouth="grin")
+    ton "那片森林在头几年是禁止进入的...让我们先更好地了解对方..." (face="annoyed", eyebrows="angry", mouth="grin")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:178
 translate schinese ton_reaction_equip_fail_f2b034ac:
 
     # ton "Not yet big boy, perhaps once this scheme of ours comes more into fruition..." (face="annoyed", eyebrows="angry", mouth="grin")
-    ton "还不是个大男孩,也许我们的这个计划取得更多成果。。." (face="annoyed", eyebrows="angry", mouth="grin")
+    ton "还不是个大男孩,也许我们的这个计划取得更多成果..." (face="annoyed", eyebrows="angry", mouth="grin")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:180
 translate schinese ton_reaction_equip_fail_1802637c:
 
     # ton "It does look nice but you need to deserve it..." (face="annoyed", eyebrows="angry", mouth="grin")
-    ton "看起来不错,但你应得的。。." (face="annoyed", eyebrows="angry", mouth="grin")
+    ton "看起来不错,但你应得的..." (face="annoyed", eyebrows="angry", mouth="grin")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:182
 translate schinese ton_reaction_equip_fail_2b4f5129:
@@ -358,7 +358,7 @@ translate schinese ton_reaction_unequip_fail_c6ec9e9c:
 translate schinese ton_reaction_unequip_fail_a2a85fc9:
 
     # ton "I thought patience came with old age..." ("base", "base", "raised", "R")
-    ton "我以为耐心是随着年龄的增长而来的。。." ("base", "base", "raised", "R")
+    ton "我以为耐心是随着年龄的增长而来的..." ("base", "base", "raised", "R")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:224
 translate schinese ton_reaction_unequip_fail_77d9f635:
@@ -424,7 +424,7 @@ translate schinese ton_reaction_equip_outfit_c33dfcea:
 translate schinese ton_reaction_equip_outfit_cf3a448a:
 
     # gen "Perverts the lot of them..." ("base", xpos="far_left", ypos="head")
-    gen "使他们中的许多人变态。。。." ("base", xpos="far_left", ypos="head")
+    gen "使他们中的许多人变态...." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:246
 translate schinese ton_reaction_equip_outfit_b00cda6a:
@@ -478,7 +478,7 @@ translate schinese ton_reaction_equip_outfit_35f43a26:
 translate schinese ton_reaction_equip_outfit_dde339f3:
 
     # gen "You know me too well..." ("base", xpos="far_left", ypos="head")
-    gen "你太了解我了。。." ("base", xpos="far_left", ypos="head")
+    gen "你太了解我了..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:260
 translate schinese ton_reaction_equip_outfit_73723684:
@@ -502,7 +502,7 @@ translate schinese ton_reaction_equip_outfit_c477c517:
 translate schinese ton_reaction_equip_outfit_c93110fa:
 
     # gen "If you like... Just stood in my office wearing this bikini..." ("base", xpos="far_left", ypos="head")
-    gen "如果你喜欢...就站在我的办公室里,穿着这种比基尼.。。" ("base", xpos="far_left", ypos="head")
+    gen "如果你喜欢...就站在我的办公室里,穿着这种比基尼..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:269
 translate schinese ton_reaction_equip_outfit_343340a0:
@@ -574,7 +574,7 @@ translate schinese ton_reaction_equip_outfit_754fdce2:
 translate schinese ton_reaction_equip_outfit_21e33fa7:
 
     # gen "Well... That's not as fun..." ("base", xpos="far_left", ypos="head")
-    gen "嗯...这并不是那么有趣。。." ("base", xpos="far_left", ypos="head")
+    gen "嗯...这并不是那么有趣..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:283
 translate schinese ton_reaction_equip_outfit_301666e6:
@@ -592,7 +592,7 @@ translate schinese ton_reaction_equip_outfit_dc1a9c5f:
 translate schinese ton_reaction_equip_outfit_7bf7c6f5:
 
     # gen "I think you'd look quite spiffing in it..." ("base", xpos="far_left", ypos="head")
-    gen "我觉得你穿上它会很时髦。。." ("base", xpos="far_left", ypos="head")
+    gen "我觉得你穿上它会很时髦..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:286
 translate schinese ton_reaction_equip_outfit_659f76af:
@@ -640,7 +640,7 @@ translate schinese ton_reaction_equip_outfit_5aae82be:
 translate schinese ton_reaction_equip_outfit_1e788f6b:
 
     # gen "*Hmm*... Maybe next time, but this will have to do for now..." ("base", xpos="far_left", ypos="head")
-    gen "*嗯*.也许下次,但现在必须这样做.。." ("base", xpos="far_left", ypos="head")
+    gen "*嗯*.也许下次,但现在必须这样做..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:295
 translate schinese ton_reaction_equip_outfit_c96e6591:
@@ -844,7 +844,7 @@ translate schinese ton_reaction_equip_outfit_30e2aebe:
 translate schinese ton_reaction_equip_outfit_bf2ee318:
 
     # ton "I suppose I'll have to wear it then..." ("base", "wink", "base", "mid")
-    ton "我想那时候我就得穿了.。。" ("base", "wink", "base", "mid")
+    ton "我想那时候我就得穿了..." ("base", "wink", "base", "mid")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:347
 translate schinese ton_reaction_equip_outfit_9f28ab27:
@@ -952,7 +952,7 @@ translate schinese ton_reaction_equip_outfit_e43d86af:
 translate schinese ton_reaction_equip_outfit_03b66868:
 
     # ton "Oh, I see why you've got it..." ("soft", "narrow", "base", "down")
-    ton "哦,我明白你为什么得到它了。。." ("soft", "narrow", "base", "down")
+    ton "哦,我明白你为什么得到它了..." ("soft", "narrow", "base", "down")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:380
 translate schinese ton_reaction_equip_outfit_fe5a0b71:
@@ -1174,7 +1174,7 @@ translate schinese ton_reaction_equip_outfit_0a88bad6:
 translate schinese ton_reaction_equip_outfit_5b2895cf:
 
     # gen "Here..." ("base", xpos="far_left", ypos="head")
-    gen "给你。。." ("base", xpos="far_left", ypos="head")
+    gen "给你..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:442
 translate schinese ton_reaction_equip_outfit_a71647ac:
@@ -1450,7 +1450,7 @@ translate schinese ton_reaction_equip_outfit_4c73d452:
 translate schinese ton_reaction_equip_outfit_13be267f:
 
     # gen "What's with you and... Oh, I see the confusion..." ("base", xpos="far_left", ypos="head")
-    gen "你怎么了...我看到了混乱。。." ("base", xpos="far_left", ypos="head")
+    gen "你怎么了...我看到了混乱..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:513
 translate schinese ton_reaction_equip_outfit_1ca2d542:
@@ -1498,7 +1498,7 @@ translate schinese ton_reaction_equip_outfit_912a8d20:
 translate schinese ton_reaction_equip_outfit_48a9a98c:
 
     # gen "Maybe that was a dream..." ("base", xpos="far_left", ypos="head")
-    gen "也许那是个梦.。。" ("base", xpos="far_left", ypos="head")
+    gen "也许那是个梦..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:527
 translate schinese ton_reaction_equip_outfit_4ba59c7b:
@@ -1600,7 +1600,7 @@ translate schinese ton_reaction_equip_outfit_29846808:
 translate schinese ton_reaction_equip_outfit_d7179d21:
 
     # gen "You're missing out..." ("base", xpos="far_left", ypos="head")
-    gen "你错过了。。." ("base", xpos="far_left", ypos="head")
+    gen "你错过了..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:549
 translate schinese ton_reaction_equip_outfit_0d9e067a:
@@ -1720,7 +1720,7 @@ translate schinese ton_reaction_equip_outfit_055f8feb:
 translate schinese ton_reaction_equip_outfit_a49117c6:
 
     # ton "A suit? And here I thought I'd escaped the dreary fashion sense of the ministry..." ("annoyed", "narrow", "base", "mid")
-    ton "西装？在这里，我想我已经摆脱了牧师沉闷的时尚感." ("annoyed", "narrow", "base", "mid")
+    ton "西装？在这里，我想我已经摆脱了魔法部沉闷的时尚感." ("annoyed", "narrow", "base", "mid")
 
 # game/scripts/characters/tonks/wardrobe_reactions.rpy:579
 translate schinese ton_reaction_equip_outfit_82dfed96:

@@ -286,7 +286,7 @@ translate schinese room_of_requirement_f3d40928:
 translate schinese room_of_requirement_fe5660f0:
 
     # sna "A porn creator. Well, technically it's used to let you live out your fantasies, be they impure or not. So not necessarily porn." ("snape_01")
-    sna "一个色情创作者。从技术上讲,它是用来让你实现你的幻想的,无论它们是否纯洁。所以不一定是色情." ("snape_01")
+    sna "一个色情创作者.从技术上讲,它是用来让你实现你的幻想的,无论它们是否纯洁.所以不一定是色情." ("snape_01")
 
 # game/scripts/rooms/room_of_requirement/init.rpy:141
 translate schinese room_of_requirement_4b6f37d1:

@@ -82,7 +82,7 @@ translate schinese snape_picture_57883b27:
 translate schinese snape_picture_8371df88:
 
     # "The Painting" "Hey, I am but an artist's interpretation. That's not my fault!"
-    "油画" "嘿,我只是一个艺术家的诠释。那不是我的错!"
+    "油画" "嘿,我只是一个艺术家的诠释.那不是我的错!"
 
 # game/scripts/rooms/snape_office/objects/picture.rpy:40
 translate schinese snape_picture_71de9112:

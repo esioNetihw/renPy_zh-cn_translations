@@ -1000,7 +1000,7 @@ translate schinese hufflepuff_match_c03aa3c3:
 translate schinese hufflepuff_match_5cb49eda:
 
     # ">Even though they are far down below on the pitch, you can clearly see Cho and Cedric glaring up at Hermione."
-    "即使他们在球场下方很远,你也可以清楚地看到乔和塞德里克在赫敏面前闪烁."
+    "即使他们在球场下方很远,你也可以清楚地看到秋和塞德里克在赫敏面前闪烁."
 
 # game/scripts/characters/cho/events/quidditch/hufflepuff_match.rpy:635
 translate schinese hufflepuff_match_16751eb0:
@@ -1180,13 +1180,13 @@ translate schinese hufflepuff_match_5feec8fd:
 translate schinese hufflepuff_match_f469a7f1:
 
     # her "Higher up, Cho seems to have caught an eye on the snitch and is chasing after it, directly followed by Cedric who..." ("open", "slit", "low", "stare", flip=True)
-    her "高一点的时候,乔似乎已经注意到了这个小偷,并在追逐它,紧随其后的是塞德里克." ("open", "slit", "low", "stare", flip=True)
+    her "高一点的时候,秋似乎已经注意到了这个小偷,并在追逐它,紧随其后的是塞德里克." ("open", "slit", "low", "stare", flip=True)
 
 # game/scripts/characters/cho/events/quidditch/hufflepuff_match.rpy:713
 translate schinese hufflepuff_match_d03b3bc3:
 
     # her "Hold on a minute... Is Cho wearing a skirt?" ("scream", "wide", "worried", "stare")
-    her "等等,乔穿裙子了吗?" ("scream", "wide", "worried", "stare")
+    her "等等,秋穿裙子了吗?" ("scream", "wide", "worried", "stare")
 
 # game/scripts/characters/cho/events/quidditch/hufflepuff_match.rpy:724
 translate schinese hufflepuff_match_0c81ebbd:
@@ -1330,7 +1330,7 @@ translate schinese hufflepuff_match_dcc0ab29:
 translate schinese hufflepuff_match_51c05a19:
 
     # mal "Cho, show us your panties!"
-    mal "乔,给我们看看你的内裤!"
+    mal "秋,给我们看看你的内裤!"
 
 # game/scripts/characters/cho/events/quidditch/hufflepuff_match.rpy:782
 translate schinese hufflepuff_match_382e3ad6:
@@ -1432,7 +1432,7 @@ translate schinese hufflepuff_match_e45395df:
 translate schinese hufflepuff_match_7085b939:
 
     # mal "Then how'd she get the role over Lee Jordan?"
-    mal "那她是怎么在李乔丹身上扮演这个角色的?"
+    mal "那她是怎么在李秋丹身上扮演这个角色的?"
 
 # game/scripts/characters/cho/events/quidditch/hufflepuff_match.rpy:831
 translate schinese hufflepuff_match_1ea53d04:
@@ -1636,7 +1636,7 @@ translate schinese hufflepuff_match_0a82fa8e:
 translate schinese hufflepuff_match_6fae2556:
 
     # ">You and Snape lean back and watch the game, frequently shifting your focus to Cho, as she darts past the stands..."
-    "你和斯内普靠后看比赛,经常把注意力转移到乔身上,她飞快地穿过看台."
+    "你和斯内普靠后看比赛,经常把注意力转移到秋身上,她飞快地穿过看台."
 
 # game/scripts/characters/cho/events/quidditch/hufflepuff_match.rpy:928
 translate schinese hufflepuff_match_e4cec980:
@@ -1714,7 +1714,7 @@ translate schinese hufflepuff_match_8a296142:
 translate schinese hufflepuff_match_b8b69a4a:
 
     # ">Cho waves the snitch in front of her."
-    ""乔在她面前挥舞着那只针刺."
+    ""秋在她面前挥舞着那只针刺."
 
 # game/scripts/characters/cho/events/quidditch/hufflepuff_match.rpy:966
 translate schinese hufflepuff_match_d26cea10:

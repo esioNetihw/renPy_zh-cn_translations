@@ -3304,7 +3304,7 @@ translate schinese slytherin_match_return_39b6a39b:
 translate schinese slytherin_match_return_43098d0e:
 
     # ton "I wish! The ministry won't let me do it..." ("open", "base", "annoyed", "mid")
-    ton "但愿,牧师不会让我这么做的." ("open", "base", "annoyed", "mid")
+    ton "但愿,魔法部不会让我这么做的." ("open", "base", "annoyed", "mid")
 
 # game/scripts/characters/cho/events/quidditch/slytherin_match.rpy:1774
 translate schinese slytherin_match_return_e5da62df:

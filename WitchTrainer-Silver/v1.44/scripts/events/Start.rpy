@@ -46,7 +46,7 @@ translate schinese genie_intro_E1_ef8799cd:
 translate schinese genie_intro_E1_bd52c158:
 
     # dum2 "How peculiar... My pocket watch usually tells me when--"
-    dum2 "多么奇特。。。我的怀表通常告诉我什么时候--"
+    dum2 "多么奇特...我的怀表通常告诉我什么时候--"
 
 # game/scripts/events/Start.rpy:85
 translate schinese genie_intro_E1_a832bd79:
@@ -232,15 +232,15 @@ translate schinese strings:
 
     # game/scripts/events/Start.rpy:12
     old "-Easy-{size=-8}\nIncreased gold, item drop rate and Slytherin-points gains.\nMood will improve faster.\nCheats are available.{/size}"
-    new "-简单-{size=-8}\n增加黄金、物品下落率和斯莱特林点数的增加.\n心情将更快地改善，作弊可用."
+    new "-简单-{size=-8}\n增加黄金、物品下落率和斯莱特林分数的增加.\n心情将更快地改善，作弊可用."
 
     # game/scripts/events/Start.rpy:12
     old "-Normal-{size=-8}\nBalanced gold, item drop rate and Slytherin-points gains.\nMood will improve normally.\nCheats are available.{/size}"
-    new "-普通-{size=-8}\n标准黄金、物品跌落率和斯莱特林点数的增加.\n心情通常会改善，作弊可用."
+    new "-普通-{size=-8}\n标准黄金、物品跌落率和斯莱特林分数的增加.\n心情通常会改善，作弊可用."
 
     # game/scripts/events/Start.rpy:12
     old "-Hardcore-{size=-8}\nReduced gold, item drop rate and Slytherin-points gains.\nMood will not improve over time.\nNo cheats.{/size}"
-    new "-硬核-{size=-8}\n降低黄金、物品跌落率和斯莱特林点数的涨幅\n随着时间的推移,心情不会改善，作弊不可用."
+    new "-硬核-{size=-8}\n降低黄金、物品跌落率和斯莱特林分数的涨幅\n随着时间的推移,心情不会改善，作弊不可用."
 
     # game/scripts/events/Start.rpy:25
     old "-Yes please-"

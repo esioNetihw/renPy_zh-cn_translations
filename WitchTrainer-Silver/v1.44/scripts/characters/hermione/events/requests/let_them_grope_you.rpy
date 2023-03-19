@@ -1432,7 +1432,7 @@ translate schinese hg_pr_grope_T4_E2_360ae062:
 translate schinese hg_pr_grope_T4_E2_f363e363:
 
     # her "This stocky Hufflepuff boy came up to me..." ("open", "base", "base", "R")
-    her "这个笨重的哈夫普夫男孩向我走过来.." ("open", "base", "base", "R")
+    her "这个笨重的赫奇帕奇男孩向我走过来.." ("open", "base", "base", "R")
 
 # game/scripts/characters/hermione/events/requests/let_them_grope_you.rpy:403
 translate schinese hg_pr_grope_T4_E2_ed71ef7f:

@@ -70,7 +70,7 @@ translate schinese potions_intro_E0_537ca531:
 translate schinese potions_intro_E0_a1fcfdb3:
 
     # gen "(Wait...{w=0.4} Do we?{w} Why do I sleep so much?)" ("base", xpos="far_left", ypos="head")
-    gen "(等等。。。{w=0.4}我们吗？{w}为什么我睡得那么久？)" ("base", xpos="far_left", ypos="head")
+    gen "(等等...{w=0.4}我们吗？{w}为什么我睡得那么久？)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/events/potions/intro.rpy:46
 translate schinese potions_intro_E0_6ec7a544:
@@ -586,7 +586,7 @@ translate schinese potions_intro_E1_2375033b:
 translate schinese potions_intro_E1_a0b476b4:
 
     # gen "(Well, I've found some recipes... I doubt there's many more useful things in here...)" ("base", xpos="far_left", ypos="head")
-    gen "(嗯，我找到了一些食谱。。。我怀疑这里还有更多有用的东西...)" ("base", xpos="far_left", ypos="head")
+    gen "(嗯，我找到了一些食谱...我怀疑这里还有更多有用的东西...)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/events/potions/intro.rpy:213
 translate schinese potions_intro_E1_cb3d5105:
@@ -664,7 +664,7 @@ translate schinese potions_intro_E2_8502c53e:
 translate schinese potions_intro_E2_867e3605:
 
     # gen "Darn painting... If only there was some paint thinner around here..." ("base", xpos="far_left", ypos="head")
-    gen "该死的绘画。。。如果这里有一些油漆稀释剂就好了." ("base", xpos="far_left", ypos="head")
+    gen "该死的绘画...如果这里有一些油漆稀释剂就好了." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/events/potions/intro.rpy:262
 translate schinese potions_intro_E2_7dd86f40:

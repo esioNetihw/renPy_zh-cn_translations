@@ -492,7 +492,7 @@ translate schinese strings:
 
     # game/scripts/characters/astoria/summon.rpy:23
     old "-Sexual favours-"
-    new "-性方面的偏爱-"
+    new "-性服务-"
 
     # game/scripts/characters/astoria/summon.rpy:23
     old "-Wardrobe-"

@@ -34,7 +34,7 @@ translate schinese twins_first_duel_9373eb5f:
 translate schinese twins_first_duel_73bd38ba:
 
     # fre "I believe I am, George!"
-    fre "我相信我是,乔治!"
+    fre "我相信我是,秋治!"
 
 # game/scripts/minigames/cardgame/_twins_card_game_.rpy:21
 translate schinese twins_first_duel_9664c992:
@@ -484,7 +484,7 @@ translate schinese twins_random_duel_248b641b:
 translate schinese twins_random_duel_106fea62:
 
     # ">George takes out a calculator and starts calculating something."
-    "乔治拿出一台计算器开始计算某件事."
+    "秋治拿出一台计算器开始计算某件事."
 
 # game/scripts/minigames/cardgame/_twins_card_game_.rpy:157
 translate schinese twins_random_duel_5c5fdf9e:

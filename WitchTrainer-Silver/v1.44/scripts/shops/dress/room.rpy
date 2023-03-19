@@ -70,7 +70,7 @@ translate schinese clothing_store_2fbd4a5d:
 translate schinese clothing_store_d120c5c0:
 
     # maf "I also perform alterations to existing items. This is mainly when a student goes through a growth spurt or gets a hole in their cloak."
-    maf "我还对现有项目进行修改。这主要是当一个学生经历了一次快速成长或斗篷上有一个洞的时候"
+    maf "我还对现有项目进行修改.这主要是当一个学生经历了一次快速成长或斗篷上有一个洞的时候"
 
 # game/scripts/shops/dress/room.rpy:23
 translate schinese clothing_store_5c6cea44:

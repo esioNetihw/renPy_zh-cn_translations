@@ -874,7 +874,7 @@ translate schinese nt_pr_grope_T1_E3_dd1fa6dd:
 translate schinese nt_pr_grope_T1_E3_1cea6052:
 
     # gen "I didn't notice any extra points today..." ("base", xpos="far_left", ypos="head")
-    gen "我今天没有注意到任何额外的点数." ("base", xpos="far_left", ypos="head")
+    gen "我今天没有注意到任何额外的分数." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/requests/hands-on_lessons.rpy:252
 translate schinese nt_pr_grope_T1_E3_09d54606:
@@ -1006,7 +1006,7 @@ translate schinese nt_pr_grope_T1_E3_97b051cc:
 translate schinese nt_pr_grope_T1_E3_de35186e:
 
     # ton "Anyhow, I offered them some house points for it... but to my surprise they both kindly refused..." ("open", "closed", "base", "mid")
-    ton "不管怎么说,我给了他们一些学院点数......但让我吃惊的是,他们都拒绝了." ("open", "closed", "base", "mid")
+    ton "不管怎么说,我给了他们一些学院分数......但让我吃惊的是,他们都拒绝了." ("open", "closed", "base", "mid")
 
 # game/scripts/characters/tonks/events/requests/hands-on_lessons.rpy:274
 translate schinese nt_pr_grope_T1_E3_14d3dfea:

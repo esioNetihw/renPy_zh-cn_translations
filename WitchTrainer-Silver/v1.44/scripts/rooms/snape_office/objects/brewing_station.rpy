@@ -34,7 +34,7 @@ translate schinese brewing_station_ec28b80d:
 translate schinese brewing_station_aa77674c:
 
     # gen "(*Hmm*... I didn't know Snape was into distillery. Let's see if I can guess the type of booze by the smell.)" ("base", xpos="far_left", ypos="head")
-    gen "(*嗯*...我不知道斯内普喜欢酿酒厂。让我们看看我是否能根据气味猜出酒的种类.)" ("base", xpos="far_left", ypos="head")
+    gen "(*嗯*...我不知道斯内普喜欢酿酒厂.让我们看看我是否能根据气味猜出酒的种类.)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/rooms/snape_office/objects/brewing_station.rpy:34
 translate schinese brewing_station_511a73aa:

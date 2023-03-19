@@ -898,7 +898,7 @@ translate schinese maid_responses_8074b6a8:
 translate schinese maid_responses_abf72dbc:
 
     # her "I cleaned the prefects bathroom today so not really many people around." ("soft", "base", "base", "mid")
-    her "我今天打扫了州长的浴室,所以周围的人不多." ("soft", "base", "base", "mid")
+    her "我今天打扫了年级长的浴室,所以周围的人不多." ("soft", "base", "base", "mid")
 
 # game/scripts/characters/hermione/events/jobs.rpy:271
 translate schinese maid_responses_41b2c99b:

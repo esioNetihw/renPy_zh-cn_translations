@@ -838,7 +838,7 @@ translate schinese nt_pr_kiss_T1_E3_3c865894:
 translate schinese nt_pr_kiss_T1_E3_2cd4f1f1:
 
     # ton "Normally, I only try and buy favours from one person at a time..." ("normal", "closed", "base", "mid")
-    ton "通常,我只想一次从一个人那里买东西.." ("normal", "closed", "base", "mid")
+    ton "通常,我只想一次从一个人那里购买好处.." ("normal", "closed", "base", "mid")
 
 # game/scripts/characters/tonks/events/requests/oral_practice.rpy:251
 translate schinese nt_pr_kiss_T1_E3_3eba5eda:

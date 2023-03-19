@@ -82,7 +82,7 @@ translate schinese hg_pf_blowjob_fail_f2b91925:
 translate schinese hg_pf_blowjob_fail_6459cf71:
 
     # gen "I plan to grant Gryffindor {number=current_payout} house points today..." ("base", xpos="far_left", ypos="head")
-    gen "我计划今天给格兰芬多尔1号学院点数." ("base", xpos="far_left", ypos="head")
+    gen "我计划今天给格兰芬多尔1号学院分数." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/suck_it.rpy:88
 translate schinese hg_pf_blowjob_fail_596daa7e:
@@ -112,7 +112,7 @@ translate schinese hg_pf_blowjob_T4_fail_intro_f2b91925:
 translate schinese hg_pf_blowjob_T4_fail_intro_6459cf71:
 
     # gen "I plan to grant Gryffindor {number=current_payout} house points today..." ("base", xpos="far_left", ypos="head")
-    gen "我计划今天给格兰芬多尔1号学院点数." ("base", xpos="far_left", ypos="head")
+    gen "我计划今天给格兰芬多尔1号学院分数." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/suck_it.rpy:104
 translate schinese hg_pf_blowjob_T4_fail_intro_596daa7e:
@@ -244,7 +244,7 @@ translate schinese hg_pf_blowjob_T4_fail_repeat_f2b91925:
 translate schinese hg_pf_blowjob_T4_fail_repeat_6459cf71:
 
     # gen "I plan to grant Gryffindor {number=current_payout} house points today..." ("base", xpos="far_left", ypos="head")
-    gen "我计划今天给格兰芬多尔1号学院点数." ("base", xpos="far_left", ypos="head")
+    gen "我计划今天给格兰芬多尔1号学院分数." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/suck_it.rpy:141
 translate schinese hg_pf_blowjob_T4_fail_repeat_de6d5ec2:
@@ -364,7 +364,7 @@ translate schinese hg_pf_blowjob_T5_intro_E1_f2b91925:
 translate schinese hg_pf_blowjob_T5_intro_E1_6459cf71:
 
     # gen "I plan to grant Gryffindor {number=current_payout} house points today..." ("base", xpos="far_left", ypos="head")
-    gen "我计划今天给格兰芬多尔1号学院点数." ("base", xpos="far_left", ypos="head")
+    gen "我计划今天给格兰芬多尔1号学院分数." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/suck_it.rpy:179
 translate schinese hg_pf_blowjob_T5_intro_E1_596daa7e:
@@ -5902,7 +5902,7 @@ translate schinese hg_pf_blowjob_2_8f6ce039:
 translate schinese hg_pf_blowjob_2_d169af96:
 
     # gen "Are you going to swallow?" ("base", xpos="far_left", ypos="head")
-    gen "你要吞咽吗?" ("base", xpos="far_left", ypos="head")
+    gen "你要吞下吗?" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/suck_it.rpy:1855
 translate schinese hg_pf_blowjob_2_79bb912b:

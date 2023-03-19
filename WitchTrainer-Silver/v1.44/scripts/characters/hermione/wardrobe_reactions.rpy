@@ -232,7 +232,7 @@ translate schinese her_reaction_touch_cc4963b4:
 translate schinese her_reaction_touch_f5bb0af5:
 
     # her "I thought I was supposed to get points for this..." ("annoyed", "base", "base", "mid", cheeks="blush")
-    her "我以为我应该在这个问题上得到点数." ("annoyed", "base", "base", "mid", cheeks="blush")
+    her "我以为我应该在这个问题上得到分数." ("annoyed", "base", "base", "mid", cheeks="blush")
 
 # game/scripts/characters/hermione/wardrobe_reactions.rpy:136
 translate schinese her_reaction_touch_09b05e35:
@@ -2128,7 +2128,7 @@ translate schinese her_reaction_equip_outfit_a27b6f1f:
 translate schinese her_reaction_equip_outfit_33f9d700:
 
     # her "Of course [genie_name], as you wish..." ("base", "narrow", "base", "mid", cheeks="blush")
-    her "当然是01号,如你所愿。." ("base", "narrow", "base", "mid", cheeks="blush")
+    her "当然是01号,如你所愿.." ("base", "narrow", "base", "mid", cheeks="blush")
 
 # game/scripts/characters/hermione/wardrobe_reactions.rpy:688
 translate schinese her_reaction_equip_outfit_2a37efa9:
@@ -3598,7 +3598,7 @@ translate schinese her_reaction_equip_outfit_a89c0537:
 translate schinese her_reaction_equip_outfit_798f7ed7:
 
     # her "As you wish." ("open", "squint", "base", "R", cheeks="blush")
-    her "如你所愿。." ("open", "squint", "base", "R", cheeks="blush")
+    her "如你所愿.." ("open", "squint", "base", "R", cheeks="blush")
 
 # game/scripts/characters/hermione/wardrobe_reactions.rpy:1023
 translate schinese her_reaction_equip_outfit_9b3efca5:

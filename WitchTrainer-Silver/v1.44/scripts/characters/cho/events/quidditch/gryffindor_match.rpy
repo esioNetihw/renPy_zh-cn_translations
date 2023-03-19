@@ -286,7 +286,7 @@ translate schinese start_gryffindor_match_4ae67e32:
 translate schinese start_gryffindor_match_5b542325:
 
     # gen "Such prejudice is unacceptable in my school, Miss Cho!" ("base", xpos="far_left", ypos="head")
-    gen "这种偏见在我学校是不可接受的,乔小姐!" ("base", xpos="far_left", ypos="head")
+    gen "这种偏见在我学校是不可接受的,秋小姐!" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:69
 translate schinese start_gryffindor_match_e2f677e3:
@@ -706,7 +706,7 @@ translate schinese gryffindor_match_06a1c1e2:
 translate schinese gryffindor_match_3a1a3da7:
 
     # sna "As you wish..."
-    sna "如你所愿。."
+    sna "如你所愿.."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:308
 translate schinese gryffindor_match_104e69d8:
@@ -1210,7 +1210,7 @@ translate schinese gryffindor_match_251d72e0:
 translate schinese gryffindor_match_93b2244b:
 
     # ">You look down the pitch, and watch Cho as she slowly hovers up to her team, smiling awkwardly towards Madam Hooch."
-    "你低头看了看球场上,看着乔慢慢地向她的球队飞去,对霍奇女士尴尬地微笑着."
+    "你低头看了看球场上,看着秋慢慢地向她的球队飞去,对霍奇女士尴尬地微笑着."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:550
 translate schinese gryffindor_match_6c7101e7:
@@ -1294,7 +1294,7 @@ translate schinese gryffindor_match_2bd1ff85:
 translate schinese gryffindor_match_2e29a387:
 
     # ">As the balls are released, Cho shoots straight up into the air to get an overview of the game."
-    "当球被释放时,乔向空中直射,以获得游戏的概况."
+    "当球被释放时,秋向空中直射,以获得游戏的概况."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:596
 translate schinese gryffindor_match_388d28ed:
@@ -1354,7 +1354,7 @@ translate schinese gryffindor_match_f8dcc37c:
 translate schinese gryffindor_match_cd42b330:
 
     # ">Ignoring the two, you look up towards Cho who is fidgeting around a bit on her new broom."
-    "你不顾这两个人,抬头望着乔,他在她的新扫把上徘徊着."
+    "你不顾这两个人,抬头望着秋,他在她的新扫把上徘徊着."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:618
 translate schinese gryffindor_match_9fefac23:
@@ -1414,7 +1414,7 @@ translate schinese gryffindor_match_56943536:
 translate schinese gryffindor_match_f3fed92f:
 
     # ">Some time passes and you watch Gryffindor score even more goals as Cho fruitlessly tries to get comfortable on her broom."
-    "一段时间过去了,你就会看到格兰芬多的进球更多,而乔则徒劳无功地试图在扫把上舒服服服."
+    "一段时间过去了,你就会看到格兰芬多的进球更多,而秋则徒劳无功地试图在扫把上舒服服服."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:654
 translate schinese gryffindor_match_488ddb6b:
@@ -1438,7 +1438,7 @@ translate schinese gryffindor_match_058be92b:
 translate schinese gryffindor_match_df345e79:
 
     # ">Cho, frustrated in a multitude of ways, looks down towards you in desperation."
-    "乔以多种方式沮丧,绝望地低头望着你."
+    "秋以多种方式沮丧,绝望地低头望着你."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:661
 translate schinese gryffindor_match_2cd58881:
@@ -1474,7 +1474,7 @@ translate schinese gryffindor_match_ff1b0c49:
 translate schinese gryffindor_match_ed67f29e:
 
     # ">Cho looks at you confused, and then points towards that side as well."
-    "乔望着你迷惑了,然后又指着那一边."
+    "秋望着你迷惑了,然后又指着那一边."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:669
 translate schinese gryffindor_match_179d0b5f:
@@ -1486,7 +1486,7 @@ translate schinese gryffindor_match_179d0b5f:
 translate schinese gryffindor_match_09862501:
 
     # ">You begin fluttering your eyelashes up towards Cho."
-    "你开始用眼睑朝乔的方向飞去."
+    "你开始用眼睑朝秋的方向飞去."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:673
 translate schinese gryffindor_match_10105803:
@@ -1510,7 +1510,7 @@ translate schinese gryffindor_match_33c2cd03:
 translate schinese gryffindor_match_2500210a:
 
     # ">Cho gives you a quick nod and then flies up towards one of the Gryffindor chasers who has positioned themselves near the Ravenclaw goalposts."
-    "乔给了你一个快速点头,然后飞向一个在拉文茨拉夫门柱附近定位的格兰芬多追随者."
+    "秋给了你一个快速点头,然后飞向一个在拉文茨拉夫门柱附近定位的格兰芬多追随者."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:678
 translate schinese gryffindor_match_ace0e754:
@@ -1534,7 +1534,7 @@ translate schinese gryffindor_match_53659864:
 translate schinese gryffindor_match_4cf101c4:
 
     # her "What is Cho doing?" ("disgust", "wide", "base", "up", cheeks="blush")
-    her "乔在干什么?" ("disgust", "wide", "base", "up", cheeks="blush")
+    her "秋在干什么?" ("disgust", "wide", "base", "up", cheeks="blush")
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:692
 translate schinese gryffindor_match_82e6fd25:
@@ -1594,7 +1594,7 @@ translate schinese gryffindor_match_0eb19357:
 translate schinese gryffindor_match_5e55ce02:
 
     # ">Looking up at Cho, you see a mix of frustration and worry across her face as she flies off again."
-    "抬头望着乔,当她再次飞走的时候,你看到她脸上充满了挫折感和忧虑."
+    "抬头望着秋,当她再次飞走的时候,你看到她脸上充满了挫折感和忧虑."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:710
 translate schinese gryffindor_match_f923f992:
@@ -1726,7 +1726,7 @@ translate schinese gryffindor_match_1c35e6b5:
 translate schinese gryffindor_match_ccead489:
 
     # ">As you turn your gaze back to Cho, you see her eyes darting around, seemingly searching for the snitch."
-    "当你把目光转向乔的时候,你看到她的眼睛在四处奔跑,似乎在寻找那只刺客."
+    "当你把目光转向秋的时候,你看到她的眼睛在四处奔跑,似乎在寻找那只刺客."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:747
 translate schinese gryffindor_match_9462e341:
@@ -1822,7 +1822,7 @@ translate schinese gryffindor_match_8717f249:
 translate schinese gryffindor_match_eab29212:
 
     # her "Fred--{w=0.2} I mean, George Weasley intercepting a bludger--" ("scream", "squint", "base", "L")
-    her "弗雷德,{w=0.2}我是说,乔治·韦斯利截获了一个炸弹--" ("scream", "squint", "base", "L")
+    her "弗雷德,{w=0.2}我是说,秋治·韦斯利截获了一个炸弹--" ("scream", "squint", "base", "L")
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:800
 translate schinese gryffindor_match_4cf9e3bc:
@@ -2188,7 +2188,7 @@ translate schinese gryffindor_match_32eeb409:
 translate schinese gryffindor_match_2981386f:
 
     # ">You look up at Cho who is staring blankly into the distance."
-    ""你抬头望着乔,他呆呆地凝视着远处."
+    ""你抬头望着秋,他呆呆地凝视着远处."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:953
 translate schinese gryffindor_match_0a4eaaa3:
@@ -2212,7 +2212,7 @@ translate schinese gryffindor_match_6b4e6f2a:
 translate schinese gryffindor_match_ef15767a:
 
     # ">Cho's expression changes abruptly into one of determination as she starts attempting to catch the attention of the boys on the Gryffindor team."
-    "乔的表情突然变成了一种决心,她开始试图引起格兰芬多队的男孩子们的注意."
+    "秋的表情突然变成了一种决心,她开始试图引起格兰芬多队的男孩子们的注意."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:960
 translate schinese gryffindor_match_d306b0ee:
@@ -2248,7 +2248,7 @@ translate schinese gryffindor_match_76a5d951:
 translate schinese gryffindor_match_4a185606:
 
     # her "You're--" ("mad", "wide", "angry", "L", cheeks="blush")
-    her """是的." ("mad", "wide", "angry", "L", cheeks="blush")
+    her "是的." ("mad", "wide", "angry", "L", cheeks="blush")
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:995
 translate schinese gryffindor_match_b4eb6aa6:
@@ -2386,7 +2386,7 @@ translate schinese gryffindor_match_70f0f7cb:
 translate schinese gryffindor_match_6b748cad:
 
     # ">Cho smirks as even the Gryffindor girls stop to ogle at her."
-    "乔闻起来就像格兰芬多尔的姑娘们都对她冷嘲热讽似的."
+    "秋闻起来就像格兰芬多尔的姑娘们都对她冷嘲热讽似的."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:1031
 translate schinese gryffindor_match_72b7c3f2:
@@ -2512,7 +2512,7 @@ translate schinese gryffindor_match_785be388:
 translate schinese gryffindor_match_2e7a86e3:
 
     # ">Staring daggers at Hermione, Cho takes off her bra and drops it to the ground."
-    "乔用刀子盯着赫敏,把胸罩从地上掉了下来."
+    "秋用刀子盯着赫敏,把胸罩从地上掉了下来."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:1073
 translate schinese gryffindor_match_6010e44d:
@@ -2596,7 +2596,7 @@ translate schinese gryffindor_match_7b20e82f:
 translate schinese gryffindor_match_c32de4f3:
 
     # ">The focus on the game, now completely lost, has everyone's eyes moving back and forth between Hermione and Cho, waiting with baited breath to see who will push things further."
-    "游戏的焦点现在完全迷失了,每个人的眼睛都在赫敏和乔之间来回移动,带着诱饵的呼吸等待着看谁会把事情推向更远的方向."
+    "游戏的焦点现在完全迷失了,每个人的眼睛都在赫敏和秋之间来回移动,带着诱饵的呼吸等待着看谁会把事情推向更远的方向."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:1100
 translate schinese gryffindor_match_85e4d830:
@@ -2662,7 +2662,7 @@ translate schinese gryffindor_match_bb5b0b9f:
 translate schinese gryffindor_match_d6966d90:
 
     # her "--Cho?!" ("clench", "wide", "base", "L", cheeks="blush")
-    her "--乔?!" ("clench", "wide", "base", "L", cheeks="blush")
+    her "--秋?!" ("clench", "wide", "base", "L", cheeks="blush")
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:1127
 translate schinese gryffindor_match_bc22f58a:
@@ -2692,7 +2692,7 @@ translate schinese gryffindor_match_c258e9d5:
 translate schinese gryffindor_match_c188f520:
 
     # ">Snapping out of it, Harry speeds off after Cho who is now darting between the towers chasing the snitch."
-    "哈利偷偷摸摸地跑了出来,赶紧追赶乔,乔现在正在塔间追逐着那只针刺."
+    "哈利偷偷摸摸地跑了出来,赶紧追赶秋,秋现在正在塔间追逐着那只针刺."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:1150
 translate schinese gryffindor_match_8bfdd17d:
@@ -2710,7 +2710,7 @@ translate schinese gryffindor_match_050df84e:
 translate schinese gryffindor_match_80aa60a8:
 
     # ">Cho speeds up even more, her skirt clinging on for dear life."
-    "乔又加快了脚步,她的裙子一辈子都挂在上面."
+    "秋又加快了脚步,她的裙子一辈子都挂在上面."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:1159
 translate schinese gryffindor_match_bd491f5c:
@@ -2764,7 +2764,7 @@ translate schinese gryffindor_match_69a26cd4:
 translate schinese gryffindor_match_00e7705c:
 
     # ">Cho's secret now revealed--"
-    ")乔的秘密现在被揭露了--"
+    ")秋的秘密现在被揭露了--"
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:1188
 translate schinese gryffindor_match_06c7afeb:
@@ -2788,7 +2788,7 @@ translate schinese gryffindor_match_d6106a8c:
 translate schinese gryffindor_match_e383c2ba:
 
     # ">Cho, whose panties are now revealed to the crowd speeds up even further, edging ever so closer towards the snitch."
-    "乔,他的内裤现在被暴露在人群中了更快的速度,越来越靠近那小伙子了."
+    "秋,他的内裤现在被暴露在人群中了更快的速度,越来越靠近那小伙子了."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:1204
 translate schinese gryffindor_match_aa90c87b:
@@ -2818,7 +2818,7 @@ translate schinese gryffindor_match_d7f46006:
 translate schinese gryffindor_match_57d518ae:
 
     # ">The focus now shifted from the snitch to Cho's wet snatch leaves no doubts just how much she's enjoying this."
-    "现在焦点从小伙子转移到乔的湿抓斗上,这让人毫不怀疑她有多高兴."
+    "现在焦点从小伙子转移到秋的湿抓斗上,这让人毫不怀疑她有多高兴."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:1227
 translate schinese gryffindor_match_d0ce8b24:
@@ -2860,7 +2860,7 @@ translate schinese gryffindor_match_6e88cc92:
 translate schinese gryffindor_match_d1810408:
 
     # ">All of a sudden, Cho convulses and some translucent fluid escapes her nether."
-    "突然,乔抽搐了一下,有些半透明的液体从她的巢穴里逃走了."
+    "突然,秋抽搐了一下,有些半透明的液体从她的巢穴里逃走了."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:1246
 translate schinese gryffindor_match_e1792e7b:
@@ -2890,7 +2890,7 @@ translate schinese gryffindor_match_3c74bf7d:
 translate schinese gryffindor_match_8c597724:
 
     # ">Cho's mind, now clearer than ever, gets a sudden burst of speed and stretches out her fingers towards the snitch."
-    "乔比以往任何时候都更清晰地意识到,突然突然爆发了速度,她的手指伸向了刀锋."
+    "秋比以往任何时候都更清晰地意识到,突然突然爆发了速度,她的手指伸向了刀锋."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:1255
 translate schinese gryffindor_match_17d3f0ae:
@@ -3388,7 +3388,7 @@ translate schinese gryffindor_match_return_a0076b0d:
 translate schinese gryffindor_match_return_84cf9134:
 
     # ">In an act of desperation, Cho decides to hide under your desk."
-    "在绝望的行动中,乔决定躲在你的书桌下面."
+    "在绝望的行动中,秋决定躲在你的书桌下面."
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:1570
 translate schinese gryffindor_match_return_153ebe69:
@@ -3580,7 +3580,7 @@ translate schinese gryffindor_match_return_050088a0:
 translate schinese gryffindor_match_return_fa0565d6:
 
     # hoo "It's--" ("open", "shocked", "shocked", "mid")
-    hoo """是的." ("open", "shocked", "shocked", "mid")
+    hoo "是的." ("open", "shocked", "shocked", "mid")
 
 # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:1616
 translate schinese gryffindor_match_return_a12e0dd5:
@@ -5440,15 +5440,15 @@ translate schinese strings:
 
     # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:32
     old "-Tell Cho that she's obviously looking out for foul play-"
-    new "-告诉乔,她显然在注意犯规-"
+    new "-告诉秋,她显然在注意犯规-"
 
     # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:32
     old "-Tell Cho that Hermione obviously Likes her-"
-    new "-告诉乔,赫敏显然喜欢她--"
+    new "-告诉秋,赫敏显然喜欢她--"
 
     # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:32
     old "-Tell Cho that she obviously likes Hermione-"
-    new "-告诉乔说她显然喜欢赫敏--"
+    new "-告诉秋说她显然喜欢赫敏--"
 
     # game/scripts/characters/cho/events/quidditch/gryffindor_match.rpy:271
     old "-Slap her ass-"

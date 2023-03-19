@@ -190,7 +190,7 @@ translate schinese hg_pf_strip_T2_fail_intro_70a49ad4:
 translate schinese hg_pf_strip_T2_fail_intro_67de8730:
 
     # gen "If you don't need the points, please feel free to leave." ("base", xpos="far_left", ypos="head")
-    gen "如果你不需要点数,请随时离开." ("base", xpos="far_left", ypos="head")
+    gen "如果你不需要分数,请随时离开." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/dance_for_me.rpy:121
 translate schinese hg_pf_strip_T2_fail_intro_15dad820:
@@ -202,7 +202,7 @@ translate schinese hg_pf_strip_T2_fail_intro_15dad820:
 translate schinese hg_pf_strip_T2_fail_intro_e016364f:
 
     # her "Stripping for you won't be worth {b}any{/b} amount of points!" ("angry", "base", "angry", "mid")
-    her "给你脱衣是不值得的{b}any{/b}的点数!" ("angry", "base", "angry", "mid")
+    her "给你脱衣是不值得的{b}any{/b}的分数!" ("angry", "base", "angry", "mid")
 
 # game/scripts/characters/hermione/events/favors/dance_for_me.rpy:123
 translate schinese hg_pf_strip_T2_fail_intro_ff8e168d:
@@ -244,13 +244,13 @@ translate schinese hg_pf_strip_T2_fail_repeat_17d2c472:
 translate schinese hg_pf_strip_T2_fail_repeat_7f186e5a:
 
     # gen "You will get points for it..." ("base", xpos="far_left", ypos="head")
-    gen "你会得到点数的." ("base", xpos="far_left", ypos="head")
+    gen "你会得到分数的." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/dance_for_me.rpy:140
 translate schinese hg_pf_strip_T2_fail_repeat_21ceb874:
 
     # her "Shove those points up your--" ("angry", "closed", "angry", "mid")
-    her "把那些点数移到你身上--" ("angry", "closed", "angry", "mid")
+    her "把那些分数移到你身上--" ("angry", "closed", "angry", "mid")
 
 # game/scripts/characters/hermione/events/favors/dance_for_me.rpy:141
 translate schinese hg_pf_strip_T2_fail_repeat_2fed15ad:
@@ -442,7 +442,7 @@ translate schinese hg_pf_strip_T3_intro_E1_008a52c9:
 translate schinese hg_pf_strip_T3_intro_E1_67de8730:
 
     # gen "If you don't need the points, please feel free to leave." ("base", xpos="far_left", ypos="head")
-    gen "如果你不需要点数,请随时离开." ("base", xpos="far_left", ypos="head")
+    gen "如果你不需要分数,请随时离开." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/dance_for_me.rpy:212
 translate schinese hg_pf_strip_T3_intro_E1_6a1fa905:
@@ -802,7 +802,7 @@ translate schinese hg_pf_strip_T3_intro_E1_15e41d3c:
 translate schinese hg_pf_strip_T3_intro_E1_b8b092e1:
 
     # her "Strip dancing for points, [genie_name]?" ("angry", "squint", "base", "mid", cheeks="blush")
-    her "脱衣舞的点数,[genie_name]?" ("angry", "squint", "base", "mid", cheeks="blush")
+    her "脱衣舞的分数,[genie_name]?" ("angry", "squint", "base", "mid", cheeks="blush")
 
 # game/scripts/characters/hermione/events/favors/dance_for_me.rpy:378
 translate schinese hg_pf_strip_T3_intro_E1_2b11d044:
@@ -1678,7 +1678,7 @@ translate schinese hg_pf_strip_T3_E2_7a031536:
 translate schinese hg_pf_strip_T3_E2_0fa158c6:
 
     # her "{number=current_payout} house points?" ("open", "narrow", "worried", "down")
-    her "{number=current_payout}家点数?" ("open", "narrow", "worried", "down")
+    her "{number=current_payout}家分数?" ("open", "narrow", "worried", "down")
 
 # game/scripts/characters/hermione/events/favors/dance_for_me.rpy:753
 translate schinese hg_pf_strip_T3_E2_1e1116fd:
@@ -2104,7 +2104,7 @@ translate schinese hg_pf_strip_T4_intro_E1_7a031536:
 translate schinese hg_pf_strip_T4_intro_E1_a9d456c8:
 
     # her "{number=current_payout} house points?" ("open", "base", "base", "mid")
-    her "{number=current_payout}家点数?" ("open", "base", "base", "mid")
+    her "{number=current_payout}家分数?" ("open", "base", "base", "mid")
 
 # game/scripts/characters/hermione/events/favors/dance_for_me.rpy:1019
 translate schinese hg_pf_strip_T4_intro_E1_7a625ffd:

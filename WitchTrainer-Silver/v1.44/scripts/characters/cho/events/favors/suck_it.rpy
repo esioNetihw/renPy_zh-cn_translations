@@ -1918,7 +1918,7 @@ translate schinese cc_pf_blowjob_T3_E2_a9e930d7:
 translate schinese cc_pf_blowjob_T3_E2_7df1dece:
 
     # cho "(House points!?)"
-    cho "(众院点数!)"
+    cho "(众院分数!)"
 
 # game/scripts/characters/cho/events/favors/suck_it.rpy:972
 translate schinese cc_pf_blowjob_T3_E2_d48f9ae9:
@@ -2002,7 +2002,7 @@ translate schinese cc_pf_blowjob_T3_E2_267c3c07:
 translate schinese cc_pf_blowjob_T3_E2_2dcc9f31:
 
     # cho "I'm not selling my body for points!" ("scream", "base", "angry", "mid", cheeks="blush")
-    cho "我不是为了点数而卖我的身体的!" ("scream", "base", "angry", "mid", cheeks="blush")
+    cho "我不是为了分数而卖我的身体的!" ("scream", "base", "angry", "mid", cheeks="blush")
 
 # game/scripts/characters/cho/events/favors/suck_it.rpy:1009
 translate schinese cc_pf_blowjob_T3_E2_a0f9c12c:
@@ -2866,13 +2866,13 @@ translate schinese cc_pf_blowjob_T3_E3_c07876cc:
 translate schinese cc_pf_blowjob_T3_E3_d23bc798:
 
     # gen "Very much so!"
-    gen """是的!"
+    gen "的确如此!"
 
 # game/scripts/characters/cho/events/favors/suck_it.rpy:1438
 translate schinese cc_pf_blowjob_T3_E3_e5baec30:
 
     # cho "*Mhmmm* Good answer. {heart}"
-    cho "*Mhmmm*好回答{heart}"
+    cho "*额嗯嗯*好回答{heart}"
 
 # game/scripts/characters/cho/events/favors/suck_it.rpy:1446
 translate schinese cc_pf_blowjob_T3_E3_5b839af3:
@@ -3280,7 +3280,7 @@ translate schinese cc_pf_blowjob_T3_E3_ae36ec6c:
 translate schinese cc_pf_blowjob_T3_E3_e4aa4416:
 
     # cho "I wasn't--" ("open", "narrow", "base", "down", cheeks="heavy_blush")
-    cho """是的." ("open", "narrow", "base", "down", cheeks="heavy_blush")
+    cho "是的." ("open", "narrow", "base", "down", cheeks="heavy_blush")
 
 # game/scripts/characters/cho/events/favors/suck_it.rpy:1680
 translate schinese cc_pf_blowjob_T3_E3_840e5475:
@@ -3410,7 +3410,7 @@ translate schinese strings:
 
     # game/scripts/characters/cho/events/favors/suck_it.rpy:960
     old "\"I'll even give you some house points!\""
-    new ""我甚至给你点学院的点数!""
+    new ""我甚至给你点学院的分数!""
 
     # game/scripts/characters/cho/events/favors/suck_it.rpy:960
     old "\"Taste that cum in your mouth!\""

@@ -214,7 +214,7 @@ translate schinese ending_after_4a1b6a9d:
 translate schinese ending_after_935a1e2b:
 
     # ">You decide it's probably best to head back to your office. But before you get the chance to slip into the shadows Hermione has already begun making her way in your direction."
-    ">你决定最好还是回到你的办公室。但在你有机会溜进阴影之前，赫敏已经开始朝你的方向走了."
+    ">你决定最好还是回到你的办公室.但在你有机会溜进阴影之前，赫敏已经开始朝你的方向走了."
 
 # game/scripts/events/ending_after.rpy:114
 translate schinese ending_after_712a2b6a:
@@ -490,7 +490,7 @@ translate schinese ending_after_24acd251:
 translate schinese ending_after_f6bef4c8:
 
     # ">As she gets on her feet she looks up and notices the backs of the Slytherins in the doorway. She spins around to look at you, a red colour quickly spreading across her cheeks."
-    ">当她站起来的时候，她抬起头来，注意到门口斯莱特林人的背影。她转过身来看着你，羞红很快蔓延到她的脸颊上."
+    ">当她站起来的时候，她抬起头来，注意到门口斯莱特林人的背影.她转过身来看着你，羞红很快蔓延到她的脸颊上."
 
 # game/scripts/events/ending_after.rpy:168
 translate schinese ending_after_f4bbbee3:

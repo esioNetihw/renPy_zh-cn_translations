@@ -1732,7 +1732,7 @@ translate schinese ss_he_cho_E2_f70f1bd0:
 translate schinese ss_he_cho_E2_0f3cb2d6:
 
     # sna "Fred and George Weasley runs a secret shop in the school..." ("snape_01")
-    sna "弗雷德和乔治韦斯利在学校开了一家秘密商店." ("snape_01")
+    sna "弗雷德和秋治韦斯利在学校开了一家秘密商店." ("snape_01")
 
 # game/scripts/characters/cho/events/quidditch/quiz.rpy:633
 translate schinese ss_he_cho_E2_2f7dfff0:
@@ -1804,7 +1804,7 @@ translate schinese ss_he_cho_E2_95eccd65:
 translate schinese ss_he_cho_E2_12e0e182:
 
     # ">You spend the rest of the evening in Snape's company once again talking about Cho's remarkable legs."
-    "你在斯内普的公司度过了余下的一夜,又一次谈论乔那了不起的腿."
+    "你在斯内普的公司度过了余下的一夜,又一次谈论秋那了不起的腿."
 
 translate schinese strings:
 

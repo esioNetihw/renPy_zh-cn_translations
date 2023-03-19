@@ -376,7 +376,7 @@ translate schinese hermione_favors_convinced_check_4fd5dd13:
 translate schinese hermione_favors_convinced_check_4da1b88e:
 
     # her "With the current points distribution, I am certain getting the house cup for Gryffindor will be just a formality." ("smile", "closed", "base", "mid")
-    her "在目前的点数分配中,我确信获得格兰芬多尔的学院杯子将只是一种形式." ("smile", "closed", "base", "mid")
+    her "在目前的分数分配中,我确信获得格兰芬多尔的学院杯子将只是一种形式." ("smile", "closed", "base", "mid")
 
 # game/scripts/characters/hermione/summon.rpy:350
 translate schinese hermione_favors_convinced_check_3c0b95e7:

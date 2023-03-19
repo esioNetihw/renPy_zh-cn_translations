@@ -5164,7 +5164,7 @@ translate schinese hg_tutor_E14_54aca809:
 translate schinese hg_tutor_E14_99ba160b:
 
     # gen "I'm helping you with your revisions, why should you be getting points for that?" ("base", xpos="far_left", ypos="head")
-    gen "我在帮你做修改,你为什么要得到点数呢?" ("base", xpos="far_left", ypos="head")
+    gen "我在帮你做修改,你为什么要得到分数呢?" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/tutoring.rpy:1793
 translate schinese hg_tutor_E14_fbde798b:

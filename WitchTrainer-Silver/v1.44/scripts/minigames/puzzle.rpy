@@ -130,7 +130,7 @@ translate schinese puzzle_minigame_d0fff679:
 translate schinese puzzle_minigame_36b6be8c:
 
     # gen "(I've seen enough magic to know where this is going... I should investigate that corridor on the seventh floor.)" ("base", xpos="far_left", ypos="head")
-    gen "(我已经看到了足够多的魔法,知道这将走向何方。。。我应该调查一下七楼的走廊.)" ("base", xpos="far_left", ypos="head")
+    gen "(我已经看到了足够多的魔法,知道这将走向何方...我应该调查一下七楼的走廊.)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/minigames/puzzle.rpy:149
 translate schinese puzzle_minigame_c3f95bf5:

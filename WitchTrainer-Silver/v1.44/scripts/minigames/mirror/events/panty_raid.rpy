@@ -244,7 +244,7 @@ translate schinese panty_raid_choices_b4d8b202_3:
 translate schinese panty_raid_choices_b4adb470:
 
     # gen "... \"Sometimes I am plain and white, but I look my best when skimpy and black\"..." ("base", xpos="far_left", ypos="head")
-    gen """有时候我是平白的,但我看起来最漂亮的时候是光滑的和黑色的."" ("base", xpos="far_left", ypos="head")
+    gen "...\"有时候我是平白的,但我看起来最漂亮的时候是光滑的和黑色的.\"" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/minigames/mirror/events/panty_raid.rpy:80
 translate schinese panty_raid_choices_34983906:
@@ -1402,7 +1402,7 @@ translate schinese panty_raid_choices_f5585ae4:
 translate schinese panty_raid_choices_9b88d9cb:
 
     # her "Do those count the same as regular points?" ("annoyed")
-    her "这些点数和常规点数一样吗?" ("annoyed")
+    her "这些分数和常规分数一样吗?" ("annoyed")
 
 # game/scripts/minigames/mirror/events/panty_raid.rpy:365
 translate schinese panty_raid_choices_77143925:

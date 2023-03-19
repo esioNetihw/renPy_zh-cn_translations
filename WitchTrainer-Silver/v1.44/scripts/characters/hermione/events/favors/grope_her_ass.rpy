@@ -2062,7 +2062,7 @@ translate schinese strings:
 
     # game/scripts/characters/hermione/events/favors/grope_her_ass.rpy:144
     old "\"I'm subtracting points from you then!\""
-    new ""那我是在减去你的点数!""
+    new ""那我是在减去你的分数!""
 
     # game/scripts/characters/hermione/events/favors/grope_her_ass.rpy:196
     old "\"Dammit. Now I feel like crap...\""

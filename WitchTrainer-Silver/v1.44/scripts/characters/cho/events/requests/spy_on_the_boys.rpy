@@ -334,7 +334,7 @@ translate schinese cc_pr_spy_boys_start_39190cd0:
 translate schinese cc_pr_spy_boys_start_9e8b7aca:
 
     # cho "As you wish..." ("base", "narrow", "base", "downR")
-    cho "如你所愿。." ("base", "narrow", "base", "downR")
+    cho "如你所愿.." ("base", "narrow", "base", "downR")
 
 # game/scripts/characters/cho/events/requests/spy_on_the_boys.rpy:90
 translate schinese cc_pr_spy_boys_start_c7656cf2_1:

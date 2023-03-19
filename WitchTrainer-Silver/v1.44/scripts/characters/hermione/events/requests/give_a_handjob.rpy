@@ -316,7 +316,7 @@ translate schinese hg_pr_handjob_1ff04ebb:
 translate schinese hg_pr_handjob_36c94532:
 
     # her "{number=current_payout} house points?"
-    her "{number=current_payout}家点数?"
+    her "{number=current_payout}家分数?"
 
 # game/scripts/characters/hermione/events/requests/give_a_handjob.rpy:90
 translate schinese hg_pr_handjob_dadf2577:
@@ -1204,7 +1204,7 @@ translate schinese hg_pr_handjob_T5_E2_41ec47d5:
 translate schinese hg_pr_handjob_T5_E2_985052e5:
 
     # her "Oh, of course... I get paid with house points for this..." ("angry", "base", "base", "mid")
-    her "哦,当然...我得到学院点数的报酬." ("angry", "base", "base", "mid")
+    her "哦,当然...我得到学院分数的报酬." ("angry", "base", "base", "mid")
 
 # game/scripts/characters/hermione/events/requests/give_a_handjob.rpy:374
 translate schinese hg_pr_handjob_T5_E2_17c3d2c3:

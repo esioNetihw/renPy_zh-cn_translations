@@ -1546,7 +1546,7 @@ translate schinese give_cho_gift_fa416b4f_2:
 translate schinese give_cho_gift_3a8d0e11:
 
     # cho "It says Joanne on it..." (face="disgusted")
-    cho ""乔安说." (face="disgusted")
+    cho ""秋说." (face="disgusted")
 
 # game/scripts/characters/cho/gifts.rpy:499
 translate schinese give_cho_gift_e88b7907:
@@ -1696,29 +1696,29 @@ translate schinese give_cho_gift_ff20ca82:
 translate schinese cho_mood_857ece07:
 
     # "Cho's mood worsened slightly."
-    "乔的心情稍有恶化."
+    "秋的心情稍有恶化."
 
 # game/scripts/characters/cho/gifts.rpy:558
 translate schinese cho_mood_2d8f681b:
 
     # "Cho's mood just got a whole lot worse!"
-    "乔的心情好坏得多了!"
+    "秋的心情好坏得多了!"
 
 # game/scripts/characters/cho/gifts.rpy:561
 translate schinese cho_mood_8f261ab1:
 
     # "Cho's mood has improved slightly."
-    "乔的心情稍有好转."
+    "秋的心情稍有好转."
 
 # game/scripts/characters/cho/gifts.rpy:563
 translate schinese cho_mood_a5cdee4d:
 
     # "Cho's mood has improved significantly."
-    "乔先生的心情有了很大的改善."
+    "秋先生的心情有了很大的改善."
 
 # game/scripts/characters/cho/gifts.rpy:565
 translate schinese cho_mood_cb2c6c82:
 
     # "Cho's mood hasn't changed."
-    "乔的心情没有改变."
+    "秋的心情没有改变."
 

@@ -4,7 +4,7 @@
 translate schinese missing_label_933b9462:
 
     # "{color=#7a0000}System{/color}" "Uh-oh. Looks like you've encountered a bug. Don't worry, we will try to return you back to the office after displaying the error message, your save file won't be affected."
-    "{color=#7a0000}系统{/color}" "哦。看起来你遇到了一个错误。别担心,我们会在显示错误消息后将您送回办公室,您的保存文件不会受到影响。"
+    "{color=#7a0000}系统{/color}" "哦.看起来你遇到了一个错误.别担心,我们会在显示错误消息后将您送回办公室,您的保存文件不会受到影响."
 
 # game/scripts/utility/devtools.rpy:93
 translate schinese missing_label_d405eaa3:
@@ -16,7 +16,7 @@ translate schinese missing_label_d405eaa3:
 translate schinese missing_return_933b9462:
 
     # "{color=#7a0000}System{/color}" "Uh-oh. Looks like you've encountered a bug. Don't worry, we will try to return you back to the office after displaying the error message, your save file won't be affected."
-    "{color=#7a0000}系统{/color}" "哦。看起来你遇到了一个错误。别担心,我们会在显示错误消息后将您送回办公室,您的保存文件不会受到影响。"
+    "{color=#7a0000}系统{/color}" "哦.看起来你遇到了一个错误.别担心,我们会在显示错误消息后将您送回办公室,您的保存文件不会受到影响."
 
 # game/scripts/utility/devtools.rpy:101
 translate schinese missing_return_197f2d30:

@@ -712,7 +712,7 @@ translate schinese hg_sex_1_4bbfa7b0:
 translate schinese hg_sex_1_9ab4c78f:
 
     # her "I am only doing this for the points, [genie_name]..." ("annoyed", "happyCl", "worried", "mid", cheeks="blush")
-    her "我这样做只是为了点数,[genie_name].." ("annoyed", "happyCl", "worried", "mid", cheeks="blush")
+    her "我这样做只是为了分数,[genie_name].." ("annoyed", "happyCl", "worried", "mid", cheeks="blush")
 
 # game/scripts/characters/hermione/events/favors/lets_have_sex.rpy:405
 translate schinese hg_sex_1_5ddb6ee0:
@@ -2140,7 +2140,7 @@ translate schinese hg_sex_2_1ed86ee7:
 translate schinese hg_sex_2_6bfb1610:
 
     # gen "As you wish."
-    gen "如你所愿。."
+    gen "如你所愿.."
 
 # game/scripts/characters/hermione/events/favors/lets_have_sex.rpy:1053
 translate schinese hg_sex_2_5f40ba37:

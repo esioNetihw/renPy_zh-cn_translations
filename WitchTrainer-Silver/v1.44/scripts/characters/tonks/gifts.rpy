@@ -22,7 +22,7 @@ translate schinese give_ton_gift_511130ba:
 translate schinese give_ton_gift_bed3cc38:
 
     # ton "*Mhmm*, Chocolate!" (pupils="down", face="happy", xpos="mid", ypos="base", trans=d5)
-    ton "*嗯。*,巧克力!" (pupils="down", face="happy", xpos="mid", ypos="base", trans=d5)
+    ton "*嗯.*,巧克力!" (pupils="down", face="happy", xpos="mid", ypos="base", trans=d5)
 
 # game/scripts/characters/tonks/gifts.rpy:19
 translate schinese give_ton_gift_a1bf236b:
@@ -58,7 +58,7 @@ translate schinese give_ton_gift_749beeec:
 translate schinese give_ton_gift_a0f9402f:
 
     # ton "Okay, for nostalgias sake then..." (face="neutral")
-    ton "好吧,为了怀旧。。." (face="neutral")
+    ton "好吧,为了怀旧..." (face="neutral")
 
 # game/scripts/characters/tonks/gifts.rpy:32
 translate schinese give_ton_gift_992c1e28:
@@ -112,7 +112,7 @@ translate schinese give_ton_gift_469270e4:
 translate schinese give_ton_gift_fdbdb82e:
 
     # ton "Wont be the first time I've slipped one in the stack of magazines in my classroom." (face="horny")
-    ton "这不会是我第一次在教室的杂志堆里塞一本了。" (face="horny")
+    ton "这不会是我第一次在教室的杂志堆里塞一本了." (face="horny")
 
 # game/scripts/characters/tonks/gifts.rpy:54
 translate schinese give_ton_gift_f644f13c:
@@ -130,13 +130,13 @@ translate schinese give_ton_gift_7dd49d83:
 translate schinese give_ton_gift_6dc8c529:
 
     # ton "I already know most positions in this book already of course..." (face="happy")
-    ton "当然,我已经知道这本书中的大多数体位.。。" (face="happy")
+    ton "当然,我已经知道这本书中的大多数体位..." (face="happy")
 
 # game/scripts/characters/tonks/gifts.rpy:61
 translate schinese give_ton_gift_cc71efab:
 
     # ton "Although..." (face="horny")
-    ton "尽管。。." (face="horny")
+    ton "尽管..." (face="horny")
 
 # game/scripts/characters/tonks/gifts.rpy:62
 translate schinese give_ton_gift_f20521c8:
@@ -172,13 +172,13 @@ translate schinese give_ton_gift_063b0442:
 translate schinese give_ton_gift_923c1ea6:
 
     # ton "If it were up to me these would be part of the school uniform..." (face="happy")
-    ton "如果是我决定的,这将是校服的一部分。。." (face="happy")
+    ton "如果是我决定的,这将是校服的一部分..." (face="happy")
 
 # game/scripts/characters/tonks/gifts.rpy:79
 translate schinese give_ton_gift_10cf8881:
 
     # ton "Nice, I have a pair just like these..." (mouth="open", pupils="down", face="happy", xpos="mid", ypos="base", trans=d5)
-    ton "很好,我有一双像这样的。。." (mouth="open", pupils="down", face="happy", xpos="mid", ypos="base", trans=d5)
+    ton "很好,我有一双像这样的..." (mouth="open", pupils="down", face="happy", xpos="mid", ypos="base", trans=d5)
 
 # game/scripts/characters/tonks/gifts.rpy:80
 translate schinese give_ton_gift_297b39a3:
@@ -196,7 +196,7 @@ translate schinese give_ton_gift_6d881e56:
 translate schinese give_ton_gift_3594fd3d:
 
     # ton "Safe sex is important..." (face="neutral")
-    ton "安全性行为很重要。.." (face="neutral")
+    ton "安全性行为很重要..." (face="neutral")
 
 # game/scripts/characters/tonks/gifts.rpy:88
 translate schinese give_ton_gift_b107fd4b:
@@ -238,7 +238,7 @@ translate schinese give_ton_gift_b91601cc:
 translate schinese give_ton_gift_e6c3870a:
 
     # ton "Seems like it might be enough to cover the whole body..." (mouth="open", face="happy")
-    ton "看起来已经足以覆盖整个身体了。。." (mouth="open", face="happy")
+    ton "看起来已经足以覆盖整个身体了..." (mouth="open", face="happy")
 
 # game/scripts/characters/tonks/gifts.rpy:103
 translate schinese give_ton_gift_4783dac6_2:
@@ -286,7 +286,7 @@ translate schinese give_ton_gift_cbfd9486:
 translate schinese give_ton_gift_4c0d5029:
 
     # ton "This will be a perfect addition to my collection..." (face="angry")
-    ton "这将是我收藏作品的完美补充。。." (face="angry")
+    ton "这将是我收藏作品的完美补充..." (face="angry")
 
 # game/scripts/characters/tonks/gifts.rpy:123
 translate schinese give_ton_gift_f644f13c_2:
@@ -298,7 +298,7 @@ translate schinese give_ton_gift_f644f13c_2:
 translate schinese give_ton_gift_b7c0b49f:
 
     # ton "I don't remember the brooms looking like this when I took flying lessons..." (face="angry", xpos="mid", ypos="base", trans=d5)
-    ton "我不记得当我上飞行课的时候,扫把看起来像这样。。." (face="angry", xpos="mid", ypos="base", trans=d5)
+    ton "我不记得当我上飞行课的时候,扫把看起来像这样..." (face="angry", xpos="mid", ypos="base", trans=d5)
 
 # game/scripts/characters/tonks/gifts.rpy:129
 translate schinese give_ton_gift_413855da:
@@ -340,13 +340,13 @@ translate schinese give_ton_gift_d5d81ae8:
 translate schinese give_ton_gift_195d2471:
 
     # ton "It's a bit short but I'll take it..." (face="happy")
-    ton "它有点短,但我收下了。。." (face="happy")
+    ton "它有点短,但我收下了..." (face="happy")
 
 # game/scripts/characters/tonks/gifts.rpy:144
 translate schinese give_ton_gift_494e0748:
 
     # ton "Thanks..." (face="horny")
-    ton "谢谢。." (face="horny")
+    ton "谢谢.." (face="horny")
 
 # game/scripts/characters/tonks/gifts.rpy:149
 translate schinese give_ton_gift_62dc11f3:

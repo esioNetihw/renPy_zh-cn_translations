@@ -1432,7 +1432,7 @@ translate schinese ball_ending_E2_2ea6e317:
 translate schinese ball_ending_E2_cec7e805:
 
     # her "*Slurp*! *Gulp*! *Slurp*!"
-    her "*咕噜**吞咽*咕噜*!"
+    her "*咕噜**咕咚*咕噜*!"
 
 # game/scripts/events/ending.rpy:568
 translate schinese ball_ending_E2_ae017e1a:
@@ -1456,7 +1456,7 @@ translate schinese ball_ending_E2_041d5d66:
 translate schinese ball_ending_E2_cec7e805_1:
 
     # her "*Slurp*! *Gulp*! *Slurp*!"
-    her "*咕噜**吞咽**咕噜*!"
+    her "*咕噜**咕咚**咕噜*!"
 
 # game/scripts/events/ending.rpy:574
 translate schinese ball_ending_E2_eb4f7370:
@@ -1468,13 +1468,13 @@ translate schinese ball_ending_E2_eb4f7370:
 translate schinese ball_ending_E2_018ae972:
 
     # her "*Gulp*! *Slurp*! *Slurp*!"
-    her "*吞咽*!*咕噜*!*咕噜*!"
+    her "*咕咚*!*咕噜*!*咕噜*!"
 
 # game/scripts/events/ending.rpy:576
 translate schinese ball_ending_E2_68239b16:
 
     # her "*Gulp*--"
-    her "*吞咽*--"
+    her "*咕咚*--"
 
 # game/scripts/events/ending.rpy:578
 translate schinese ball_ending_E2_041d5d66_1:
@@ -1546,7 +1546,7 @@ translate schinese ball_ending_E2_1367a27a:
 translate schinese ball_ending_E2_f5a1e4ca:
 
     # her "*Gulp*! *Slurp*! *Gulp*!"
-    her "*吞咽*!*咕噜*!*吞咽*!"
+    her "*咕咚*!*咕噜*!*咕咚*!"
 
 # game/scripts/events/ending.rpy:594
 translate schinese ball_ending_E2_fe96c839:
@@ -1876,7 +1876,7 @@ translate schinese ball_ending_E2_a193d0c9:
 translate schinese ball_ending_E2_914364ce:
 
     # her "*Slurp*! *Gulp*! *Gulp*!"
-    her "*咕噜**吞咽**吞咽*!"
+    her "*咕噜**咕咚**咕咚*!"
 
 # game/scripts/events/ending.rpy:678
 translate schinese ball_ending_E2_ae017e1a_5:
@@ -1966,7 +1966,7 @@ translate schinese ball_ending_E2_3e48a3e6:
 translate schinese ball_ending_E2_914364ce_1:
 
     # her "*Slurp*! *Gulp*! *Gulp*!"
-    her "*咕噜**吞咽**吞咽*!"
+    her "*咕噜**咕咚**咕咚*!"
 
 # game/scripts/events/ending.rpy:700
 translate schinese ball_ending_E2_ae017e1a_7:
@@ -2020,7 +2020,7 @@ translate schinese ball_ending_E2_89f36734:
 translate schinese ball_ending_E2_689c6fba:
 
     # her "*Slurp*! *Gulp*! *Slurp*! *Slurp*! *Slurp*!"
-    her "*咕噜**吞咽**咕噜**咕噜**咕噜*!"
+    her "*咕噜**咕咚**咕噜**咕噜**咕噜*!"
 
 # game/scripts/events/ending.rpy:714
 translate schinese ball_ending_E2_ae017e1a_8:
@@ -2038,7 +2038,7 @@ translate schinese ball_ending_E2_d00df2f4:
 translate schinese ball_ending_E2_0ee2acb1_2:
 
     # her "*Slurp*! *Slurp*! *Gulp*!"
-    her "*咕噜**咕噜**吞咽*!"
+    her "*咕噜**咕噜**咕咚*!"
 
 # game/scripts/events/ending.rpy:719
 translate schinese ball_ending_E2_0f941ae0:
@@ -2056,7 +2056,7 @@ translate schinese ball_ending_E2_64338375_5:
 translate schinese ball_ending_E2_0ee2acb1_3:
 
     # her "*Slurp*! *Slurp*! *Gulp*!"
-    her "*咕噜**咕噜**吞咽*!"
+    her "*咕噜**咕噜**咕咚*!"
 
 # game/scripts/events/ending.rpy:722
 translate schinese ball_ending_E2_33bb6f81:
@@ -2092,7 +2092,7 @@ translate schinese ball_ending_E2_e4d45dd7:
 translate schinese ball_ending_E2_d5fa1a22:
 
     # her "*Slurp*! *Slurp*! *Gulp*! *Slurp*! *Slurp*!"
-    her "*咕噜**咕噜*吞咽**咕噜**咕噜*!"
+    her "*咕噜**咕噜*咕咚**咕噜**咕噜*!"
 
 # game/scripts/events/ending.rpy:733
 translate schinese ball_ending_E2_14e8df27:
@@ -2116,13 +2116,13 @@ translate schinese ball_ending_E2_4e4027d7:
 translate schinese ball_ending_E2_0ee2acb1_4:
 
     # her "*Slurp*! *Slurp*! *Gulp*!"
-    her "*咕噜**砸砸**吞咽*!"
+    her "*咕噜**砸砸**咕咚*!"
 
 # game/scripts/events/ending.rpy:738
 translate schinese ball_ending_E2_68239b16_1:
 
     # her "*Gulp*--"
-    her "*吞咽*-"
+    her "*咕咚*-"
 
 # game/scripts/events/ending.rpy:740
 translate schinese ball_ending_E2_24781258:
@@ -2164,7 +2164,7 @@ translate schinese ball_ending_E2_0feda2f5:
 translate schinese ball_ending_E2_0ee2acb1_5:
 
     # her "*Slurp*! *Slurp*! *Gulp*!"
-    her "*砸砸**咕噜**吞咽*!"
+    her "*砸砸**咕噜**咕咚*!"
 
 # game/scripts/events/ending.rpy:751
 translate schinese ball_ending_E2_1d24cf31:
@@ -2524,7 +2524,7 @@ translate schinese ball_ending_E2_4e403f41:
 translate schinese ball_ending_E2_3aba4576_1:
 
     # her "*gobble-gobble-gobble*!"
-    her "*咯咯-吞咽-咯咯*!"
+    her "*咯咯-咕咚-咯咯*!"
 
 # game/scripts/events/ending.rpy:872
 translate schinese ball_ending_E2_1c8b9f5c:
@@ -2536,7 +2536,7 @@ translate schinese ball_ending_E2_1c8b9f5c:
 translate schinese ball_ending_E2_d291b5ec:
 
     # her "{size=+5}*gobble-gobble-gobble*!!!{/size}"
-    her "{size=+5}*咯咯-吞咽-咯咯*!{/size}"
+    her "{size=+5}*咯咯-咕咚-咯咯*!{/size}"
 
 # game/scripts/events/ending.rpy:874
 translate schinese ball_ending_E2_7d40a38b:
@@ -2572,7 +2572,7 @@ translate schinese ball_ending_E2_061de77e:
 translate schinese ball_ending_E2_d66551f8:
 
     # her "*Lick*! *Lick*! *gobble*! *Lick*!"
-    her "*舔*!*舔*!*吞咽*!*舔*!"
+    her "*舔*!*舔*!*咕咚*!*舔*!"
 
 # game/scripts/events/ending.rpy:881
 translate schinese ball_ending_E2_b087fe2c:
@@ -2656,7 +2656,7 @@ translate schinese ball_ending_E2_711e1fa3:
 translate schinese ball_ending_E2_3aba4576_3:
 
     # her "*gobble-gobble-gobble*!"
-    her "*咯咯-吞咽-咯咯*!"
+    her "*咯咯-咕咚-咯咯*!"
 
 # game/scripts/events/ending.rpy:917
 translate schinese ball_ending_E2_a071de04:
@@ -2668,7 +2668,7 @@ translate schinese ball_ending_E2_a071de04:
 translate schinese ball_ending_E2_3aba4576_4:
 
     # her "*gobble-gobble-gobble*!"
-    her "*咯咯-吞咽-咯咯*!"
+    her "*咯咯-咕咚-咯咯*!"
 
 # game/scripts/events/ending.rpy:919
 translate schinese ball_ending_E2_aa536a99:
@@ -2680,7 +2680,7 @@ translate schinese ball_ending_E2_aa536a99:
 translate schinese ball_ending_E2_04711322:
 
     # her "*gobble*! *gobble*! *gobble*!"
-    her "*吞咽*!*咯咯*!*吞咽*!"
+    her "*咕咚*!*咯咯*!*咕咚*!"
 
 # game/scripts/events/ending.rpy:921
 translate schinese ball_ending_E2_32823b30:
@@ -2692,7 +2692,7 @@ translate schinese ball_ending_E2_32823b30:
 translate schinese ball_ending_E2_38e6adc1:
 
     # her "*gobble*! *Lick*! *Lick*!"
-    her "*吞咽*!*舔*!*舔*!"
+    her "*咕咚*!*舔*!*舔*!"
 
 # game/scripts/events/ending.rpy:924
 translate schinese ball_ending_E2_7e6267a8:
@@ -2722,7 +2722,7 @@ translate schinese ball_ending_E2_33359693:
 translate schinese ball_ending_E2_4914cc51:
 
     # her "*gobble*! *gobble*! *Lick*... *gobble*!"
-    her "*咯咯*!*吞咽*!*舔*.*吞咽*!"
+    her "*咯咯*!*咕咚*!*舔*.*咕咚*!"
 
 # game/scripts/events/ending.rpy:936
 translate schinese ball_ending_E2_4447a2a1:
@@ -2734,7 +2734,7 @@ translate schinese ball_ending_E2_4447a2a1:
 translate schinese ball_ending_E2_4914cc51_1:
 
     # her "*gobble*! *gobble*! *Lick*... *gobble*!"
-    her "*吞咽*!*吞咽*!*舔*.*吞咽*!"
+    her "*咕咚*!*咕咚*!*舔*.*咕咚*!"
 
 # game/scripts/events/ending.rpy:939
 translate schinese ball_ending_E2_61be784e:
@@ -2746,7 +2746,7 @@ translate schinese ball_ending_E2_61be784e:
 translate schinese ball_ending_E2_4914cc51_2:
 
     # her "*gobble*! *gobble*! *Lick*... *gobble*!"
-    her "*吞咽*!*狼吞虎咽*!*舔*.*吞咽*!"
+    her "*咕咚*!*狼吞虎咽*!*舔*.*咕咚*!"
 
 # game/scripts/events/ending.rpy:941
 translate schinese ball_ending_E2_3fbf033d:
@@ -3070,7 +3070,7 @@ translate schinese ball_ending_E2_a6529f59:
 translate schinese ball_ending_E2_b88d1ea8:
 
     # her "{size=+9}*GULP-GULP-GULP-GULP-GULP*!!!{/size}"
-    her "{size=+9}*吞咽-吞咽-吞咽-吞咽*!{/size}"
+    her "{size=+9}*咕咚-咕咚-咕咚-咕咚*!{/size}"
 
 # game/scripts/events/ending.rpy:1030
 translate schinese ball_ending_E2_3cfef990:
@@ -3094,7 +3094,7 @@ translate schinese ball_ending_E2_02a508a6:
 translate schinese ball_ending_E2_e8feaa07:
 
     # her "{size=-4}*Gulp*! *Gulp*! *Gulp...*{/size}"
-    her "{size=-4}*吞咽*!*吞咽*!*吞咽.*{/size}"
+    her "{size=-4}*咕咚*!*咕咚*!*咕咚.*{/size}"
 
 # game/scripts/events/ending.rpy:1036
 translate schinese ball_ending_E2_424d862a:
@@ -3178,31 +3178,31 @@ translate schinese ball_ending_E2_c409f448:
 translate schinese ball_ending_E2_94ff8113:
 
     # sna "Well, go ahead then..." ("snape_10")
-    sna "好吧,那就去吧.。。" ("snape_10")
+    sna "好吧,那就去吧..." ("snape_10")
 
 # game/scripts/events/ending.rpy:1063
 translate schinese ball_ending_E2_75133165:
 
     # sna "Here is the tiara..."
-    sna "这里是皇冠。。."
+    sna "这里是皇冠..."
 
 # game/scripts/events/ending.rpy:1065
 translate schinese ball_ending_E2_5144c3e3:
 
     # her "Professor..." ("upset", "base", "base", "mid")
-    her "教授.。。" ("upset", "base", "base", "mid")
+    her "教授..." ("upset", "base", "base", "mid")
 
 # game/scripts/events/ending.rpy:1067
 translate schinese ball_ending_E2_a25e5f7f:
 
     # sna "And the stage is yours..."
-    sna "舞台是你的。。."
+    sna "舞台是你的..."
 
 # game/scripts/events/ending.rpy:1068
 translate schinese ball_ending_E2_dd33017d:
 
     # her "Thank you, professor." ("base", "closed", "base", "mid")
-    her "谢谢你,教授.。。" ("base", "closed", "base", "mid")
+    her "谢谢你,教授..." ("base", "closed", "base", "mid")
 
 # game/scripts/events/ending.rpy:1077
 translate schinese ball_ending_E2_8abd1551:
@@ -3274,13 +3274,13 @@ translate schinese ball_ending_E2_b90988c1:
 translate schinese ball_ending_E2_8e399325:
 
     # her "I shall not go as far as to say that I do not deserve this honour..."
-    her "我不会说我不配得到这个荣誉。。。"
+    her "我不会说我不配得到这个荣誉..."
 
 # game/scripts/events/ending.rpy:1102
 translate schinese ball_ending_E2_cf50ae03:
 
     # her "Because I think I do..."
-    her "因为我想是的.。。"
+    her "因为我想是的..."
 
 # game/scripts/events/ending.rpy:1104
 translate schinese ball_ending_E2_a5653a7f:
@@ -3304,7 +3304,7 @@ translate schinese ball_ending_E2_9b21cc4c:
 translate schinese ball_ending_E2_e68879f5:
 
     # mal2 "{size=-4}Sweat...?{/size}"
-    mal2 "{size=-4}汗水。。.?{/size}"
+    mal2 "{size=-4}汗水...?{/size}"
 
 # game/scripts/events/ending.rpy:1110
 translate schinese ball_ending_E2_bb483c04:
@@ -3334,7 +3334,7 @@ translate schinese ball_ending_E2_0119f3a3:
 translate schinese ball_ending_E2_02d25589:
 
     # her "Hogwarts truly did become a second home for all of us..."
-    her "霍格沃茨确实成为我们所有人的第二个家园。.."
+    her "霍格沃茨确实成为我们所有人的第二个家园..."
 
 # game/scripts/events/ending.rpy:1123
 translate schinese ball_ending_E2_0fbe25d7:
@@ -4240,7 +4240,7 @@ translate schinese ball_ending_E2_fc9d548a:
 translate schinese ball_ending_E2_cd0ca1c4:
 
     # sly1 "Getting fucked by... Oh..."
-    sly1 "被人操..。哦。。。"
+    sly1 "被人操...哦..."
 
 # game/scripts/events/ending.rpy:1459
 translate schinese ball_ending_E2_4ff55258:
@@ -4546,7 +4546,7 @@ translate schinese ball_ending_E2_5eab2b55:
 translate schinese ball_ending_E2_bea25c5f:
 
     # gen "Imagine that I'm not even here..." ("base", xpos="far_left", ypos="head")
-    gen "想象一下。我甚至不在这里..." ("base", xpos="far_left", ypos="head")
+    gen "想象一下.我甚至不在这里..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/events/ending.rpy:1557
 translate schinese ball_ending_E2_730bac55:
@@ -4570,7 +4570,7 @@ translate schinese ball_ending_E2_7f630c60:
 translate schinese ball_ending_E2_ac96903f:
 
     # her "{size=+5}*Gulp*!{/size}"
-    her "{size=+5}*吞咽*!{/size}"
+    her "{size=+5}*咕咚*!{/size}"
 
 # game/scripts/events/ending.rpy:1572
 translate schinese ball_ending_E2_10eb4e4b:
@@ -4606,7 +4606,7 @@ translate schinese ball_ending_E2_438192ce:
 translate schinese ball_ending_E2_ac96903f_1:
 
     # her "{size=+5}*Gulp*!{/size}"
-    her "{size=+5}*吞咽*!{/size}"
+    her "{size=+5}*咕咚*!{/size}"
 
 # game/scripts/events/ending.rpy:1591
 translate schinese ball_ending_E2_8bd8b17f:
@@ -4618,7 +4618,7 @@ translate schinese ball_ending_E2_8bd8b17f:
 translate schinese ball_ending_E2_f8060a99:
 
     # her "That's because I didn't expect it... It's just a reflex!"
-    her "那是因为我没想到。。。这只是一种条件反射!"
+    her "那是因为我没想到...这只是一种条件反射!"
 
 # game/scripts/events/ending.rpy:1594
 translate schinese ball_ending_E2_1203a51b:
@@ -4666,7 +4666,7 @@ translate schinese ball_ending_E2_321566da:
 translate schinese ball_ending_E2_c618f4db:
 
     # her "*Gulp*!"
-    her "*吞咽*!"
+    her "*咕咚*!"
 
 # game/scripts/events/ending.rpy:1611
 translate schinese ball_ending_E2_b3f9f027:
@@ -4738,7 +4738,7 @@ translate schinese ball_ending_E2_713d6948:
 translate schinese ball_ending_E2_12c17d12:
 
     # her "{size=+7}*gobble*?!?{/size}"
-    her "{size=+7}*吞咽*??{/size}"
+    her "{size=+7}*咕咚*??{/size}"
 
 # game/scripts/events/ending.rpy:1639
 translate schinese ball_ending_E2_cd31d1e0:
@@ -4750,13 +4750,13 @@ translate schinese ball_ending_E2_cd31d1e0:
 translate schinese ball_ending_E2_9848e47e:
 
     # her "{size=+5}*Gulp-gulp-gulp-gulp*!{/size}"
-    her "{size=+5}*吞咽-咕噜-吞咽-咕噜*{/size}"
+    her "{size=+5}*咕咚-咕噜-咕咚-咕噜*{/size}"
 
 # game/scripts/events/ending.rpy:1646
 translate schinese ball_ending_E2_925fe9d5:
 
     # her "*{size=+3}Gulp-gulp-gulp*...{/size}"
-    her "*{size=+3}咕噜-吞咽-咕噜*.{/size}"
+    her "*{size=+3}咕噜-咕咚-咕噜*.{/size}"
 
 # game/scripts/events/ending.rpy:1648
 translate schinese ball_ending_E2_234c9eff:
@@ -4852,7 +4852,7 @@ translate schinese ball_ending_E2_72b40a74:
 translate schinese ball_ending_E2_b44f5085:
 
     # her "*Gulp*! Gulp!* *Slurp*!"
-    her "*咕噜*!吞咽!**啧啧*!"
+    her "*咕噜*!咕咚!**啧啧*!"
 
 # game/scripts/events/ending.rpy:1680
 translate schinese ball_ending_E2_e123005a:
@@ -4876,7 +4876,7 @@ translate schinese ball_ending_E2_42c2ed6d:
 translate schinese ball_ending_E2_1d2a794d:
 
     # her "*Slurp-Gulp-Slurp-Slurp-gulp*!!!"
-    her "*啧啧-吞咽-啧啧-咕噜-啧啧*!"
+    her "*啧啧-咕咚-啧啧-咕噜-啧啧*!"
 
 # game/scripts/events/ending.rpy:1684
 translate schinese ball_ending_E2_20644255:
@@ -4918,7 +4918,7 @@ translate schinese ball_ending_E2_ef988c64:
 translate schinese ball_ending_E2_12c17d12_1:
 
     # her "{size=+7}*gobble*?!?{/size}"
-    her "{size=+7}*吞咽*??{/size}"
+    her "{size=+7}*咕咚*??{/size}"
 
 # game/scripts/events/ending.rpy:1703
 translate schinese ball_ending_E2_9848e47e_1:
@@ -4996,7 +4996,7 @@ translate schinese ball_ending_E2_efbf0ed7:
 translate schinese ball_ending_E2_ac96903f_2:
 
     # her "{size=+5}*Gulp*!{/size}"
-    her "{size=+5}*吞咽*!{/size}"
+    her "{size=+5}*咕咚*!{/size}"
 
 # game/scripts/events/ending.rpy:1734
 translate schinese ball_ending_E2_ae991a13:
@@ -5224,31 +5224,31 @@ translate schinese ball_ending_E2_cd31d1e0_1:
 translate schinese ball_ending_E2_9dafb684:
 
     # her "{size=+5}*Gulp-gulp-gulp-gulp!*{/size}"
-    her "{size=+5}*吞咽-咕噜-吞咽-咕噜!*{/size}"
+    her "{size=+5}*咕咚-咕噜-咕咚-咕噜!*{/size}"
 
 # game/scripts/events/ending.rpy:1808
 translate schinese ball_ending_E2_b3ecfa48:
 
     # her "*{size=+3}Gulp-gulp-gulp...*{/size}"
-    her "*{size=+3}咕噜-吞咽-咕噜.*{/size}"
+    her "*{size=+3}咕噜-咕咚-咕噜.*{/size}"
 
 # game/scripts/events/ending.rpy:1810
 translate schinese ball_ending_E2_234c9eff_1:
 
     # her "*Gulp-gulp-gulp*..."
-    her "*咕噜-吞咽-咕噜*."
+    her "*咕噜-咕咚-咕噜*."
 
 # game/scripts/events/ending.rpy:1812
 translate schinese ball_ending_E2_66103535_1:
 
     # her "{size=-3}*Gulp* *Gulp*{/size}"
-    her "{size=-3}*吞咽**吞咽*{/size}"
+    her "{size=-3}*咕咚**咕咚*{/size}"
 
 # game/scripts/events/ending.rpy:1813
 translate schinese ball_ending_E2_91cad4a0_1:
 
     # her "{size=-5}*Gulp*..................{/size}"
-    her "{size=-5}*吞咽*#...{/size}"
+    her "{size=-5}*咕咚*#...{/size}"
 
 # game/scripts/events/ending.rpy:1814
 translate schinese ball_ending_E2_01da1913_1:
@@ -5314,7 +5314,7 @@ translate schinese ball_ending_E2_5ae41dc4:
 translate schinese ball_ending_E2_020ef44e:
 
     # gen "Yes, just plaster her face with cum. She loves that shit!" ("base", xpos="far_left", ypos="head")
-    gen "是的,只是用精液涂抹她的脸。她喜欢那个玩意!" ("base", xpos="far_left", ypos="head")
+    gen "是的,只是用精液涂抹她的脸.她喜欢那个玩意!" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/events/ending.rpy:1827
 translate schinese ball_ending_E2_1e9cb92b:
@@ -5464,7 +5464,7 @@ translate schinese ball_ending_E2_e2fd495b_1:
 translate schinese ball_ending_E2_0b084d60:
 
     # her "{size=+8}*Gulp*!{/size}"
-    her "{size=+8}*吞咽*!{/size}"
+    her "{size=+8}*咕咚*!{/size}"
 
 # game/scripts/events/ending.rpy:1918
 translate schinese ball_ending_E2_e53a65d9:
@@ -5866,7 +5866,7 @@ translate schinese ball_ending_E2_3e90048b:
 translate schinese ball_ending_E2_e5326b12:
 
     # her "{size=+5}*GULP*!!!{/size}"
-    her "{size=+5}*吞咽*!!{/size}"
+    her "{size=+5}*咕咚*!!{/size}"
 
 # game/scripts/events/ending.rpy:2050
 translate schinese ball_ending_E2_06dd3b79:
@@ -6820,7 +6820,7 @@ translate schinese ball_ending_E2_fa33b08e:
 translate schinese ball_ending_E2_30346cec:
 
     # her "*Ah*... *Blah-blhah*... *ah*... *bla-ah*..."
-    her "*啊**呸啊-啪嗒*...*啊*。。.*吧啦-啊*.."
+    her "*啊**呸啊-啪嗒*...*啊*...*吧啦-啊*.."
 
 # game/scripts/events/ending.rpy:2380
 translate schinese ball_ending_E2_fb5baa86:
@@ -7000,7 +7000,7 @@ translate schinese ball_ending_E2_547a7836:
 translate schinese ball_ending_E2_9234d80e:
 
     # gen "Fine! Have it your way. I am switching back to your pussy..." ("angry", xpos="far_left", ypos="head")
-    gen "好的,随心所欲。我要换回到你的小穴." ("angry", xpos="far_left", ypos="head")
+    gen "好的,随心所欲.我要换回到你的小穴." ("angry", xpos="far_left", ypos="head")
 
 # game/scripts/events/ending.rpy:2445
 translate schinese ball_ending_E2_468d4e45:
@@ -7990,7 +7990,7 @@ translate schinese test_final_scene_0f316894:
 translate schinese test_final_scene_5c98fdc3:
 
     # her "I am willing to do anything to get those points, sir!"
-    her "先生,我愿意做任何事情来取得这些点数!"
+    her "先生,我愿意做任何事情来取得这些分数!"
 
 # game/scripts/events/ending.rpy:2873
 translate schinese test_final_scene_68551f26:

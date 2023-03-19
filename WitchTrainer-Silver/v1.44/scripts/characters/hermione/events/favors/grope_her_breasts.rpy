@@ -46,7 +46,7 @@ translate schinese hg_pf_grope_breasts_T2_e0ea406b:
 translate schinese hg_pf_grope_breasts_T2_0ea902df:
 
     # gen "All I want to do is squeeze your tits a little, then you will get your points!" ("base", xpos="far_left", ypos="head")
-    gen "我所要做的就是挤压一下你的轮胎,然后你就会得到你的点数!" ("base", xpos="far_left", ypos="head")
+    gen "我所要做的就是挤压一下你的轮胎,然后你就会得到你的分数!" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/grope_her_breasts.rpy:29
 translate schinese hg_pf_grope_breasts_T2_5dd27106:
@@ -148,7 +148,7 @@ translate schinese hg_pf_grope_breasts_T2_99000b9d:
 translate schinese hg_pf_grope_breasts_T2_71ff8b69:
 
     # gen "The points, [hermione_name]... You need the points. Concentrate on that." ("base", xpos="far_left", ypos="head")
-    gen "点数,[hermione_name],你需要点数,集中注意力." ("base", xpos="far_left", ypos="head")
+    gen "分数,[hermione_name],你需要分数,集中注意力." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/grope_her_breasts.rpy:62
 translate schinese hg_pf_grope_breasts_T2_81d8a096:

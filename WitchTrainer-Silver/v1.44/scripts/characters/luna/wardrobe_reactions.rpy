@@ -496,7 +496,7 @@ translate schinese lun_reaction_touch_fail_78bc7988:
 translate schinese lun_reaction_touch_fail_9edc4631:
 
     # lun "...as you wish [lun_genie_name]."
-    lun "...如你所愿。."
+    lun "...如你所愿.."
 
 # game/scripts/characters/luna/wardrobe_reactions.rpy:201
 translate schinese lun_reaction_touch_fail_03c8e876:

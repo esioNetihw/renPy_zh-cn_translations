@@ -574,7 +574,7 @@ translate schinese hg_collars_55d029ce:
 translate schinese hg_collars_f6181312:
 
     # gen "I'm sure it'll call you a hero for the amount of points you've earned for your house." ("base", xpos="far_left", ypos="head")
-    gen "我相信你的学院赚到的点数一定会叫你英雄." ("base", xpos="far_left", ypos="head")
+    gen "我相信你的学院赚到的分数一定会叫你英雄." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/items/collars.rpy:173
 translate schinese hg_collars_6c5f6899:
@@ -2134,7 +2134,7 @@ translate schinese slave_scene_24529123:
 translate schinese slave_scene_f7646cd6:
 
     # gen "When was the last time you actually cared about acquiring those silly points of yours?" ("base", xpos="far_left", ypos="head")
-    gen "你上次真正在乎获得你那些愚蠢的点数是什么时候?" ("base", xpos="far_left", ypos="head")
+    gen "你上次真正在乎获得你那些愚蠢的分数是什么时候?" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/items/collars.rpy:714
 translate schinese slave_scene_5c7de0f7:
@@ -2674,7 +2674,7 @@ translate schinese slave_scene_5dba3f70:
 translate schinese slave_scene_a0a27c6e:
 
     # gen "--If You could get house points for this? *Ha-ha-ha*, of course not...{w=0.5} Slaves aren't getting paid, that's what makes them slaves." ("base", xpos="far_left", ypos="head")
-    gen "--如果你能得到这个学院的点数?*哈-哈*,当然不是...{w=0.5}奴隶没有得到报酬,这就是为什么他们成为奴隶的原因." ("base", xpos="far_left", ypos="head")
+    gen "--如果你能得到这个学院的分数?*哈-哈*,当然不是...{w=0.5}奴隶没有得到报酬,这就是为什么他们成为奴隶的原因." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/items/collars.rpy:919
 translate schinese slave_scene_7a7ad9a0:
@@ -3010,7 +3010,7 @@ translate schinese flasher_scene_697ea595:
 translate schinese flasher_scene_45d6cfbe:
 
     # her "I...{w=0.4} I am just doing it for the points, [genie_name]!" ("angry", "happyCl", "worried", "R", cheeks="blush")
-    her "我...{w=0.4}我只是为了点数,[genie_name]!" ("angry", "happyCl", "worried", "R", cheeks="blush")
+    her "我...{w=0.4}我只是为了分数,[genie_name]!" ("angry", "happyCl", "worried", "R", cheeks="blush")
 
 # game/scripts/characters/hermione/events/items/collars.rpy:1030
 translate schinese flasher_scene_9348040f:

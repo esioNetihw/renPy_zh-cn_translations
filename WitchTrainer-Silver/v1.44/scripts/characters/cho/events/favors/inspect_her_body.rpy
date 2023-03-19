@@ -970,13 +970,13 @@ translate schinese cc_pf_strip_T2_intro_E1_aa60da96:
 translate schinese cc_pf_strip_T2_intro_E1_c8e19000:
 
     # cho "\"City Hunter?\"{w=0.3} Can't say that I have." ("soft", "base", "raised", "mid")
-    cho """城市猎人?"{w=0.3}不能说我有." ("soft", "base", "raised", "mid")
+    cho "\"城市猎人?\""{w=0.3}不能说我有." ("soft", "base", "raised", "mid")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:257
 translate schinese cc_pf_strip_T2_intro_E1_786dde78:
 
     # gen "What about \"Police Story\"?" ("base", xpos="far_left", ypos="head")
-    gen ""警察故事"怎么样?" ("base", xpos="far_left", ypos="head")
+    gen "\"警察故事\"怎么样?" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:258
 translate schinese cc_pf_strip_T2_intro_E1_105304ef:
@@ -1396,7 +1396,7 @@ translate schinese cc_pf_strip_T2_intro_E2_1c0929ef:
 translate schinese cc_pf_strip_T2_intro_E2_b49e69f7:
 
     # cho "(What were you thinking, Cho?!)" ("angry", "narrow", "worried", "down", cheeks="blush")
-    cho "(你在想什么,乔?!)" ("angry", "narrow", "worried", "down", cheeks="blush")
+    cho "(你在想什么,秋?!)" ("angry", "narrow", "worried", "down", cheeks="blush")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:410
 translate schinese cc_pf_strip_T2_intro_E2_80d082ce:
@@ -1528,7 +1528,7 @@ translate schinese cc_pf_strip_T2_intro_E2_fec4a08a:
 translate schinese cc_pf_strip_T2_intro_E2_6a410fc3:
 
     # cho "(Come on Cho, you can do it!!!)" ("horny", "happyCl", "worried", "mid", cheeks="blush")
-    cho "(来吧,乔,你能做到的!!)" ("horny", "happyCl", "worried", "mid", cheeks="blush")
+    cho "(来吧,秋,你能做到的!!)" ("horny", "happyCl", "worried", "mid", cheeks="blush")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:437
 translate schinese cc_pf_strip_T2_intro_E2_32d3f738:
@@ -2788,7 +2788,7 @@ translate schinese cc_pf_strip_T2_intro_E3_57fc3e8d:
 translate schinese cc_pf_strip_T2_intro_E3_3d7633a7:
 
     # cho "If I could get a hold of something to blackmail her with, she'd never dare to report to the ministry!" ("clench", "narrow", "angry", "R")
-    cho "如果我能拿一些东西来勒索她,她就不敢向牧师报告了!" ("clench", "narrow", "angry", "R")
+    cho "如果我能拿一些东西来勒索她,她就不敢向魔法部报告了!" ("clench", "narrow", "angry", "R")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:810
 translate schinese cc_pf_strip_T2_intro_E3_4700b9a7:
@@ -2944,7 +2944,7 @@ translate schinese cc_pf_strip_T2_intro_E3_1d85d7c8:
 translate schinese cc_pf_strip_T2_intro_E3_5883d859:
 
     # ">You watch as Cho slowly climbs onto your desk..."
-    "你看着乔慢慢地爬上你的桌子."
+    "你看着秋慢慢地爬上你的桌子."
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:877
 translate schinese cc_pf_strip_T2_intro_E3_045edec4:
@@ -3376,7 +3376,7 @@ translate schinese cc_pf_strip_T2_intro_E3_6ef8efd8:
 translate schinese cc_pf_strip_T2_intro_E3_cabadfe0:
 
     # cho "Maybe even the ministry?" ("smile", "narrow", "angry", "L")
-    cho "也许连牧师都有?" ("smile", "narrow", "angry", "L")
+    cho "也许连魔法部都有?" ("smile", "narrow", "angry", "L")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1035
 translate schinese cc_pf_strip_T2_intro_E3_9318e4eb:
@@ -3790,7 +3790,7 @@ translate schinese cc_pf_strip_T2_hermione_91900594:
 translate schinese cc_pf_strip_T2_hermione_10e05f45:
 
     # gen "And Cho's thighs are probably the most impressive ones I've seen in the last hund-- decade or more!" ("angry", xpos="far_left", ypos="head")
-    gen "乔大腿可能是我在过去十年或更长时间里看到的最令人印象深刻的大腿!" ("angry", xpos="far_left", ypos="head")
+    gen "秋大腿可能是我在过去十年或更长时间里看到的最令人印象深刻的大腿!" ("angry", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1237
 translate schinese cc_pf_strip_T2_hermione_02d038bb:
@@ -4360,7 +4360,7 @@ translate schinese cc_pf_strip_T2_hermione_b9829644:
 translate schinese cc_pf_strip_T2_hermione_706a9243:
 
     # her "\"Poor,\" I'd say..." ("soft", "closed", "base", "mid")
-    her """可怜,"我说." ("soft", "closed", "base", "mid")
+    her "\"可怜,\"我意思..." ("soft", "closed", "base", "mid")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1464
 translate schinese cc_pf_strip_T2_hermione_09d80435:
@@ -4396,7 +4396,7 @@ translate schinese cc_pf_strip_T2_hermione_24fa325d:
 translate schinese cc_pf_strip_T2_hermione_15e9d830:
 
     # cho "\"Dreadful\"?!" ("soft", "wide", "base", "mid")
-    cho """"多灾多难?"!" ("soft", "wide", "base", "mid")
+    cho "\"多灾多难?\"!" ("soft", "wide", "base", "mid")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1470
 translate schinese cc_pf_strip_T2_hermione_93868116:
@@ -4876,7 +4876,7 @@ translate schinese cc_pf_strip_T3_intro_E1_c8cdb887:
 translate schinese cc_pf_strip_T3_intro_E1_e0d6775b:
 
     # gen "That I do!" ("grin", xpos="far_left", ypos="head")
-    gen """是的!" ("grin", xpos="far_left", ypos="head")
+    gen "\"是的!" ("grin", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1656
 translate schinese cc_pf_strip_T3_intro_E1_163bdb27:
@@ -5230,7 +5230,7 @@ translate schinese cc_pf_strip_T3_intro_E1_choice_69b3de3f:
 translate schinese cc_pf_strip_T3_intro_E1_choice_1993a708:
 
     # cho "She did?" ("upset", "base", "raised", "mid")
-    cho """是的." ("upset", "base", "raised", "mid")
+    cho "\"是的." ("upset", "base", "raised", "mid")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1796
 translate schinese cc_pf_strip_T3_intro_E1_choice_6fbcb969:
@@ -5314,7 +5314,7 @@ translate schinese cc_pf_strip_T3_intro_E1_choice_af6a8205:
 translate schinese cc_pf_strip_T3_intro_E1_choice_0e325b18:
 
     # gen "Splendid!" ("grin", xpos="far_left", ypos="head")
-    gen """很好!" ("grin", xpos="far_left", ypos="head")
+    gen "\"好极了!" ("grin", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1811
 translate schinese cc_pf_strip_T3_intro_E1_choice_e2863787:
@@ -5536,7 +5536,7 @@ translate schinese cc_pf_strip_T3_intro_E2_14e48849:
 translate schinese cc_pf_strip_T3_intro_E2_ab90b757:
 
     # gen "Go on, Cho. She's not going to bite you..." ("base", xpos="far_left", ypos="head")
-    gen "继续,乔,她不会咬你的." ("base", xpos="far_left", ypos="head")
+    gen "继续,秋,她不会咬你的." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1931
 translate schinese cc_pf_strip_T3_intro_E2_fc605f16:
@@ -5752,7 +5752,7 @@ translate schinese cc_pf_strip_T3_intro_E2_8fda2283:
 translate schinese cc_pf_strip_T3_intro_E2_85465062:
 
     # gen "Great! Then get on that desk, Cho!" ("grin", xpos="far_left", ypos="head")
-    gen "太好了,那就上桌吧,乔!" ("grin", xpos="far_left", ypos="head")
+    gen "太好了,那就上桌吧,秋!" ("grin", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1972
 translate schinese cc_pf_strip_T3_intro_E2_4d9b9b6c:
@@ -5878,7 +5878,7 @@ translate schinese cc_pf_strip_T3_intro_E2_8010378a:
 translate schinese cc_pf_strip_T3_intro_E2_297a9863:
 
     # gen "I'm sure Miss Cho is dying to know..." ("grin", xpos="far_left", ypos="head")
-    gen "我相信乔小姐很想知道." ("grin", xpos="far_left", ypos="head")
+    gen "我相信秋小姐很想知道." ("grin", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:2022
 translate schinese cc_pf_strip_T3_intro_E2_66a81ed8:
@@ -5896,7 +5896,7 @@ translate schinese cc_pf_strip_T3_intro_E2_51f1b4a7:
 translate schinese cc_pf_strip_T3_intro_E2_a9c2bf27:
 
     # gen "Cho, do your thing." ("grin", xpos="far_left", ypos="head")
-    gen "乔,做你的事." ("grin", xpos="far_left", ypos="head")
+    gen "秋,做你的事." ("grin", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:2026
 translate schinese cc_pf_strip_T3_intro_E2_a1db6fae:
@@ -6118,7 +6118,7 @@ translate schinese cc_pf_strip_T3_intro_E2_5e0e1ba2:
 translate schinese cc_pf_strip_T3_intro_E2_0ef4ffd9:
 
     # gen "Yes, it's not like she has any bits you haven't seen before... is that not what you said, Cho?" ("grin", xpos="far_left", ypos="head")
-    gen "是的,这不像是她有什么你以前没看过的...不是你说的吗,乔?" ("grin", xpos="far_left", ypos="head")
+    gen "是的,这不像是她有什么你以前没看过的...不是你说的吗,秋?" ("grin", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:2106
 translate schinese cc_pf_strip_T3_intro_E2_a6edf978:
@@ -6160,7 +6160,7 @@ translate schinese cc_pf_strip_T3_intro_E2_fbcd7d99:
 translate schinese cc_pf_strip_T3_intro_E2_a7ace805:
 
     # gen "Cho, you heard your teacher's request." ("base", xpos="far_left", ypos="head")
-    gen "乔,你听到你老师的要求了." ("base", xpos="far_left", ypos="head")
+    gen "秋,你听到你老师的要求了." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:2113
 translate schinese cc_pf_strip_T3_intro_E2_93cfd3ce:
@@ -8278,7 +8278,7 @@ translate schinese cc_pf_strip_T3_intro_E3_66a5acf8:
 translate schinese cc_pf_strip_T3_intro_E3_16fa4a6e:
 
     # ton "It's fine, Cho. Just give it a little slap." ("soft", "narrow", "base", "downR", hair="horny", cheeks="blush")
-    ton "很好,乔,只要轻拍一下就行了." ("soft", "narrow", "base", "downR", hair="horny", cheeks="blush")
+    ton "很好,秋,只要轻拍一下就行了." ("soft", "narrow", "base", "downR", hair="horny", cheeks="blush")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:2971
 translate schinese cc_pf_strip_T3_intro_E3_a73ca44d:
@@ -8584,7 +8584,7 @@ translate schinese cc_pf_strip_T3_intro_E3_f06d1b56:
 translate schinese cc_pf_strip_T3_intro_E3_808de542:
 
     # ton "Move next to me, Cho. I need you to stand -- right here {heart}{heart}{heart}" ("open", "base", "base", "downR", hair="horny")
-    ton "走到我旁边,乔,我需要你站在这里----这里是{heart}01{heart}01#" ("open", "base", "base", "downR", hair="horny")
+    ton "走到我旁边,秋,我需要你站在这里----这里是{heart}01{heart}01#" ("open", "base", "base", "downR", hair="horny")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:3081
 translate schinese cc_pf_strip_T3_intro_E3_89e12f75:
@@ -9340,91 +9340,91 @@ translate schinese strings:
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:129
     old "\"Your posture is remarkable!\""
-    new ""你的姿势很出色!""
+    new "\"你的姿势很出色!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:129
     old "\"You have marvellous abs!\""
-    new """你有很好的腹部!""
+    new "\"你有很好的腹部!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:129
     old "\"*Eh*, I've seen better, but that'll do.\""
-    new ""**---我看得更好了,但那就可以了.""
+    new "\"*嗯*我看得更好了,但那就可以了.\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:183
     old "\"Yeah, she's gross.\""
-    new """是的,她很粗暴.""
+    new "\"是的,她很粗暴.\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:183
     old "\"Nope, you lose\""
-    new ""不,你输了""
+    new "\"不,你输了\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:252
     old "\"Never seen City Hunter?\""
-    new """从来没见过城市猎人?""
+    new "\"从来没看过城市猎人?\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:252
     old "\"She's my main...\""
-    new ""她是我的主角...""
+    new "\"她是我的主角...\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:280
     old "\"It absolutely is!\""
-    new ""绝对是!""
+    new "\"绝对是!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:280
     old "\"Of course not...\""
-    new ""当然不是"...""
+    new "\"当然不是...\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:422
     old "\"Yes, but take off those clothes first...\""
-    new ""是的,但先脱掉那些衣服"..."
+    new "\"是的,但先脱掉那些衣服...\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:422
     old "\"Yes, you are dismissed...\""
-    new """是的,你被开除了...""
+    new "\"是的,你被开除了...\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:468
     old "\"Show me those big, juicy \"Quaffles\" of yours!\""
-    new ""给我看看你的那些大而欢快的"夸弗莱"!""
+    new "\"给我看看你的那些大而欢快的\"鬼飞球\"!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:468
     old "\"Let me catch sight of that 'Snitch!'\""
-    new ""让我看到那个'针锋相对'.""
+    new "\"让我看到那个'针锋相对'.\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1138
     old "\"Hop on my desk!\""
-    new ""跳到我的桌子上!""
+    new "\"跳到我的桌子上!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1138
     old "\"Let Granger have a good look at you!\""
-    new ""让格兰格好好看看你吧!""
+    new "\"让格兰格好好看看你吧!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1224
     old "\"Definitely!\""
-    new """当然!""
+    new "\"当然!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1224
     old "\"Not even close.\""
-    new ""甚至连近距离都没有.""
+    new "\"甚至连近距离都没有.\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1224
     old "\"Let Hermione assess you, Cho.\""
-    new ""让赫敏来评估你,乔.""
+    new "\"让赫敏来评估你,秋.\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1350
     old "\"Ten points to Gryffindor!\""
-    new "["格兰芬多十分!""
+    new "\"格兰芬多10分!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1350
     old "\"Fifty points to Gryffindor!\""
-    new ""给格兰芬多点50分!""
+    new "\"给格兰芬多50分!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1583
     old "\"Of course...\""
-    new ""当然"...""
+    new "\"当然...\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1583
     old "\"No, I just want to see your naked body up close.\""
-    new ""不,我只是想把你赤裸裸的身体看得很近.""
+    new "\"不,我只是想把你赤裸裸的身体看得很近.\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1772
     old "\"Tonks\""
@@ -9440,23 +9440,23 @@ translate schinese strings:
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:1939
     old "\"She's going to strip for us...\""
-    new ""她要给我们脱衣服"...""
+    new "\"她要给我们脱衣服...\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:2343
     old "\"Severus, I think you should leave.\""
-    new """西弗勒斯,我想你应该离开了.""
+    new "\"西弗勒斯,我想你应该离开了.""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:2343
     old "\"Severus! Please, stay and watch.\""
-    new "[西弗勒斯!求你了,留下来看一看.""
+    new "\"西弗勒斯!求你了,留下来看一看.\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:2707
     old "\".............\""
-    new "[...]""
+    new "\".............\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:2707
     old "\"You could exercise with me!\""
-    new ""你可以和我一起锻炼身体!""
+    new "\"你可以和我一起锻炼身体!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:2925
     old "-Slap it one more time!-"
@@ -9472,7 +9472,7 @@ translate schinese strings:
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:2932
     old "\"Cho, you do the honours!\""
-    new """哦,你做的是荣誉!""
+    new "\"哦,你做的是荣誉!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:2937
     old "-Again!-"
@@ -9480,9 +9480,9 @@ translate schinese strings:
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:2944
     old "-Slap it hard!-"
-    new "-用力敲它!-"
+    new "-用力打它!-"
 
     # game/scripts/characters/cho/events/favors/inspect_her_body.rpy:3357
     old "\"Miss Tonks\""
-    new "("Tonks小姐")"
+    new "\"唐克斯小姐\""
 

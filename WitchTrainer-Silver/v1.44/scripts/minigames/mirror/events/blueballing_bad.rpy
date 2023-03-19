@@ -226,7 +226,7 @@ translate schinese blueballing_bad_055adf3a:
 translate schinese blueballing_bad_ac3538eb:
 
     # her "I shouldn't have been blinded by the house points...{w=0.5} What was I thinking?! Giving him a chance to satisfy his male desires..." ("mad", "squint", "worried", "R_soft")
-    her "我不应该被学院的点数迷住我在想什么?,给他一个满足他男性愿望的机会." ("mad", "squint", "worried", "R_soft")
+    her "我不应该被学院的分数迷住我在想什么?,给他一个满足他男性愿望的机会." ("mad", "squint", "worried", "R_soft")
 
 # game/scripts/minigames/mirror/events/blueballing_bad.rpy:84
 translate schinese blueballing_bad_b7a21cfa:
@@ -256,7 +256,7 @@ translate schinese blueballing_bad_463cd6a4:
 translate schinese blueballing_bad_8d526212:
 
     # her "\"Not the Headmaster!\"{w=0.25}, \"Our Headmaster is not like that!\"..." ("clench", "base", "angry", "up")
-    her """不是校长!"{w=0.25},"我们的校长不是那样!"" ("clench", "base", "angry", "up")
+    her "\"不是校长!"{w=0.25},"我们的校长不是那样!\"" ("clench", "base", "angry", "up")
 
 # game/scripts/minigames/mirror/events/blueballing_bad.rpy:89
 translate schinese blueballing_bad_f8909f4a:
@@ -376,7 +376,7 @@ translate schinese blueballing_bad_03f061d6:
 translate schinese blueballing_bad_6a0307aa:
 
     # gen "No! I've just been reading, and sometimes summoning her to my office to talk and tutor her in exchange for house points!" ("open", xpos="far_left", ypos="head")
-    gen "不!我刚才一直在看书,有时还把她召集到我的办公室去和她交谈,并辅导她,以换取家里的点数!" ("open", xpos="far_left", ypos="head")
+    gen "不!我刚才一直在看书,有时还把她召集到我的办公室去和她交谈,并辅导她,以换取家里的分数!" ("open", xpos="far_left", ypos="head")
 
 # game/scripts/minigames/mirror/events/blueballing_bad.rpy:118
 translate schinese blueballing_bad_f8cd014b:
@@ -388,7 +388,7 @@ translate schinese blueballing_bad_f8cd014b:
 translate schinese blueballing_bad_2e8bc1bc:
 
     # gen "I panicked! She was begging for house points and I didn't want to blow my cover!" ("open", xpos="far_left", ypos="head")
-    gen "我惊慌失措!她在乞求学院点数,而我不想炸毁我的掩护!" ("open", xpos="far_left", ypos="head")
+    gen "我惊慌失措!她在乞求学院分数,而我不想炸毁我的掩护!" ("open", xpos="far_left", ypos="head")
 
 # game/scripts/minigames/mirror/events/blueballing_bad.rpy:120
 translate schinese blueballing_bad_afbd7774:

@@ -1522,7 +1522,7 @@ translate schinese hg_pf_talk_tonks_T3_intro_E1_1f5a56b6:
 translate schinese hg_pf_talk_tonks_T3_intro_E1_85431b56:
 
     # her "Well, she's a very talented witch... You'd have to be to become an auror." ("open", "closed", "base", "mid")
-    her "她是个很有才华的女巫,你一定会变成个恐怖的人." ("open", "closed", "base", "mid")
+    her "她是个很有才华的女巫,你一定会变成个傲罗的人." ("open", "closed", "base", "mid")
 
 # game/scripts/characters/hermione/events/favors/talk_to_me.rpy:570
 translate schinese hg_pf_talk_tonks_T3_intro_E1_def847ec:
@@ -2230,7 +2230,7 @@ translate schinese hg_pf_talk_tonks_680156df:
 translate schinese hg_pf_talk_tonks_2b8c6bdd:
 
     # ton "After all, it's thanks to you that the ministry sent me here." ("base", "base", "base", "L")
-    ton "毕竟,是由于你,牧师派我来这里的." ("base", "base", "base", "L")
+    ton "毕竟,是由于你,魔法部派我来这里的." ("base", "base", "base", "L")
 
 # game/scripts/characters/hermione/events/favors/talk_to_me.rpy:782
 translate schinese hg_pf_talk_tonks_3d1a8ecf:
@@ -2260,7 +2260,7 @@ translate schinese hg_pf_talk_tonks_76e05420:
 translate schinese hg_pf_talk_tonks_87de39d9:
 
     # her "To help my house catch up in points. Doing it to help Gryffindor..." ("soft", "narrow", "worried", "down", cheeks="blush")
-    her "帮助我的学院赶上点数.做它是为了帮助格兰芬多." ("soft", "narrow", "worried", "down", cheeks="blush")
+    her "帮助我的学院赶上分数.做它是为了帮助格兰芬多." ("soft", "narrow", "worried", "down", cheeks="blush")
 
 # game/scripts/characters/hermione/events/favors/talk_to_me.rpy:789
 translate schinese hg_pf_talk_tonks_c81f48d5:
@@ -2488,7 +2488,7 @@ translate schinese hg_pf_talk_tonks_398e9a02:
 translate schinese hg_pf_talk_tonks_789f8043:
 
     # her "I just...{w=0.6} Sometimes Gryffindor is just so far behind in points..." ("soft", "narrow", "base", "down")
-    her "我只是...{w=0.6}有时候格兰芬多在点数上远远落后了." ("soft", "narrow", "base", "down")
+    her "我只是...{w=0.6}有时候格兰芬多在分数上远远落后了." ("soft", "narrow", "base", "down")
 
 # game/scripts/characters/hermione/events/favors/talk_to_me.rpy:831
 translate schinese hg_pf_talk_tonks_983f6988:
@@ -2554,7 +2554,7 @@ translate schinese hg_pf_talk_tonks_3c111b60:
 translate schinese hg_pf_talk_tonks_f45185fb:
 
     # ton "I'm sure your house has been ecstatic about the sudden spike in house points." ("soft", "wide", "raised", "L")
-    ton "我确信你的学院对学院的点数突然猛涨感到欣喜若狂." ("soft", "wide", "raised", "L")
+    ton "我确信你的学院对学院的分数突然猛涨感到欣喜若狂." ("soft", "wide", "raised", "L")
 
 # game/scripts/characters/hermione/events/favors/talk_to_me.rpy:847
 translate schinese hg_pf_talk_tonks_af121add:
@@ -3472,7 +3472,7 @@ translate schinese hg_pf_talk_tonks_bbc87fc8:
 translate schinese hg_pf_talk_tonks_373f5566:
 
     # gen "I'm sure Miss Tonks would be happy to provide additional points, as you'd basically be providing a favour for us both." ("base", xpos="far_left", ypos="head")
-    gen "我相信唐克斯小姐会很乐意提供额外的点数,因为你基本上是在帮我们俩." ("base", xpos="far_left", ypos="head")
+    gen "我相信唐克斯小姐会很乐意提供额外的分数,因为你基本上是在帮我们俩." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/talk_to_me.rpy:1087
 translate schinese hg_pf_talk_tonks_1b0a2fc5:

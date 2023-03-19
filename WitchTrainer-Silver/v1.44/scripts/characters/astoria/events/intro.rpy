@@ -1348,7 +1348,7 @@ translate schinese astoria_intro_E2_snape_5b2d9b7a:
 translate schinese astoria_intro_E2_snape_21c4d006:
 
     # sna "If they send an auror here they might find out what we've been doing!" ("snape_10")
-    sna "如果他们在这里发出恐怖的声音,他们可能会发现我们在做什么!" ("snape_10")
+    sna "如果他们在这里发出傲罗的声音,他们可能会发现我们在做什么!" ("snape_10")
 
 # game/scripts/characters/astoria/events/intro.rpy:398
 translate schinese astoria_intro_E2_snape_142f379e:
@@ -1360,7 +1360,7 @@ translate schinese astoria_intro_E2_snape_142f379e:
 translate schinese astoria_intro_E2_snape_417e27c9:
 
     # sna "We got lucky with Tonks, but if they were to send another Auror investigating the curses." ("snape_03")
-    sna "我们幸运地和唐克斯在一起,但如果他们再派一个恐怖调查诅咒的话." ("snape_03")
+    sna "我们幸运地和唐克斯在一起,但如果他们再派一个傲罗调查诅咒的话." ("snape_03")
 
 # game/scripts/characters/astoria/events/intro.rpy:400
 translate schinese astoria_intro_E2_snape_cef0eaff:
@@ -1384,7 +1384,7 @@ translate schinese astoria_intro_E2_snape_4be908a9:
 translate schinese astoria_intro_E2_snape_78fe1396:
 
     # sna "If an auror finds out what's going on here, then we're both going to Azkaban!" ("snape_16")
-    sna "如果恐怖发现这里发生了什么,那么我们都要去阿兹卡班!" ("snape_16")
+    sna "如果傲罗发现这里发生了什么,那么我们都要去阿兹卡班!" ("snape_16")
 
 # game/scripts/characters/astoria/events/intro.rpy:404
 translate schinese astoria_intro_E2_snape_0193e327:
@@ -2176,7 +2176,7 @@ translate schinese astoria_intro_E3_f70f1bd0_2:
 translate schinese astoria_intro_E3_d96f84cc:
 
     # sna "That cowardly Hufflepuff girl?" ("snape_38")
-    sna "那个懦弱的哈夫普夫女孩?" ("snape_38")
+    sna "那个懦弱的赫奇帕奇女孩?" ("snape_38")
 
 # game/scripts/characters/astoria/events/intro.rpy:672
 translate schinese astoria_intro_E3_e2bcca28:
@@ -2218,7 +2218,7 @@ translate schinese astoria_intro_E3_4ea42452:
 translate schinese astoria_intro_E3_7bfa823b:
 
     # sna "You should count yourself lucky the ministry hasn't been notified..." ("snape_31")
-    sna "你应该庆幸的是,牧师没有接到通知." ("snape_31")
+    sna "你应该庆幸的是,魔法部没有接到通知." ("snape_31")
 
 # game/scripts/characters/astoria/events/intro.rpy:679
 translate schinese astoria_intro_E3_3fcdd9c6:
@@ -2464,7 +2464,7 @@ translate schinese astoria_intro_E3_58d54987:
 translate schinese astoria_intro_E3_59b24658:
 
     # ton "The ministry isn't going to lock away such a cute little thing like yourself..." ("base", "base", "base", "L")
-    ton "牧师不会把像你这样可爱的小东西锁起来的." ("base", "base", "base", "L")
+    ton "魔法部不会把像你这样可爱的小东西锁起来的." ("base", "base", "base", "L")
 
 # game/scripts/characters/astoria/events/intro.rpy:750
 translate schinese astoria_intro_E3_c0a8e81c:
@@ -3424,7 +3424,7 @@ translate schinese astoria_intro_E4_64ae370c:
 translate schinese astoria_intro_E4_7f829ecf:
 
     # gen "She did?" ("base", xpos="far_left", ypos="head")
-    gen """是的." ("base", xpos="far_left", ypos="head")
+    gen "她那样做了？." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/astoria/events/intro.rpy:1000
 translate schinese astoria_intro_E4_69bbc7b3:
@@ -3490,7 +3490,7 @@ translate schinese astoria_intro_E4_26545f62:
 translate schinese astoria_intro_E4_7f829ecf_1:
 
     # gen "She did?" ("base", xpos="far_left", ypos="head")
-    gen """是的." ("base", xpos="far_left", ypos="head")
+    gen "她那样做了？" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/astoria/events/intro.rpy:1027
 translate schinese astoria_intro_E4_c92ff9c0:
@@ -3694,101 +3694,101 @@ translate schinese strings:
 
     # game/scripts/characters/astoria/events/intro.rpy:21
     old "\"Yes, come in!\""
-    new """是的,进来!""
+    new "\"是的,进来!\""
 
     # game/scripts/characters/astoria/events/intro.rpy:21
     old "\"Not now!\""
-    new "["现在不!""
+    new "\"现在不!\""
 
     # game/scripts/characters/astoria/events/intro.rpy:53
     old "\"How exactly can I help you?\""
-    new ""我怎么才能确切地帮助你呢?""
+    new "\"我怎么才能确切地帮助你呢?\""
 
     # game/scripts/characters/astoria/events/intro.rpy:53
     old "\"I'm busy right now...\""
-    new ""我现在很忙"...""
+    new "\"我现在很忙...\""
 
     # game/scripts/characters/astoria/events/intro.rpy:53
     old "\"What's in it for me?\""
-    new """这对我有什么好处?""
+    new "\"这对我有什么好处?\""
 
     # game/scripts/characters/astoria/events/intro.rpy:85
     old "\"Pull on my finger...\""
-    new ""拉上我的手指...""
+    new "\"拉上我的手指...\""
 
     # game/scripts/characters/astoria/events/intro.rpy:85
     old "\"Send Nudes.\""
-    new ""发送研究报告"..."
+    new "\"发送研究报告\""
 
     # game/scripts/characters/astoria/events/intro.rpy:345
     old "\"Just find her...\""
-    new ""只要找到她...""
+    new "\"只要找到她...\""
 
     # game/scripts/characters/astoria/events/intro.rpy:345
     old "\"No one's getting sent to Azkaban...\""
-    new ""没有人被派往阿兹卡班...""
+    new "\"没有人被派往阿兹卡班...\""
 
     # game/scripts/characters/astoria/events/intro.rpy:459
     old "\"What?\""
-    new "("什么?")"
+    new "\"什么?\""
 
     # game/scripts/characters/astoria/events/intro.rpy:459
     old "\"Not now...\""
-    new "("现在不".)""
+    new "\"现在不...\""
 
     # game/scripts/characters/astoria/events/intro.rpy:560
     old "\"You're dismissed, Miss Granger!\""
-    new ""你被开除了,格兰杰小姐!""
+    new "\"你被开除了,格兰杰小姐!\""
 
     # game/scripts/characters/astoria/events/intro.rpy:560
     old "\"Go and fetch Snape!\""
-    new "["去拿去"Snape!""
+    new "\"去拿斯内普\""
 
     # game/scripts/characters/astoria/events/intro.rpy:578
     old "\"Not now, Miss Granger...\""
-    new """不,格兰杰小姐...""
+    new "\"不,格兰杰小姐...\""
 
     # game/scripts/characters/astoria/events/intro.rpy:578
     old "\"How about some house points instead?\""
-    new ""相反的,一些学院的点数怎么样?""
+    new "\"相反的,一些学院的分数怎么样?\""
 
     # game/scripts/characters/astoria/events/intro.rpy:593
     old "\"How about ten?\""
-    new "("十下怎么样?""
+    new "\"十下怎么样?\""
 
     # game/scripts/characters/astoria/events/intro.rpy:593
     old "\"You'll get twenty.\""
-    new """你要二十岁了.""
+    new "\"你要二十岁了.\""
 
     # game/scripts/characters/astoria/events/intro.rpy:777
     old "\"Seems reasonable to me.\""
-    new """在我看来是合理的.""
+    new "\"在我看来是合理的.\""
 
     # game/scripts/characters/astoria/events/intro.rpy:777
     old "\"Why don't you just reward her at this point...\""
-    new ""你为什么不在这一点上奖励她呢...""
+    new "\"你为什么不在这一点上奖励她呢...\""
 
     # game/scripts/characters/astoria/events/intro.rpy:990
     old "\"Who is it?\""
-    new """是谁?""
+    new "\"是谁?\""
 
     # game/scripts/characters/astoria/events/intro.rpy:1002
     old "\"Come in.\""
-    new "("进来"...""
+    new "\"进来\""
 
     # game/scripts/characters/astoria/events/intro.rpy:1002
     old "\"I'm busy.\""
-    new """我很忙.""
+    new "\"我很忙.\""
 
     # game/scripts/characters/astoria/events/intro.rpy:1033
     old "\"What about your detention?\""
-    new """你的拘留呢?""
+    new "\"你的拘留呢?\""
 
     # game/scripts/characters/astoria/events/intro.rpy:1033
     old "\"You still need to be punished!\""
-    new """你仍然需要受到惩罚!""
+    new "\"你仍然需要受到惩罚!\""
 
     # game/scripts/characters/astoria/events/intro.rpy:1033
     old "\"Fine by me...\""
-    new ""我很好"...""
+    new "\"我很好...\""
 

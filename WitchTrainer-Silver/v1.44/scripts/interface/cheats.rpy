@@ -46,7 +46,7 @@ translate schinese cheats_general_749b902f:
 translate schinese cheats_general_672d0c79:
 
     # "Uncle Good Advice" "{color=#ff8000}Attention!{/color} You may receive items that are not intended to be used in your time line, or may be experimental. Do you still wish to proceed?" nointeract
-    "叔叔的忠告" "{color=#ff8000}注意!{/color}您可能会收到不打算在您的时间线中使用的项目,或者可能是实验性的。你还想继续吗?" nointeract
+    "叔叔的忠告" "{color=#ff8000}注意!{/color}您可能会收到不打算在您的时间线中使用的项目,或者可能是实验性的.你还想继续吗?" nointeract
 
 # game/scripts/interface/cheats.rpy:62
 translate schinese cheats_general_38dac299:
@@ -58,7 +58,7 @@ translate schinese cheats_general_38dac299:
 translate schinese cheats_general_475876a9:
 
     # "Uncle Good Advice" "{color=#ff8000}Attention!{/color} You may receive outfits that are not intended to be used in your time line, may be experimental, or are duplicates of the already existing outfits. Do you still wish to proceed?" nointeract
-    "叔叔的忠告" "{color=#ff8000}注意!{/color}你可能会收到不打算在你的时间线上使用的服装,可能是实验性的,或者是现有服装的复制品。你还想继续吗?" nointeract
+    "叔叔的忠告" "{color=#ff8000}注意!{/color}你可能会收到不打算在你的时间线上使用的服装,可能是实验性的,或者是现有服装的复制品.你还想继续吗?" nointeract
 
 # game/scripts/interface/cheats.rpy:83
 translate schinese cheats_general_baa541d6:
@@ -250,7 +250,7 @@ translate schinese cheats_points_889a09ad:
 translate schinese cheats_points_70f631ce:
 
     # ">House points reset!"
-    ">重置房屋点数!"
+    ">重置房屋分数!"
 
 # game/scripts/interface/cheats.rpy:276
 translate schinese cheats_progression_604e58ca:
@@ -274,7 +274,7 @@ translate schinese cheats_experimental_aa8d3d5c:
 translate schinese cheats_experimental_0700321b:
 
     # ">Experimental cheats have been unlocked."
-    ">实验作弊已经解锁。"
+    ">实验作弊已经解锁."
 
 # game/scripts/interface/cheats.rpy:301
 translate schinese cheats_experimental_20640a24:
@@ -330,7 +330,7 @@ translate schinese strings:
 
     # game/scripts/interface/cheats.rpy:12
     old "-House Points-"
-    new "-房屋点数-"
+    new "-房屋分数-"
 
     # game/scripts/interface/cheats.rpy:12
     old "-Progression-"

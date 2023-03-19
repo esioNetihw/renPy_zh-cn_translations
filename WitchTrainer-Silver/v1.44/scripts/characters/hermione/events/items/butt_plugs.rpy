@@ -4150,7 +4150,7 @@ translate schinese hg_butt_plugs_large_return_6fc821ea:
 translate schinese hg_butt_plugs_large_return_7891962c:
 
     # gen "I suppose you better get some points, although I assume you've already earned a couple during that lesson." ("base", xpos="far_left", ypos="head")
-    gen "我想你最好得到点数,虽然我想你在那节课上已经赚了两分." ("base", xpos="far_left", ypos="head")
+    gen "我想你最好得到分数,虽然我想你在那节课上已经赚了两分." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/items/butt_plugs.rpy:1016
 translate schinese hg_butt_plugs_large_return_e4fe0bac:

@@ -646,7 +646,7 @@ translate schinese cho_quid_E2_aca454b7:
 translate schinese cho_quid_E2_51ea69d6:
 
     # gen "Broom... flying carpet... Whichever you prefer." ("base", xpos="far_left", ypos="head")
-    gen "房间...飞地毯...你喜欢谁." ("base", xpos="far_left", ypos="head")
+    gen "房间...飞毯...你喜欢谁." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/quidditch/intros.rpy:167
 translate schinese cho_quid_E2_bc2d50da:
@@ -904,13 +904,13 @@ translate schinese cho_quid_E3_1d9aa4e7:
 translate schinese cho_quid_E3_2fd8757d:
 
     # cho "[cho_genie_name], something terrible happened to Lee Jordan!" ("soft", "narrow", "worried", "mid")
-    cho "[cho_genie_name],李乔丹发生了什么可怕的事情!" ("soft", "narrow", "worried", "mid")
+    cho "[cho_genie_name],李秋丹发生了什么可怕的事情!" ("soft", "narrow", "worried", "mid")
 
 # game/scripts/characters/cho/events/quidditch/intros.rpy:317
 translate schinese cho_quid_E3_e26901d1:
 
     # gen "Lee Jordan?{w=0.5} Is that a famous basketball player I'm not aware of?" ("base", xpos="far_left", ypos="head")
-    gen "李乔丹?{w=0.5}那是我不知道的著名篮球运动员吗?" ("base", xpos="far_left", ypos="head")
+    gen "李秋丹?{w=0.5}那是我不知道的著名篮球运动员吗?" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/quidditch/intros.rpy:318
 translate schinese cho_quid_E3_cc338950:
@@ -946,7 +946,7 @@ translate schinese cho_quid_E3_843c525c:
 translate schinese cho_quid_E3_d70bd1d4:
 
     # cho "No... Someone has to announce the points after all." ("annoyed", "narrow", "base", "mid")
-    cho "不,总得有人宣布点数." ("annoyed", "narrow", "base", "mid")
+    cho "不,总得有人宣布分数." ("annoyed", "narrow", "base", "mid")
 
 # game/scripts/characters/cho/events/quidditch/intros.rpy:324
 translate schinese cho_quid_E3_13836d85:
@@ -1324,7 +1324,7 @@ translate schinese cho_quid_E4_638960b8:
 translate schinese cho_quid_E4_1ea4eb7e:
 
     # her "Cho will be so mad!" ("crooked_smile", "happy", "base", "mid")
-    her "乔会这么生气的!" ("crooked_smile", "happy", "base", "mid")
+    her "秋会这么生气的!" ("crooked_smile", "happy", "base", "mid")
 
 # game/scripts/characters/cho/events/quidditch/intros.rpy:430
 translate schinese cho_quid_E4_13836d85:
@@ -1354,7 +1354,7 @@ translate schinese cho_quid_E4_27b08953:
 translate schinese cho_quid_E4_5cb11038:
 
     # gen "I better tell Cho about the...{w=0.8} news." ("base", xpos="far_left", ypos="head")
-    gen "我最好把...{w=0.8}的消息告诉乔." ("base", xpos="far_left", ypos="head")
+    gen "我最好把...{w=0.8}的消息告诉秋." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/quidditch/intros.rpy:453
 translate schinese cho_quid_E5_3e77453a:
@@ -1780,7 +1780,7 @@ translate schinese cho_quid_E6_93acdbc3:
 translate schinese cho_quid_E6_1bab735c:
 
     # her "Thanks to Cho, everybody now thinks I'm a fraud..." ("open", "happyCl", "worried", "mid", tears="soft_blink")
-    her "多亏了乔,现在每个人都认为我是个骗子." ("open", "happyCl", "worried", "mid", tears="soft_blink")
+    her "多亏了秋,现在每个人都认为我是个骗子." ("open", "happyCl", "worried", "mid", tears="soft_blink")
 
 # game/scripts/characters/cho/events/quidditch/intros.rpy:565
 translate schinese cho_quid_E6_4f6ad36f:
@@ -2056,7 +2056,7 @@ translate schinese cho_quid_E7_4101118d:
 translate schinese cho_quid_E7_747fc61a:
 
     # her "Not even Cho would agree to this!" ("open", "base", "angry", "mid")
-    her "就连乔也不会同意的!" ("open", "base", "angry", "mid")
+    her "就连秋也不会同意的!" ("open", "base", "angry", "mid")
 
 # game/scripts/characters/cho/events/quidditch/intros.rpy:642
 translate schinese cho_quid_E7_59b342b1:
@@ -2218,13 +2218,13 @@ translate schinese cho_quid_E7_e8cc6af5:
 translate schinese cho_quid_E7_c9262c29:
 
     # gen "Miss Chang, I've heard rumours that Hermione secretly has a crush on you..." ("base", xpos="far_left", ypos="head")
-    gen "张小姐,我听说过赫敏秘密迷恋你的谣言." ("base", xpos="far_left", ypos="head")
+    gen "张小姐，我听说赫敏暗恋你..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/quidditch/intros.rpy:704
 translate schinese cho_quid_E7_4d71dc09:
 
     # cho "She does?" ("soft", "base", "raised", "mid", cheeks="blush")
-    cho """是的." ("soft", "base", "raised", "mid", cheeks="blush")
+    cho "她是这样的." ("soft", "base", "raised", "mid", cheeks="blush")
 
 # game/scripts/characters/cho/events/quidditch/intros.rpy:705
 translate schinese cho_quid_E7_0b5d448b:
@@ -2770,7 +2770,7 @@ translate schinese cho_quid_E8_92002e4b:
 translate schinese cho_quid_E8_3e13fe0d:
 
     # ton "Cho?! And I'm supposed to believe that?" ("upset", "wide", "raised", "mid")
-    ton "乔?,我应该相信这一点吗?" ("upset", "wide", "raised", "mid")
+    ton "秋?,我应该相信这一点吗?" ("upset", "wide", "raised", "mid")
 
 # game/scripts/characters/cho/events/quidditch/intros.rpy:844
 translate schinese cho_quid_E8_f00862b6:
@@ -3202,7 +3202,7 @@ translate schinese cho_quid_E8_5836de2c:
 translate schinese cho_quid_E8_9685357b:
 
     # gen "Cho helped me convince her to do it." ("base", xpos="far_left", ypos="head")
-    gen "乔帮我说服她去做这件事." ("base", xpos="far_left", ypos="head")
+    gen "秋帮我说服她去做这件事." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/quidditch/intros.rpy:929
 translate schinese cho_quid_E8_dcdb6fab:
@@ -5944,95 +5944,95 @@ translate schinese strings:
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:15
     old "\"-Coach-\""
-    new ""-Coacha-""
+    new "\"-教练-\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:15
     old "\"-Sergeant-\""
-    new ""-Sergeanta-""
+    new "\"-中士-\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:15
     old "\"-Captain-\""
-    new ""----船长----""
+    new "\"-船长-\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:15
     old "\"-Professor-\""
-    new ""----教授""
+    new "\"-教授-\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:29
     old "\"-Cadet-\""
-    new "("-Cadeta-")"
+    new "\"-学员-\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:29
     old "\"-Pilot-\""
-    new ""-Pilota-""
+    new "\"-飞行员-\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:29
     old "\"-Maggot-\""
-    new ""-Maggot-""
+    new "\"-蛆虫-\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:29
     old "\"-Eagle One-\""
-    new "("-EagleOne-O")"
+    new "\"-战鹰一号-\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:29
     old "\"-Cho-\""
-    new "["-Cho-["]"
+    new "\"-秋-\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:29
     old "\"-Miss Chang-\""
-    new ""----长安小姐""
+    new "\"-张小姐-\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:204
     old "\"Fly in front of me.\""
-    new ""在我面前飞翔.""
+    new "\"在我前方飞行.\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:204
     old "\"Fly above me.\""
-    new ""在我上面飞翔.""
+    new "\"在我上方飞行.\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:204
     old "\"Fly close to me.\""
-    new ""离我很近.""
+    new "\"飞向靠近我.\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:329
     old "\"Hermione\""
-    new "("Hermione")"
+    new "\"赫敏\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:329
     old "\"Astoria\""
-    new "("阿斯托利亚")"
+    new "\"阿斯托利亚\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:329
     old "\"Luna\""
-    new "("露娜")"
+    new "\"露娜\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:535
     old "\"Tough luck, Miss Granger!\""
-    new ""好运,格兰杰小姐!""
+    new "\"好运,格兰杰小姐!\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:535
     old "\"We'll look for somebody more competent, then.\""
-    new ""那么,我们要找一个更称职的人.""
+    new "\"那么,我们要寻找更有能力的人.\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:535
     old "\"All you need is a bit of practice...\""
-    new ""你所需要的只是一点实践"...""
+    new "\"你所需要的只是一点联系...\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:596
     old "\"I'll give you house points.\""
-    new ""我会给你学院点数的.""
+    new "\"我会给你学院分数的.\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:596
     old "\"You could make fun of those Slytherins.\""
-    new ""你可以取笑那些斯莱特林人.""
+    new "\"你可以取笑那些斯莱特林人.\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:630
     old "\"I heard Cho has a crush on you!\""
-    new ""我听说乔爱上你了!""
+    new "\"我听说秋爱上你了!\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:630
     old "\"I heard you have a crush on Cho!\""
-    new ""我听说你迷恋乔!""
+    new "\"我听说你爱上秋了!\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:839
     old "-Tell her everything-"
@@ -6044,7 +6044,7 @@ translate schinese strings:
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:1353
     old "-Throw the question back at her-"
-    new "-把问题还给她----"
+    new "-把问题反问她-"
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:1353
     old "-Blame her-"
@@ -6060,33 +6060,33 @@ translate schinese strings:
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:1353
     old "-Blame the Quidditch guide book-"
-    new "-指责Quidditch指南书-"
+    new "-指责魁地奇指南书-"
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:1548
     old "\"The Schlickstick!\""
-    new "("TheSchlickbar!")"
+    new "\"施利克棍!\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:1548
     old "\"The Scoot-a-ride!\""
-    new """苏格兰人骑马!""
+    new "\"苏-格-兰-人骑法!\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:1548
     old "\"The Speedblaster 2000!\""
-    new "("速度2000!")"
+    new "\"光轮2000!\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:1548
     old "\"The Purple Rocket!\""
-    new "["紫色火箭!""
+    new "\"紫色火箭!\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:1548
     old "\"The Cumet!!\""
-    new """立方!"""
+    new "\"彗星!\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:1548
     old "\"The Nimble 2069!\""
-    new "["Nimble2069!""
+    new "\"敏捷2069!\""
 
     # game/scripts/characters/cho/events/quidditch/intros.rpy:1548
     old "\"The Spurtstick 900!\""
-    new "("马刺900!")"
+    new "\"马刺900!\""
 

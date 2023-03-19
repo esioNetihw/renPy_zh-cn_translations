@@ -214,7 +214,7 @@ translate schinese tonks_talk_old_man_b4f1391c:
 translate schinese tonks_talk_old_man_d24b8a21:
 
     # gen "I have no clue..." ("base", xpos="far_left", ypos="head")
-    gen "我不知道。。." ("base", xpos="far_left", ypos="head")
+    gen "我不知道..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/talk.rpy:83
 translate schinese tonks_talk_old_man_f68b9c7a:
@@ -226,7 +226,7 @@ translate schinese tonks_talk_old_man_f68b9c7a:
 translate schinese tonks_talk_old_man_8547cec1:
 
     # ton "I guess you really are an \"old man\", Genie..." ("base", "base", "base", "mid")
-    ton "我想你真的是个\"老头子\",精灵.。。" ("base", "base", "base", "mid")
+    ton "我想你真的是个\"老头子\",精灵..." ("base", "base", "base", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:85
 translate schinese tonks_talk_old_man_f6bd28c5:
@@ -340,7 +340,7 @@ translate schinese tonks_talk_lord_voldemort_76d33279:
 translate schinese tonks_talk_lord_voldemort_6a36e924:
 
     # gen "I've read the stories..." ("base", xpos="far_left", ypos="head")
-    gen "我看过这些故事。。." ("base", xpos="far_left", ypos="head")
+    gen "我看过这些故事..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/talk.rpy:113
 translate schinese tonks_talk_lord_voldemort_ddb0e329:
@@ -382,13 +382,13 @@ translate schinese tonks_talk_lord_voldemort_112c1d63:
 translate schinese tonks_talk_lord_voldemort_1790f7b7:
 
     # ton "I mean, I'm not really sure if someone like him would have even be capable of loving anything..." ("mad", "base", "worried", "R")
-    ton "我的意思是,我真的不确定像他这样的人是否有能力去爱任何东西。。." ("mad", "base", "worried", "R")
+    ton "我的意思是,我真的不确定像他这样的人是否有能力去爱任何东西..." ("mad", "base", "worried", "R")
 
 # game/scripts/characters/tonks/talk.rpy:120
 translate schinese tonks_talk_lord_voldemort_35c01522:
 
     # ton "All that mattered to him was power, and achieving his own immortality..." ("open", "base", "angry", "mid")
-    ton "对他来说,重要的是权力和实现自己的不朽.。." ("open", "base", "angry", "mid")
+    ton "对他来说,重要的是权力和实现自己的不朽..." ("open", "base", "angry", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:121
 translate schinese tonks_talk_lord_voldemort_5cceb2eb:
@@ -400,7 +400,7 @@ translate schinese tonks_talk_lord_voldemort_5cceb2eb:
 translate schinese tonks_talk_lord_voldemort_437ed157:
 
     # ton "You don't say..." ("base", "base", "raised", "mid")
-    ton "你不会说的.。。" ("base", "base", "raised", "mid")
+    ton "你不会说的..." ("base", "base", "raised", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:123
 translate schinese tonks_talk_lord_voldemort_7aad1122:
@@ -424,7 +424,7 @@ translate schinese tonks_talk_lord_voldemort_5c4d18df:
 translate schinese tonks_talk_lord_voldemort_4de56aa5:
 
     # gen "Once you're immortal, the last thing you need is some annoying brat on your mind..." ("base", xpos="far_left", ypos="head")
-    gen "一旦你是不朽的,你最不需要的就是脑子里的一些烦人的孩子.。。" ("base", xpos="far_left", ypos="head")
+    gen "一旦你是不朽的,你最不需要的就是脑子里的一些烦人的孩子..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/talk.rpy:127
 translate schinese tonks_talk_lord_voldemort_ff686190:
@@ -442,7 +442,7 @@ translate schinese tonks_talk_lord_voldemort_99928406:
 translate schinese tonks_talk_lord_voldemort_9eaee421:
 
     # gen "And sometimes a bit of kinky role-play..." ("base", xpos="far_left", ypos="head")
-    gen "有时还扮演了一些棘手的角色。.." ("base", xpos="far_left", ypos="head")
+    gen "有时还扮演了一些棘手的角色..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/talk.rpy:130
 translate schinese tonks_talk_lord_voldemort_b343adc8:
@@ -556,7 +556,7 @@ translate schinese tonks_talk_lover_fail_acf427fe:
 translate schinese tonks_talk_lover_fail_ab2c902c:
 
     # gen "I feel like I'm oversharing now..." ("base", xpos="far_left", ypos="head")
-    gen "我觉得我现在分享过度了.。。" ("base", xpos="far_left", ypos="head")
+    gen "我觉得我现在分享过度了..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/talk.rpy:156
 translate schinese tonks_talk_lover_fail_cd9ace47:
@@ -574,13 +574,13 @@ translate schinese tonks_talk_lover_fail_7f420858:
 translate schinese tonks_talk_lover_fail_435fdc61:
 
     # ton "Nice try..." ("base", "narrow", "base", "mid")
-    ton "很好的尝试.。。" ("base", "narrow", "base", "mid")
+    ton "很好的尝试..." ("base", "narrow", "base", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:163
 translate schinese tonks_talk_lover_8b51a515:
 
     # ton "As you wish, \"Lover boy\"..." ("horny", "narrow", "base", "mid")
-    ton "按照你的愿望,\"情人男孩\"..。" ("horny", "narrow", "base", "mid")
+    ton "按照你的愿望,\"情人男孩\"..." ("horny", "narrow", "base", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:164
 translate schinese tonks_talk_lover_d0df366a:
@@ -592,7 +592,7 @@ translate schinese tonks_talk_lover_d0df366a:
 translate schinese tonks_talk_lover_7e3b890b:
 
     # ton "Yes my love..." ("base", "narrow", "base", "mid")
-    ton "是的,我的爱.。。" ("base", "narrow", "base", "mid")
+    ton "是的,我的爱..." ("base", "narrow", "base", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:166
 translate schinese tonks_talk_lover_f70f1bd0:
@@ -640,7 +640,7 @@ translate schinese tonks_talk_master_fail_9e877c1c:
 translate schinese tonks_talk_master_fail_621ed990:
 
     # ton "Until then you can forget about it..." ("base", "base", "base", "mid")
-    ton "到那时,你才会忘记它.。。" ("base", "base", "base", "mid")
+    ton "到那时,你才会忘记它..." ("base", "base", "base", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:177
 translate schinese tonks_talk_master_fail_b73c7fc7:
@@ -766,7 +766,7 @@ translate schinese tonks_talk_bitch_2211c06c:
 translate schinese tonks_talk_bitch_2be2eec3:
 
     # ton "If only you knew..." ("horny", "base", "raised", "R")
-    ton "要是你知道就好了。。." ("horny", "base", "raised", "R")
+    ton "要是你知道就好了..." ("horny", "base", "raised", "R")
 
 # game/scripts/characters/tonks/talk.rpy:240
 translate schinese tonks_talk_bitch_1dec0f0f:
@@ -862,7 +862,7 @@ translate schinese tonks_talk_whore_18574382:
 translate schinese tonks_talk_whore_1d42b9af:
 
     # ton "Well, I suppose I do spend a lot of my time on the clock... Enticing my pupils..." ("horny", "narrow", "base", "R", hair="horny")
-    ton "嗯,我想我的确花了很多时间在时钟上。。让我的学生们闭上嘴。。." ("horny", "narrow", "base", "R", hair="horny")
+    ton "嗯,我想我的确花了很多时间在时钟上..让我的学生们闭上嘴..." ("horny", "narrow", "base", "R", hair="horny")
 
 # game/scripts/characters/tonks/talk.rpy:294
 translate schinese tonks_talk_whore_35e32f91:
@@ -886,7 +886,7 @@ translate schinese tonks_talk_whore_f6680559:
 translate schinese tonks_talk_cunt_fail_665a94c5:
 
     # ton "[ton_genie_name], I'm used to getting insulted by my many previous lovers..." ("base", "base", "raised", "mid")
-    ton "[ton_genie_name],我习惯于受到以前许多恋人的侮辱。。." ("base", "base", "raised", "mid")
+    ton "[ton_genie_name],我习惯于受到以前许多恋人的侮辱..." ("base", "base", "raised", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:301
 translate schinese tonks_talk_cunt_fail_1792a58e:
@@ -928,7 +928,7 @@ translate schinese tonks_talk_cunt_fail_f70f1321:
 translate schinese tonks_talk_cunt_076d6c47:
 
     # ton "*Uuuh*, [ton_genie_name]..." ("base", "base", "raised", "mid")
-    ton "*乌乌*,[ton_genie_name]." ("base", "base", "raised", "mid")
+    ton "*呜呜*,[ton_genie_name]..." ("base", "base", "raised", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:312
 translate schinese tonks_talk_cunt_24de7a89:
@@ -946,7 +946,7 @@ translate schinese tonks_talk_cunt_28e3a3c9:
 translate schinese tonks_talk_cunt_654070ed:
 
     # ton "Do it, I dare you!" ("horny", "base", "base", "mid", hair="horny")
-    ton "我敢做,我敢做!" ("horny", "base", "base", "mid", hair="horny")
+    ton "做吧，我敢打赌!" ("horny", "base", "base", "mid", hair="horny")
 
 # game/scripts/characters/tonks/talk.rpy:318
 translate schinese tonks_talk_slave_fail_7bc536fb:
@@ -964,13 +964,13 @@ translate schinese tonks_talk_slave_fail_b8f09a53:
 translate schinese tonks_talk_slave_fail_72ee3f61:
 
     # ton "*giggles*" ("grin", "closed", "base", "mid")
-    ton "*G*" ("grin", "closed", "base", "mid")
+    ton "*大笑*" ("grin", "closed", "base", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:321
 translate schinese tonks_talk_slave_fail_04c58026:
 
     # ton "No, I don't think so [ton_genie_name]." ("base", "base", "base", "mid")
-    ton "不,我不这么认为." ("base", "base", "base", "mid")
+    ton "不,我不这么认为[ton_genie_name]." ("base", "base", "base", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:326
 translate schinese tonks_talk_slave_0c88df6e:
@@ -982,7 +982,7 @@ translate schinese tonks_talk_slave_0c88df6e:
 translate schinese tonks_talk_slave_62b1447a:
 
     # gen "Isn't that the point of an employee?" ("base", xpos="far_left", ypos="head")
-    gen "这不是员工的重点吗?" ("base", xpos="far_left", ypos="head")
+    gen "这不是员工的意义吗?" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/talk.rpy:328
 translate schinese tonks_talk_slave_b115e92d:
@@ -1000,7 +1000,7 @@ translate schinese tonks_talk_slave_7b161f23:
 translate schinese tonks_talk_slave_01368ed8:
 
     # ton "I don't think that's how it works..." ("base", "narrow", "base", "R")
-    ton "我不认为它是这样工作的." ("base", "narrow", "base", "R")
+    ton "我不认为它是这样工作的..." ("base", "narrow", "base", "R")
 
 # game/scripts/characters/tonks/talk.rpy:331
 translate schinese tonks_talk_slave_89f36734:
@@ -1012,7 +1012,7 @@ translate schinese tonks_talk_slave_89f36734:
 translate schinese tonks_talk_slave_c7018862:
 
     # ton "Also, if you're doing this as a role-play thing, a slave is usually spoken down on." ("base", "narrow", "base", "mid")
-    ton "另外,如果你把这个作为角色扮演的事情来做,奴隶通常会被贬低." ("base", "narrow", "base", "mid")
+    ton "此外，如果你这样做是为了扮演角色，奴隶通常会被贬低." ("base", "narrow", "base", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:333
 translate schinese tonks_talk_slave_87dada46:
@@ -1036,7 +1036,7 @@ translate schinese tonks_talk_slave_b9c1e2ec:
 translate schinese tonks_talk_slave_305a6d1f:
 
     # ton "You are speaking to me..." ("soft", "narrow", "raised", "mid")
-    ton "你在跟我说话." ("soft", "narrow", "raised", "mid")
+    ton "你在跟我说话..." ("soft", "narrow", "raised", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:337
 translate schinese tonks_talk_slave_6fea2d66:
@@ -1048,25 +1048,25 @@ translate schinese tonks_talk_slave_6fea2d66:
 translate schinese tonks_talk_slave_42fe66c3:
 
     # ton "For a genie, I thought you'd be a bit more educated on this topic." ("open", "closed", "base", "mid")
-    ton "对一个天才来说,我以为你在这个问题上受过更多的教育." ("open", "closed", "base", "mid")
+    ton "对一个精灵来说,我以为你在这个问题上受过更多的调教." ("open", "closed", "base", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:339
 translate schinese tonks_talk_slave_1ef2e2e1:
 
     # gen "Filling my existence with mindless sex helps me forget my troubled past." ("base", xpos="far_left", ypos="head")
-    gen "用无意识的性充实我的存在,有助于我忘却我的烦恼的过去." ("base", xpos="far_left", ypos="head")
+    gen "用无意识的性爱填满我的生活，帮助我忘记烦恼的过去." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/talk.rpy:340
 translate schinese tonks_talk_slave_f7ba653c:
 
     # ton "That's... concerning." ("open", "base", "base", "mid")
-    ton "那是...有关的." ("open", "base", "base", "mid")
+    ton "那是有关..." ("open", "base", "base", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:341
 translate schinese tonks_talk_slave_c751021d:
 
     # ton "At least it's better that you're doing it to forget rather some power fantasy to stick the middle finger to humanity and your creator." ("base", "base", "base", "mid")
-    ton "至少你这样做是为了忘掉一些把中指对准人类和你的创造者的权力幻想." ("base", "base", "base", "mid")
+    ton "至少你这样做最好是为了忘记一些权力幻想，把中指指向人类和你的创造者." ("base", "base", "base", "mid")
 
 # game/scripts/characters/tonks/talk.rpy:342
 translate schinese tonks_talk_slave_95e62969:
@@ -1078,19 +1078,19 @@ translate schinese tonks_talk_slave_95e62969:
 translate schinese tonks_talk_slave_7ac8d123:
 
     # gen "Now give me ten push-ups, slave!" ("base", xpos="far_left", ypos="head")
-    gen "现在给我10个推车,奴隶!" ("base", xpos="far_left", ypos="head")
+    gen "现在给我十个俯卧撑,奴隶!" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/talk.rpy:346
 translate schinese tonks_talk_slave_bd47a60e:
 
     # gen "(I don't think she's yet ready for that)" ("base", xpos="far_left", ypos="head")
-    gen "(I don't think she's yet ready for that)" ("base", xpos="far_left", ypos="head")
+    gen "(我认为她还没有准备好)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/talk.rpy:357
 translate schinese tonks_talk_slave_dff96cdf:
 
     # ton "*Hmm*..." ("base", "base", "base", "R")
-    ton "*Hmm*." ("base", "base", "base", "R")
+    ton "*哼嗯*." ("base", "base", "base", "R")
 
 # game/scripts/characters/tonks/talk.rpy:358
 translate schinese tonks_talk_slave_4d8d290f:
@@ -1114,25 +1114,25 @@ translate schinese tonks_talk_slave_dce7bd63:
 translate schinese tonks_talk_slave_4204f630:
 
     # ton "I've been called quite many things by my lovers!" ("base", "base", "base", "R")
-    ton "我的情人给我打了很多电话!" ("base", "base", "base", "R")
+    ton "我的爱人给我打了很多电话!" ("base", "base", "base", "R")
 
 # game/scripts/characters/tonks/talk.rpy:362
 translate schinese tonks_talk_slave_1d417679:
 
     # gen "I'm your lover now?" ("grin", xpos="far_left", ypos="head")
-    gen "我现在是你的情人了?" ("grin", xpos="far_left", ypos="head")
+    gen "我现在是你的爱人了?" ("grin", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/talk.rpy:363
 translate schinese tonks_talk_slave_ee8aa3c5:
 
     # ton "Never say never." ("base", "base", "base", "mid")
-    ton "永不说永不." ("base", "base", "base", "mid")
+    ton "永不说不." ("base", "base", "base", "mid")
 
 translate schinese strings:
 
     # game/scripts/characters/tonks/talk.rpy:2
     old "-Ask for help with Quidditch-"
-    new "-向魁地奇求助-"
+    new "-寻求魁地奇帮助-"
 
     # game/scripts/characters/tonks/talk.rpy:2
     old "-Get naked!-"
@@ -1148,7 +1148,7 @@ translate schinese strings:
 
     # game/scripts/characters/tonks/talk.rpy:55
     old "-Lover-"
-    new "-租期-"
+    new "-爱人-"
 
     # game/scripts/characters/tonks/talk.rpy:55
     old "-Custom Input--"
@@ -1156,25 +1156,25 @@ translate schinese strings:
 
     # game/scripts/characters/tonks/talk.rpy:213
     old "-Tonks-"
-    new "-通话-"
+    new "-唐克斯-"
 
     # game/scripts/characters/tonks/talk.rpy:213
     old "-Nymphadora-"
-    new "-Nymphadoa-"
+    new "-尼法朵拉-"
 
     # game/scripts/characters/tonks/talk.rpy:213
     old "-Nympho-"
-    new "-Nympho-"
+    new "-尼法-"
 
     # game/scripts/characters/tonks/talk.rpy:213
     old "-Fuck Puppet-"
-    new "-他妈的Puppet-"
+    new "-操玩偶-"
 
     # game/scripts/characters/tonks/talk.rpy:213
     old "-Whore-"
-    new "----"
+    new "妓女"
 
     # game/scripts/characters/tonks/talk.rpy:213
     old "-Cunt-"
-    new "-Cunt-"
+    new "-婊子-"
 

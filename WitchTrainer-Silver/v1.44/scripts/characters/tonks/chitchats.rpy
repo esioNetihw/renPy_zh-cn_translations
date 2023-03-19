@@ -88,7 +88,7 @@ translate schinese tonks_chitchat_reroll_b7bccd50:
 translate schinese tonks_chitchat_reroll_71bd1f2b:
 
     # ton "Madam Hooch is cool though, she, and I roll the same way... in more ways than one." ("soft", "base", "base", "mid")
-    ton "胡奇夫人很酷，她和我也一样。。。在很多方面." ("soft", "base", "base", "mid")
+    ton "胡奇夫人很酷，她和我也一样...在很多方面." ("soft", "base", "base", "mid")
 
 # game/scripts/characters/tonks/chitchats.rpy:59
 translate schinese tonks_chitchat_reroll_d2ce839c:
@@ -184,19 +184,19 @@ translate schinese tonks_chitchat_reroll_0c74608e:
 translate schinese tonks_chitchat_reroll_1ca54bfa:
 
     # ton "I'm not going to throw any of the other teachers under the broom about their teaching methods, but..." ("open", "base", "base", "down")
-    ton "我不会对其他老师的教学方法指手画脚，但是。。." ("open", "base", "base", "down")
+    ton "我不会对其他老师的教学方法指手画脚，但是..." ("open", "base", "base", "down")
 
 # game/scripts/characters/tonks/chitchats.rpy:85
 translate schinese tonks_chitchat_reroll_32e41336:
 
     # ton "I try to not take away points for simple mistakes, I was pretty clumsy myself..." ("soft", "base", "shocked", "downR")
-    ton "我尽量不因为简单的错误而拿分，我自己很笨拙.。。" ("soft", "base", "shocked", "downR")
+    ton "我尽量不因为简单的错误而拿分，我自己很笨拙..." ("soft", "base", "shocked", "downR")
 
 # game/scripts/characters/tonks/chitchats.rpy:86
 translate schinese tonks_chitchat_reroll_37f846c0:
 
     # ton "I like to reward my students rather than punishing them..." ("base", "narrow", "shocked", "mid")
-    ton "我喜欢奖励我的学生,而不是惩罚他们.。。" ("base", "narrow", "shocked", "mid")
+    ton "我喜欢奖励我的学生,而不是惩罚他们..." ("base", "narrow", "shocked", "mid")
 
 # game/scripts/characters/tonks/chitchats.rpy:89
 translate schinese tonks_chitchat_reroll_1ee6afec:
@@ -226,7 +226,7 @@ translate schinese tonks_chitchat_reroll_8aa48cb7:
 translate schinese tonks_chitchat_reroll_5140de6a:
 
     # ton "Becoming an auror is extremely difficult and the job is almost entirely dominated by men..." ("upset", "narrow", "worried", "R")
-    ton "成为傲罗是极其困难的,工作几乎完全由男子主导.。." ("upset", "narrow", "worried", "R")
+    ton "成为傲罗是极其困难的,工作几乎完全由男子主导..." ("upset", "narrow", "worried", "R")
 
 # game/scripts/characters/tonks/chitchats.rpy:98
 translate schinese tonks_chitchat_reroll_0fbb855b:
@@ -238,13 +238,13 @@ translate schinese tonks_chitchat_reroll_0fbb855b:
 translate schinese tonks_chitchat_reroll_63a8e7dd:
 
     # ton "My mother was a pure-blood but was burned off the Black family tree after marrying a muggle-born..." ("open", "base", "base", "down")
-    ton "我的母亲是纯血的,但在嫁给了一个麻瓜的小伙子后被烧死了.。" ("open", "base", "base", "down")
+    ton "我的母亲是纯血的,但在嫁给了一个麻瓜的小伙子后被烧死了.." ("open", "base", "base", "down")
 
 # game/scripts/characters/tonks/chitchats.rpy:102
 translate schinese tonks_chitchat_reroll_5dc2ed3a:
 
     # ton "Some people won't understand but I think you should be allowed to love whoever you want..." ("open", "base", "base", "mid")
-    ton "有些人不明白,但我认为应该让你爱你想要的人.。。" ("open", "base", "base", "mid")
+    ton "有些人不明白,但我认为应该让你爱你想要的人..." ("open", "base", "base", "mid")
 
 # game/scripts/characters/tonks/chitchats.rpy:105
 translate schinese tonks_chitchat_reroll_c073475a:
@@ -262,13 +262,13 @@ translate schinese tonks_chitchat_reroll_8cc1376f:
 translate schinese tonks_chitchat_reroll_8a20bde4:
 
     # ton "I only really chased after boys during school because all the other girls did..." ("open", "base", "raised", "down")
-    ton "我只是在学校里追男生，因为其他女孩都追。。." ("open", "base", "raised", "down")
+    ton "我只是在学校里追男生，因为其他女孩都追..." ("open", "base", "raised", "down")
 
 # game/scripts/characters/tonks/chitchats.rpy:110
 translate schinese tonks_chitchat_reroll_8a2965cb:
 
     # ton "Secretly I just wanted them to chase after me instead..." ("normal", "base", "base", "L")
-    ton "秘密,我只是想让他们追我.。。" ("normal", "base", "base", "L")
+    ton "秘密,我只是想让他们追我..." ("normal", "base", "base", "L")
 
 # game/scripts/characters/tonks/chitchats.rpy:113
 translate schinese tonks_chitchat_reroll_4b245ed4:
@@ -286,7 +286,7 @@ translate schinese tonks_chitchat_reroll_863dafb3:
 translate schinese tonks_chitchat_reroll_9ef4f84f:
 
     # ton "Though my methods are slightly different to his..." ("soft", "base", "base", "downR")
-    ton "虽然我的方法和他的稍有不同.。。" ("soft", "base", "base", "downR")
+    ton "虽然我的方法和他的稍有不同..." ("soft", "base", "base", "downR")
 
 # game/scripts/characters/tonks/chitchats.rpy:118
 translate schinese tonks_chitchat_reroll_c01cd027:
@@ -304,19 +304,19 @@ translate schinese tonks_chitchat_reroll_175d3032:
 translate schinese tonks_chitchat_reroll_205f49db:
 
     # ton "Don't ask me what I aimed at..." ("crooked_smile", "base", "base", "up")
-    ton "别问我我的目标是什么.。。" ("crooked_smile", "base", "base", "up")
+    ton "别问我我的目标是什么..." ("crooked_smile", "base", "base", "up")
 
 # game/scripts/characters/tonks/chitchats.rpy:123
 translate schinese tonks_chitchat_reroll_b7cb4d42:
 
     # ton "My favourite creature has to be the were-wolf..." ("open", "closed", "base", "mid")
-    ton "我最喜欢的生物必须是狼人。。." ("open", "closed", "base", "mid")
+    ton "我最喜欢的生物必须是狼人..." ("open", "closed", "base", "mid")
 
 # game/scripts/characters/tonks/chitchats.rpy:124
 translate schinese tonks_chitchat_reroll_42a89259:
 
     # ton "their beast-like nature excites me..." ("soft", "narrow", "base", "mid")
-    ton "他们的野兽般的天性激怒了我。。." ("soft", "narrow", "base", "mid")
+    ton "他们的野兽般的天性激怒了我..." ("soft", "narrow", "base", "mid")
 
 # game/scripts/characters/tonks/chitchats.rpy:125
 translate schinese tonks_chitchat_reroll_ec8f1d2f:
@@ -334,13 +334,13 @@ translate schinese tonks_chitchat_reroll_13bf7bf5:
 translate schinese tonks_chitchat_reroll_b30c9689:
 
     # ton "Little did they know I got a good view whilst on the ground..." ("horny", "narrow", "raised", "stare")
-    ton "他们不知道我在地上的时候视野很好。。." ("horny", "narrow", "raised", "stare")
+    ton "他们不知道我在地上的时候视野很好..." ("horny", "narrow", "raised", "stare")
 
 # game/scripts/characters/tonks/chitchats.rpy:132
 translate schinese tonks_chitchat_reroll_80a18ee2:
 
     # ton "One of the girls had their boggart turn into a student pointing and laughing at her..." ("open", "base", "base", "R")
-    ton "其中一个女孩把自己的幻形怪变成了一个指着她笑的学生.。。" ("open", "base", "base", "R")
+    ton "其中一个女孩把自己的幻形怪变成了一个指着她笑的学生..." ("open", "base", "base", "R")
 
 # game/scripts/characters/tonks/chitchats.rpy:133
 translate schinese tonks_chitchat_reroll_3b7f28d7:
@@ -358,7 +358,7 @@ translate schinese tonks_chitchat_reroll_1883378e:
 translate schinese tonks_chitchat_reroll_4a11a411:
 
     # ton "A foul creature that is drawn to footwear..." ("open", "base", "base", "R")
-    ton "一种被吸引到鞋类上的肮脏生物。。." ("open", "base", "base", "R")
+    ton "一种被吸引到鞋类上的肮脏生物..." ("open", "base", "base", "R")
 
 # game/scripts/characters/tonks/chitchats.rpy:138
 translate schinese tonks_chitchat_reroll_53d904f9:
@@ -376,25 +376,25 @@ translate schinese tonks_chitchat_reroll_a043873b:
 translate schinese tonks_chitchat_reroll_ac1ee867:
 
     # ton "I once changed the colour of my skin and made it look like a tight shirt..." ("grin", "narrow", "base", "R")
-    ton "我曾经改变了皮肤的颜色,使它看起来像件紧身的衬衣.。。" ("grin", "narrow", "base", "R")
+    ton "我曾经改变了皮肤的颜色,使它看起来像件紧身的衬衣..." ("grin", "narrow", "base", "R")
 
 # game/scripts/characters/tonks/chitchats.rpy:147
 translate schinese tonks_chitchat_reroll_056b8caf:
 
     # ton "I might have worked topless once or twice..." ("horny", "base", "raised", "mid")
-    ton "我可能会赤裸上身工作一两次。。." ("horny", "base", "raised", "mid")
+    ton "我可能会赤裸上身工作一两次..." ("horny", "base", "raised", "mid")
 
 # game/scripts/characters/tonks/chitchats.rpy:149
 translate schinese tonks_chitchat_reroll_b3cae773:
 
     # ton "I often got detentions by morphing into prefects..." ("normal", "base", "base", "R")
-    ton "我经常因变成省长而被拘留.。." ("normal", "base", "base", "R")
+    ton "我经常因变成省长而被拘留..." ("normal", "base", "base", "R")
 
 # game/scripts/characters/tonks/chitchats.rpy:150
 translate schinese tonks_chitchat_reroll_a2f9d049:
 
     # ton "It was worth it though as I had free range to the prefects' bathroom..." ("base", "wide", "base", "mid")
-    ton "虽然我有免费到州长浴室的自由范围,但这是值得的." ("base", "wide", "base", "mid")
+    ton "虽然我有免费到年级长浴室的自由范围,但这是值得的." ("base", "wide", "base", "mid")
 
 # game/scripts/characters/tonks/chitchats.rpy:152
 translate schinese tonks_chitchat_reroll_db465413:
@@ -406,13 +406,13 @@ translate schinese tonks_chitchat_reroll_db465413:
 translate schinese tonks_chitchat_reroll_fe211d0f:
 
     # ton "My hair can go red when I'm upset or angry..." ("upset", "base", "base", "mid")
-    ton "当我心烦意乱或生气的时候,我的头发会变红.。。" ("upset", "base", "base", "mid")
+    ton "当我心烦意乱或生气的时候,我的头发会变红..." ("upset", "base", "base", "mid")
 
 # game/scripts/characters/tonks/chitchats.rpy:154
 translate schinese tonks_chitchat_reroll_65b5332e:
 
     # ton "Don't tell anyone but my natural hair colour is actually more brown..." ("open", "base", "base", "R")
-    ton "别告诉任何人,除了我天然的发色实际上更棕色.。。" ("open", "base", "base", "R")
+    ton "别告诉任何人,除了我天然的发色实际上更棕色..." ("open", "base", "base", "R")
 
 # game/scripts/characters/tonks/chitchats.rpy:155
 translate schinese tonks_chitchat_reroll_7a733229:
@@ -430,7 +430,7 @@ translate schinese tonks_chitchat_reroll_7744e66a:
 translate schinese tonks_chitchat_reroll_2cebcdc6:
 
     # ton "Won't stop me borrowing some polyjuice potions though... Not that I need them..." ("open", "base", "base", "R")
-    ton "不会阻止我借些魔药的...不是说我不需要它们.。。" ("open", "base", "base", "R")
+    ton "不会阻止我借些魔药的...不是说我不需要它们..." ("open", "base", "base", "R")
 
 # game/scripts/characters/tonks/chitchats.rpy:159
 translate schinese tonks_chitchat_reroll_1cd17408:
@@ -460,7 +460,7 @@ translate schinese tonks_chitchat_reroll_94d5c908:
 translate schinese tonks_chitchat_reroll_b19dd4dd:
 
     # ton "Imagine the possibilities..." ("open_wide_tongue2", "narrow", "base", "mid")
-    ton "想象一下可能性。.." ("open_wide_tongue2", "narrow", "base", "mid")
+    ton "想象一下可能性..." ("open_wide_tongue2", "narrow", "base", "mid")
 
 # game/scripts/characters/tonks/chitchats.rpy:168
 translate schinese tonks_chitchat_reroll_5a426344:
@@ -478,5 +478,5 @@ translate schinese tonks_chitchat_reroll_43053dbc:
 translate schinese tonks_chitchat_reroll_e3cccb51:
 
     # ton "I do hope your little games can help her open up a bit..." ("base", "base", "base", "mid")
-    ton "我确实希望你的小游戏能帮她打开点。。." ("base", "base", "base", "mid")
+    ton "我确实希望你的小游戏能帮她打开点..." ("base", "base", "base", "mid")
 

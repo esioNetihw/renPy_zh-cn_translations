@@ -910,7 +910,7 @@ translate schinese a_bad_time_to_disrobe_part_2_66f99c60:
 translate schinese a_bad_time_to_disrobe_part_2_8c9d532a:
 
     # gen "You're going to have to elaborate if you'd like those house points." ("base", xpos="far_left", ypos="head")
-    gen "如果你想要那些学院的点数,你得详细说明一下." ("base", xpos="far_left", ypos="head")
+    gen "如果你想要那些学院的分数,你得详细说明一下." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/minigames/mirror/events/a_bad_time_to_disrobe.rpy:301
 translate schinese a_bad_time_to_disrobe_part_2_d5c327d4:
@@ -1144,7 +1144,7 @@ translate schinese a_bad_time_to_disrobe_part_2_35323479:
 translate schinese a_bad_time_to_disrobe_part_2_b4263cf0:
 
     # gen "And did he?" ("base", xpos="far_left", ypos="head")
-    gen """是的." ("base", xpos="far_left", ypos="head")
+    gen "他真的？" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/minigames/mirror/events/a_bad_time_to_disrobe.rpy:343
 translate schinese a_bad_time_to_disrobe_part_2_86f82bb9:

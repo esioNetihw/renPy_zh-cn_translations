@@ -196,7 +196,7 @@ translate schinese hg_pr_flash_b656e883:
 translate schinese hg_pr_flash_91b3c85a:
 
     # gen "A minute of your time for twenty-five house points..." ("base", xpos="far_left", ypos="head")
-    gen "花一分钟的时间去25个家庭点数.." ("base", xpos="far_left", ypos="head")
+    gen "花一分钟的时间去25个家庭分数.." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/requests/flash_your_tits.rpy:61
 translate schinese hg_pr_flash_7fd12658:
@@ -334,7 +334,7 @@ translate schinese hg_pr_flash_307f6623:
 translate schinese hg_pr_flash_0f6b041b:
 
     # gen "{number=current_payout} house points. The usual rate..." ("base", xpos="far_left", ypos="head")
-    gen "{number=current_payout}房屋点数.通常费率." ("base", xpos="far_left", ypos="head")
+    gen "{number=current_payout}房屋分数.通常费率." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/requests/flash_your_tits.rpy:87
 translate schinese hg_pr_flash_c6b26422:
@@ -394,7 +394,7 @@ translate schinese hg_pr_flash_307f6623_1:
 translate schinese hg_pr_flash_0f6b041b_1:
 
     # gen "{number=current_payout} house points. The usual rate..." ("base", xpos="far_left", ypos="head")
-    gen "{number=current_payout}房屋点数.通常费率." ("base", xpos="far_left", ypos="head")
+    gen "{number=current_payout}房屋分数.通常费率." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/requests/flash_your_tits.rpy:98
 translate schinese hg_pr_flash_c6b26422_1:
@@ -574,7 +574,7 @@ translate schinese hg_pr_flash_T3_E1_13836d85:
 translate schinese hg_pr_flash_T3_E1_a9670183:
 
     # gen "Well, I can't just give you the points for nothing, [hermione_name]." ("base", xpos="far_left", ypos="head")
-    gen "好吧,我不能随便给你点数,[hermione_name]." ("base", xpos="far_left", ypos="head")
+    gen "好吧,我不能随便给你分数,[hermione_name]." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/requests/flash_your_tits.rpy:200
 translate schinese hg_pr_flash_T3_E1_e4b5b189:

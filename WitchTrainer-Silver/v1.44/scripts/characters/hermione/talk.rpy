@@ -556,7 +556,7 @@ translate schinese hermione_change_4462c824:
 translate schinese hermione_change_dfdd3196:
 
     # gen "And doing favours for house points isn't?" ("base", xpos="far_left", ypos="head")
-    gen "而为家庭点数做好事不是吗?" ("base", xpos="far_left", ypos="head")
+    gen "而为家庭分数做好事不是吗?" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/talk.rpy:389
 translate schinese hermione_change_454a2f58:

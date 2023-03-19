@@ -274,7 +274,7 @@ translate schinese a_christmas_tale2_b576e9c1:
 translate schinese a_christmas_tale2_81488b6c:
 
     # ton "Inflating the points gained to put the Slytherins in the lead..." ("open", "base", "raised", "down", hair="happy", trans=dissolve)
-    ton "鼓动获得的点数,使斯莱特林成为领先者." ("open", "base", "raised", "down", hair="happy", trans=dissolve)
+    ton "鼓动获得的分数,使斯莱特林成为领先者." ("open", "base", "raised", "down", hair="happy", trans=dissolve)
 
 # game/scripts/minigames/mirror/events/a_christmas_tale2.rpy:181
 translate schinese a_christmas_tale2_7bd55f0a:

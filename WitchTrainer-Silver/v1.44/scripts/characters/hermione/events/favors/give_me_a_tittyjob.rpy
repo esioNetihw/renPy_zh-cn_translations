@@ -346,7 +346,7 @@ translate schinese back_to_titjob_choices_ab18d8c5:
 translate schinese back_to_titjob_choices_9ee278be:
 
     # her "{number=current_payout} house points?!" ("scream", "wide", "base", "mid")
-    her "{number=current_payout}家点数?!" ("scream", "wide", "base", "mid")
+    her "{number=current_payout}家分数?!" ("scream", "wide", "base", "mid")
 
 # game/scripts/characters/hermione/events/favors/give_me_a_tittyjob.rpy:155
 translate schinese back_to_titjob_choices_9946c9af:
@@ -430,7 +430,7 @@ translate schinese hg_pf_titjob_T5_repeat_cbff0f1b:
 translate schinese hg_pf_titjob_T5_repeat_57b6d754:
 
     # gen "{number=current_payout} house points, as always..." ("base", xpos="far_left", ypos="head")
-    gen "{number=current_payout}房屋点数,一如既往." ("base", xpos="far_left", ypos="head")
+    gen "{number=current_payout}房屋分数,一如既往." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/give_me_a_tittyjob.rpy:173
 translate schinese hg_pf_titjob_T5_repeat_5fa77d33_1:
@@ -1432,7 +1432,7 @@ translate schinese hg_pf_titjob_1_ae55f82c:
 translate schinese hg_pf_titjob_1_4ba624f3:
 
     # her "Could I please have my points now, [genie_name]?" ("soft", "base", "angry", "mid")
-    her "请问我现在的点数是多少,[genie_name]?" ("soft", "base", "angry", "mid")
+    her "请问我现在的分数是多少,[genie_name]?" ("soft", "base", "angry", "mid")
 
 # game/scripts/characters/hermione/events/favors/give_me_a_tittyjob.rpy:501
 translate schinese hg_pf_titjob_1_d56b4e76:
@@ -2530,7 +2530,7 @@ translate schinese hg_pf_titjob_2_cumming_f3f74fed:
 translate schinese hg_pf_titjob_2_cumming_ac8ed3d4:
 
     # gen "So you're fine with swallowing now?" ("base", xpos="far_left", ypos="head")
-    gen "你现在吞咽得很好了?" ("base", xpos="far_left", ypos="head")
+    gen "你现在吞得很好了?" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/give_me_a_tittyjob.rpy:890
 translate schinese hg_pf_titjob_2_cumming_d606353d:

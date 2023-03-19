@@ -202,7 +202,7 @@ translate schinese hg_wager_bj_4f4f27d7:
 translate schinese hg_wager_bj_3ac40951:
 
     # sna "The perfect Hermione Granger letting her headmaster feel her up over a card game and some house points!" (face="snape_02")
-    sna "完美的赫敏格兰格让她的校长感觉她在卡片游戏和一些学院点数!" (face="snape_02")
+    sna "完美的赫敏格兰格让她的校长感觉她在卡片游戏和一些学院分数!" (face="snape_02")
 
 # game/scripts/characters/hermione/events/cardgame_wager.rpy:71
 translate schinese hg_wager_bj_92a48049:
@@ -1048,7 +1048,7 @@ translate schinese hg_wager_bj_f70f1bd0:
 translate schinese hg_wager_bj_fe1ad435:
 
     # gen "Fine, I won't deduct those points..." ("base", xpos="far_left", ypos="head")
-    gen "好吧,我不会把那些点数扣除的." ("base", xpos="far_left", ypos="head")
+    gen "好吧,我不会把那些分数扣除的." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/cardgame_wager.rpy:352
 translate schinese hg_wager_bj_f8205d25:
@@ -1228,7 +1228,7 @@ translate schinese hg_wager_bj_2d186068:
 translate schinese hg_wager_bj_33a8d721:
 
     # gen "You've done more than enough to save those points." ("base", xpos="far_left", ypos="head")
-    gen "你已经做了足够多的工作来挽救那些点数." ("base", xpos="far_left", ypos="head")
+    gen "你已经做了足够多的工作来挽救那些分数." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/cardgame_wager.rpy:402
 translate schinese hg_wager_bj_00c433ed:
@@ -1900,7 +1900,7 @@ translate schinese hg_wager_bj_secret_end_95432b18:
 translate schinese hg_wager_bj_secret_end_2afeb0a9:
 
     # gen "Points?" ("angry", xpos="far_left", ypos="head")
-    gen "点数?" ("angry", xpos="far_left", ypos="head")
+    gen "分数?" ("angry", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/cardgame_wager.rpy:584
 translate schinese hg_wager_bj_secret_end_4e1f8d8d:

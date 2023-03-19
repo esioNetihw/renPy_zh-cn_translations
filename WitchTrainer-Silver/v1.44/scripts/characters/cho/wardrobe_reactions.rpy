@@ -280,7 +280,7 @@ translate schinese cho_reaction_touch_fail_cb70794a:
 translate schinese cho_reaction_touch_fail_9b1bdfb3:
 
     # cho "No touch!" ("open", "closed", "angry", "mid")
-    cho """不!" ("open", "closed", "angry", "mid")
+    cho "别碰!" ("open", "closed", "angry", "mid")
 
 # game/scripts/characters/cho/wardrobe_reactions.rpy:159
 translate schinese cho_reaction_touch_fail_9f0fc54c:
@@ -3418,7 +3418,7 @@ translate schinese cho_reaction_blacklist_3735b00e:
 translate schinese cho_reaction_blacklist_f296f7ee:
 
     # gen "Come on Cho, you're my favourite {size=-6}snatch grabber{/size} in training!" ("base", xpos="far_left", ypos="head")
-    gen "来吧,乔,你是我最喜欢的训练中的第01号抓获者第02号!" ("base", xpos="far_left", ypos="head")
+    gen "来吧,秋,你是我最喜欢的训练中的第01号抓获者第02号!" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/wardrobe_reactions.rpy:980
 translate schinese cho_reaction_blacklist_28f60ca0:

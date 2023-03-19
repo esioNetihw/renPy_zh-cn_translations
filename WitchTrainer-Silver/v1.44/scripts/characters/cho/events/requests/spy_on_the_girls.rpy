@@ -106,7 +106,7 @@ translate schinese cc_pr_spy_girls_start_31360d6d:
 translate schinese cc_pr_spy_girls_start_b703c825:
 
     # cho "The C stands for my Cho, I presume?" ("smile", "narrow", "base", "mid")
-    cho "C代表我的乔,我想?" ("smile", "narrow", "base", "mid")
+    cho "C代表我的秋,我想?" ("smile", "narrow", "base", "mid")
 
 # game/scripts/characters/cho/events/requests/spy_on_the_girls.rpy:33
 translate schinese cc_pr_spy_girls_start_45cf54f8:

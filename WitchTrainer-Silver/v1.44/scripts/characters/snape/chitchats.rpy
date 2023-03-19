@@ -214,7 +214,7 @@ translate schinese snape_chitchat_40c3f8b5:
 translate schinese snape_chitchat_dc87e65b:
 
     # sna "It sure feels good to be able to grant house points or take them away whenever I feel like it." ("snape_24")
-    sna "只要我喜欢,就能给学院点数或者把它们拿走,这确实是件好事." ("snape_24")
+    sna "只要我喜欢,就能给学院分数或者把它们拿走,这确实是件好事." ("snape_24")
 
 # game/scripts/characters/snape/chitchats.rpy:86
 translate schinese snape_chitchat_043e204e:

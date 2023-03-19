@@ -616,7 +616,7 @@ translate schinese an_odd_circumstance_573e25b9:
 translate schinese an_odd_circumstance_78ca6131:
 
     # "\"Hermione\" she said..."
-    """赫米奥内,"她说."
+    "\"赫敏,\"她说..."
 
 # game/scripts/minigames/mirror/events/an_odd_circumstance.rpy:195
 translate schinese an_odd_circumstance_76bcbaca:

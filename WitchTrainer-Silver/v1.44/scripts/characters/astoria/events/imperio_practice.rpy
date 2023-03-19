@@ -1798,7 +1798,7 @@ translate schinese ag_se_imperio_sb_E2_39419df5:
 translate schinese ag_se_imperio_sb_E2_2028047d:
 
     # gen "Miss Greengrass((( is there any other Hufflepuff students you know of selling favours?" ("base", xpos="far_left", ypos="head")
-    gen "格林格拉斯小姐,你知道还有别的赫夫勒普学生在卖东西吗?" ("base", xpos="far_left", ypos="head")
+    gen "格林格拉斯小姐,你知道还有别的赫夫勒普学生出售服务吗?" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/astoria/events/imperio_practice(rpy:560
 translate schinese ag_se_imperio_sb_E2_70ed41b1:

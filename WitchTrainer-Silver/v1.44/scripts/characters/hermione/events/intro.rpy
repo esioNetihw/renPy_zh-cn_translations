@@ -442,7 +442,7 @@ translate schinese hermione_intro_E1_8b4cb31d:
 translate schinese hermione_intro_E1_48826b3c:
 
     # her "So it hurts the whole house point distribution system."
-    her "这对整个住宅点数分配系统造成了损害."
+    her "这对整个住宅分数分配系统造成了损害."
 
 # game/scripts/characters/hermione/events/intro.rpy:208
 translate schinese hermione_intro_E1_891d4e0d:
@@ -508,13 +508,13 @@ translate schinese hermione_intro_E1_a56a8387:
 translate schinese hermione_intro_E1_43aebf91:
 
     # her "First of all, the house point system needs to be maintained!"
-    her "首先,学院的点数系统需要维护!"
+    her "首先,学院的分数系统需要维护!"
 
 # game/scripts/characters/hermione/events/intro.rpy:225
 translate schinese hermione_intro_E1_79c547a8:
 
     # her "You need to control the point distribution better, sir." ("open", "base", "base", "mid")
-    her "你需要更好地控制点数的分配,先生." ("open", "base", "base", "mid")
+    her "你需要更好地控制分数的分配,先生." ("open", "base", "base", "mid")
 
 # game/scripts/characters/hermione/events/intro.rpy:228
 translate schinese hermione_intro_E1_f87ae436:
@@ -3238,7 +3238,7 @@ translate schinese nt_he_hermione_E1_1fb48cf1:
 translate schinese nt_he_hermione_E1_c9b02f7b:
 
     # ton "As an Auror It's just constant busy work..." ("open", "base", "raised", "mid")
-    ton "作为一个恐怖它只是经常忙碌的工作...." ("open", "base", "raised", "mid")
+    ton "作为一个傲罗它只是经常忙碌的工作...." ("open", "base", "raised", "mid")
 
 # game/scripts/characters/hermione/events/intro.rpy:1074
 translate schinese nt_he_hermione_E1_0c1fe848:
@@ -3412,7 +3412,7 @@ translate schinese hermione_intro_E6_70ee19c7:
 translate schinese hermione_intro_E6_67d59ccb:
 
     # her "You see... The Gryffindor house is struggling with points..." ("open", "base", "worried", "R")
-    her "你看,格兰芬多尔的学院正为点数而苦苦挣扎." ("open", "base", "worried", "R")
+    her "你看,格兰芬多尔的学院正为分数而苦苦挣扎." ("open", "base", "worried", "R")
 
 # game/scripts/characters/hermione/events/intro.rpy:1153
 translate schinese hermione_intro_E6_713d58a5:
@@ -3466,7 +3466,7 @@ translate schinese hermione_intro_E6_479b385f:
 translate schinese hermione_intro_E6_f8112332:
 
     # her "The kind that would gain our house additional points..."
-    her "获得我们学院额外点数的那种."
+    her "获得我们学院额外分数的那种."
 
 # game/scripts/characters/hermione/events/intro.rpy:1171
 translate schinese hermione_intro_E6_a1e69956:

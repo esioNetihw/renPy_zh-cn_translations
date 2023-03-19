@@ -118,7 +118,7 @@ translate schinese nt_pr_teach_start_e9c4980b:
 translate schinese nt_pr_teach_start_61388a62:
 
     # gen "Yes, Granger is greedy when it comes to points..." ("base", xpos="far_left", ypos="head")
-    gen "是的,在点数方面格兰格是贪婪的." ("base", xpos="far_left", ypos="head")
+    gen "是的,在分数方面格兰格是贪婪的." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/requests/detention_with_tonks.rpy:40
 translate schinese nt_pr_teach_start_cb4fd957:
@@ -934,7 +934,7 @@ translate schinese nt_pr_teach_T1_E3_2ee5d79e:
 translate schinese nt_pr_teach_T1_E3_61692c9b:
 
     # ton "Not that they turned down the offer of points, though..." ("base", "base", "base", "mid")
-    ton "不过,他们并没有拒绝点数的提议." ("base", "base", "base", "mid")
+    ton "不过,他们并没有拒绝分数的提议." ("base", "base", "base", "mid")
 
 # game/scripts/characters/tonks/events/requests/detention_with_tonks.rpy:268
 translate schinese nt_pr_teach_T1_E3_09c13deb:
@@ -1432,7 +1432,7 @@ translate schinese nt_pr_teach_T1_E4_bd83b06b:
 translate schinese nt_pr_teach_T1_E4_4516b212:
 
     # gen "Did she receive any points for it?" ("base", xpos="far_left", ypos="head")
-    gen "她得到了点数吗?" ("base", xpos="far_left", ypos="head")
+    gen "她得到了分数吗?" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/requests/detention_with_tonks.rpy:382
 translate schinese nt_pr_teach_T1_E4_367830a8:
@@ -1780,7 +1780,7 @@ translate schinese nt_pr_teach_T2_E1_49842cce:
 translate schinese nt_pr_teach_T2_E1_703d86df:
 
     # ton "It was that perfect combination of \"slutty need\" and \"statuesque beauty\"..." ("base", "base", "base", "ahegao")
-    ton "这就是"懒散的需要"和"雕像般的美貌"的完美结合."" ("base", "base", "base", "ahegao")
+    ton "这就是"放荡的需要"和"雕像般的美貌"的完美结合."" ("base", "base", "base", "ahegao")
 
 # game/scripts/characters/tonks/events/requests/detention_with_tonks.rpy:471
 translate schinese nt_pr_teach_T2_E1_afabbc2c:

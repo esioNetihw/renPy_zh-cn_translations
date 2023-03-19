@@ -10,7 +10,7 @@ translate schinese a_white_christmas_bf0045ab:
 translate schinese a_white_christmas_3b9f35f6:
 
     # nar "'Twas a night like any other in the headmaster's room."
-    nar """就像校长的房间里的任何一个晚上一样."
+    nar "'就像校长的房间里的任何一个晚上一样."
 
 # game/scripts/minigames/mirror/events/a_white_christmas.rpy:61
 translate schinese a_white_christmas_998eaacb:

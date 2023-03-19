@@ -1254,5 +1254,5 @@ translate schinese strings:
 
     # game/scripts/characters/hermione/events/favors/show_me_your_tits.rpy:352
     old "\"Twenty-five house points that's my final offer!\""
-    new ""我的最后报盘是25个学院点数!""
+    new ""我的最后报盘是25个学院分数!""
 

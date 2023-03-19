@@ -250,7 +250,7 @@ translate schinese item_store_3f7e473c:
 translate schinese item_store_8bc2354b:
 
     # fre "{size=-4}Quiet, George!{/size}"
-    fre "{size=-4}安静,乔治!{/size}"
+    fre "{size=-4}安静,秋治!{/size}"
 
 # game/scripts/shops/item/room.rpy:91
 translate schinese item_store_b4c26c56:
@@ -268,7 +268,7 @@ translate schinese item_store_19a1a22a:
 translate schinese item_store_3649e629:
 
     # fre "{size=-4}George!{/size}"
-    fre "{size=-4}乔治!{/size}"
+    fre "{size=-4}秋治!{/size}"
 
 # game/scripts/shops/item/room.rpy:94
 translate schinese item_store_f6474a48:
@@ -322,7 +322,7 @@ translate schinese item_store_1e423f2f:
 translate schinese item_store_b9cfddb5:
 
     # fre "Yes George... We've got our own guidebook, since we're on the Gryffindor team."
-    fre "是的,乔治,我们有自己的指南,因为我们在格兰芬多队."
+    fre "是的,秋治,我们有自己的指南,因为我们在格兰芬多队."
 
 # game/scripts/shops/item/room.rpy:103
 translate schinese item_store_8936c8a8:

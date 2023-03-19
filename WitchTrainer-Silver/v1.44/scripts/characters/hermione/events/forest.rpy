@@ -2086,7 +2086,7 @@ translate schinese forest_BJ_4_5b1073b4_19:
 translate schinese forest_BJ_4_9ec2ad7b:
 
     # myr "The prefects' bathroom!"
-    myr "州长的浴室!"
+    myr "年级长的浴室!"
 
 # game/scripts/characters/hermione/events/forest.rpy:751
 translate schinese forest_BJ_4_5b1073b4_20:

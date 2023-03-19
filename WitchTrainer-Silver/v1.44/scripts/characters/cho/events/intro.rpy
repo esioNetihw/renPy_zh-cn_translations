@@ -142,7 +142,7 @@ translate schinese cho_intro_E1_8c62684d:
 translate schinese cho_intro_E1_a641c4b6:
 
     # cho "I'd much prefer if you called me Cho, or Miss Chang..." ("open", "base", "raised", "mid")
-    cho "如果你叫我乔,或者张小姐,我更喜欢." ("open", "base", "raised", "mid")
+    cho "如果你叫我秋,或者张小姐,我更喜欢." ("open", "base", "raised", "mid")
 
 # game/scripts/characters/cho/events/intro.rpy:76
 translate schinese cho_intro_E1_2600333a:
@@ -1024,7 +1024,7 @@ translate schinese cho_intro_E1_b3e8f309:
 translate schinese cho_intro_E1_0c64909a:
 
     # her "And I'm sure Cho wasn't just coming here to flaunt her body..." ("soft", "narrow", "base", "L")
-    her "我肯定乔不是来这里炫耀她的身体的." ("soft", "narrow", "base", "L")
+    her "我肯定秋不是来这里炫耀她的身体的." ("soft", "narrow", "base", "L")
 
 # game/scripts/characters/cho/events/intro.rpy:332
 translate schinese cho_intro_E1_7ad9dd36:
@@ -1174,7 +1174,7 @@ translate schinese cho_intro_E1_f70f1bd0:
 translate schinese cho_intro_E1_34a69420:
 
     # her "You're buying favours from her aren't you?" ("soft", "narrow", "base", "mid_soft")
-    her "你是在向她讨价还价,对吧?" ("soft", "narrow", "base", "mid_soft")
+    her "你在从她那里买人情，不是吗?" ("soft", "narrow", "base", "mid_soft")
 
 # game/scripts/characters/cho/events/intro.rpy:393
 translate schinese cho_intro_E1_31ea9571:
@@ -2104,7 +2104,7 @@ translate schinese discuss_cho_plan_968e49ac:
 translate schinese discuss_cho_plan_31a79691:
 
     # gen "No. I meant the Cho girl..." ("base", xpos="far_left", ypos="head")
-    gen "不,我是说乔女." ("base", xpos="far_left", ypos="head")
+    gen "不,我是说秋女." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/intro.rpy:663
 translate schinese discuss_cho_plan_1fa26675:
@@ -2158,7 +2158,7 @@ translate schinese discuss_cho_plan_f6fa1cb4:
 translate schinese discussed_cho_plan_2aa6dfaf:
 
     # ">You spend the rest of the evening in Snape's company, talking about Cho's impressive thighs."
-    "你在斯内普的公司度过了余下的一夜,谈论乔给人留下深刻印象的大腿."
+    "你在斯内普的公司度过了余下的一夜,谈论秋给人留下深刻印象的大腿."
 
 # game/scripts/characters/cho/events/intro.rpy:699
 translate schinese cho_intro_E3_ba7cb964:
@@ -2230,7 +2230,7 @@ translate schinese cho_intro_E3_c164fa34:
 translate schinese cho_intro_E3_13673eea:
 
     # her "Did Cho put you up to this?" ("normal", "squint", "base", "mid")
-    her "乔把你弄明白了吗?" ("normal", "squint", "base", "mid")
+    her "秋把你弄明白了吗?" ("normal", "squint", "base", "mid")
 
 # game/scripts/characters/cho/events/intro.rpy:719
 translate schinese cho_intro_E3_511145ea:
@@ -2302,7 +2302,7 @@ translate schinese cho_intro_E3_ca8e8972:
 translate schinese cho_intro_E3_c58c50e3:
 
     # her "Is it about Cho again?" ("annoyed", "squint", "base", "mid")
-    her "是关于乔的吗?" ("annoyed", "squint", "base", "mid")
+    her "是关于秋的吗?" ("annoyed", "squint", "base", "mid")
 
 # game/scripts/characters/cho/events/intro.rpy:734
 translate schinese cho_intro_E3_3c1500a7:
@@ -2386,7 +2386,7 @@ translate schinese cho_intro_E3_9eb3db91:
 translate schinese cho_intro_E3_ad7c42d6:
 
     # her "And just points isn't going to cut it..." ("open", "closed", "base", "mid")
-    her "只是点数是不会减少的." ("open", "closed", "base", "mid")
+    her "只是分数是不会减少的." ("open", "closed", "base", "mid")
 
 # game/scripts/characters/cho/events/intro.rpy:750
 translate schinese cho_intro_E3_f8d1d014:
@@ -2416,7 +2416,7 @@ translate schinese cho_intro_E3_dde889c8:
 translate schinese cho_intro_E3_24eb2272:
 
     # her "Cho would be so jealous if she saw me sitting near the commentator and teachers..." ("grin", "narrow", "base", "mid_soft")
-    her "如果乔看到我坐在评论员和老师附近,她会嫉妒的." ("grin", "narrow", "base", "mid_soft")
+    her "如果秋看到我坐在评论员和老师附近,她会嫉妒的." ("grin", "narrow", "base", "mid_soft")
 
 # game/scripts/characters/cho/events/intro.rpy:755
 translate schinese cho_intro_E3_542473e0:
@@ -2560,7 +2560,7 @@ translate schinese cho_intro_E3_c9979b0c:
 translate schinese cho_intro_E3_bb4de0a7:
 
     # gen "What now? You've received your points already." ("base", xpos="far_left", ypos="head")
-    gen "怎么了?,你已经收到点数了." ("base", xpos="far_left", ypos="head")
+    gen "怎么了?,你已经收到分数了." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/intro.rpy:790
 translate schinese cho_intro_E3_e331cb8d:
@@ -2614,7 +2614,7 @@ translate schinese cho_intro_E3_3e81c9f2:
 translate schinese cho_intro_E3_2fd4bae3:
 
     # her "Even though it would take away the immense pleasure of seeing Cho getting all worked up about it..." ("grin", "base", "base", "mid")
-    her "尽管看到乔为这件事做了大量的工作会让人失去极大的乐趣." ("grin", "base", "base", "mid")
+    her "尽管看到秋为这件事做了大量的工作会让人失去极大的乐趣." ("grin", "base", "base", "mid")
 
 # game/scripts/characters/cho/events/intro.rpy:802
 translate schinese cho_intro_E3_1dec0f0f_1:
@@ -2806,7 +2806,7 @@ translate schinese cho_intro_E3_56fe10f7:
 translate schinese cho_intro_E3_4e26475e:
 
     # her "[genie_name], may I ask...{w=0.6} What exactly were you and Cho talking about when I entered your office?" ("open", "base", "base", "R")
-    her "01,我可以问...02当我进入你的办公室时,你和乔到底在说什么?" ("open", "base", "base", "R")
+    her "01,我可以问...02当我进入你的办公室时,你和秋到底在说什么?" ("open", "base", "base", "R")
 
 # game/scripts/characters/cho/events/intro.rpy:838
 translate schinese cho_intro_E3_b29af74d:
@@ -2914,7 +2914,7 @@ translate schinese cho_intro_E3_92fdaa15:
 translate schinese cho_intro_E3_6341b4be:
 
     # gen "You'll tell Cho that you are sorry about your previous interferences." ("base", xpos="far_left", ypos="head")
-    gen "你会告诉乔,你对以前的干涉很抱歉." ("base", xpos="far_left", ypos="head")
+    gen "你会告诉秋,你对以前的干涉很抱歉." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/intro.rpy:861
 translate schinese cho_intro_E3_ab18d8c5:
@@ -2926,7 +2926,7 @@ translate schinese cho_intro_E3_ab18d8c5:
 translate schinese cho_intro_E3_dfe1ee78:
 
     # gen "And that the \"Quidditch equality movement\" will be...{w} \n\"no more\"..." ("base", xpos="far_left", ypos="head")
-    gen "而"Quidditch平等运动"将是...{w}'不"..." ("base", xpos="far_left", ypos="head")
+    gen "而\"魁地奇平等运动\"将是...{w}'不"..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/intro.rpy:865
 translate schinese cho_intro_E3_cbc47e0e:
@@ -2938,7 +2938,7 @@ translate schinese cho_intro_E3_cbc47e0e:
 translate schinese cho_intro_E3_e0974fd0:
 
     # gen "If you want to keep on buying favours from me." ("base", xpos="far_left", ypos="head")
-    gen "如果你想继续从我那里买东西." ("base", xpos="far_left", ypos="head")
+    gen "如果你想继续从我那里买人情." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/intro.rpy:867
 translate schinese cho_intro_E3_b2a8d16a:
@@ -3362,19 +3362,19 @@ translate schinese strings:
 
     # game/scripts/characters/cho/events/intro.rpy:226
     old "\"(I will jerk off a little while they talk.)\""
-    new ""(I will jerk off a little while they talk.)""
+    new "\"(I will jerk off a little while they talk.)\""
 
     # game/scripts/characters/cho/events/intro.rpy:226
     old "\"(I should probably listen to them.)\""
-    new ""(I should probably listen to them.)""
+    new "\"(I should probably listen to them.)\""
 
     # game/scripts/characters/cho/events/intro.rpy:465
     old "\"Sure, go for it!\""
-    new """当然,去吧!""
+    new "\"当然,去吧!\""
 
     # game/scripts/characters/cho/events/intro.rpy:465
     old "\"I'd prefer you didn't...\""
-    new """我希望你不要"...""
+    new "\"我希望你不要...\""
 
     # game/scripts/characters/cho/events/intro.rpy:523
     old "\"Her name was Cho Chan.\""
@@ -3382,29 +3382,29 @@ translate schinese strings:
 
     # game/scripts/characters/cho/events/intro.rpy:523
     old "\"I can't remember. I got too distracted by her legs...\""
-    new ""我记不清了,她的腿让我分心了......""
+    new "\"我记不清了,她的腿让我分心了......\""
 
     # game/scripts/characters/cho/events/intro.rpy:559
     old "\"Help her win the Quidditch cup.\""
-    new ""帮她赢得魁地奇杯.""
+    new "\"帮她赢得魁地奇杯.\""
 
     # game/scripts/characters/cho/events/intro.rpy:559
     old "\"Have her and Hermione go at each other.\""
-    new ""让她和赫敏一起去吧.""
+    new "\"让她和赫敏一起去吧.\""
 
     # game/scripts/characters/cho/events/intro.rpy:599
     old "\"I'll just read a book about it.\""
-    new ""我只要读一本书就可以了.""
+    new "\"我只要读一本书就可以了.\""
 
     # game/scripts/characters/cho/events/intro.rpy:599
     old "\"I trust my instincts!\""
-    new ""我相信我的直觉!""
+    new "\"我相信我的直觉!\""
 
     # game/scripts/characters/cho/events/intro.rpy:758
     old "\"Very well...\""
-    new "[很好.]""
+    new "\"很好...\""
 
     # game/scripts/characters/cho/events/intro.rpy:758
     old "\"Fifty points!\""
-    new "("五十点!")"
+    new "\"五十点!\""
 

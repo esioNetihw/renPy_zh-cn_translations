@@ -436,7 +436,7 @@ translate schinese ag_st_imperio_E1_94225223:
 translate schinese ag_st_imperio_E1_ae43c1da:
 
     # ton "Splendid!" ("silly", "happyCl", "base", "mid")
-    ton """很好!" ("silly", "happyCl", "base", "mid")
+    ton "很好!" ("silly", "happyCl", "base", "mid")
 
 # game/scripts/characters/astoria/events/imperio_training.rpy:135
 translate schinese ag_st_imperio_E1_798ceca1:
@@ -1696,7 +1696,7 @@ translate schinese ag_st_imperio_E2_choices_5dd793ee:
 translate schinese ag_st_imperio_E2_choices_50f6a097:
 
     # ast "SAY IT!" ("scream", "base", "angry", "L")
-    ast """你说什么?" ("scream", "base", "angry", "L")
+    ast "你说什么?" ("scream", "base", "angry", "L")
 
 # game/scripts/characters/astoria/events/imperio_training.rpy:497
 translate schinese ag_st_imperio_E2_choices_5b531e27:
@@ -2734,7 +2734,7 @@ translate schinese ag_st_imperio_E3_f1cc1118:
 translate schinese ag_st_imperio_E3_e0d6775b:
 
     # gen "That I do!" ("grin", xpos="far_left", ypos="head")
-    gen """是的!" ("grin", xpos="far_left", ypos="head")
+    gen "是的!" ("grin", xpos="far_left", ypos="head")
 
 # game/scripts/characters/astoria/events/imperio_training.rpy:811
 translate schinese ag_st_imperio_E3_48d2a866:
@@ -3880,7 +3880,7 @@ translate schinese ag_st_imperio_E4_1ec550d9:
 translate schinese ag_st_imperio_E4_87530902:
 
     # ton "How would you like to see {b}all{/b} this Auror has to offer?" ("horny", "closed", "annoyed", "mid")
-    ton "你想看{b}所有{/b}这个恐怖必须提供吗?" ("horny", "closed", "annoyed", "mid")
+    ton "你想看{b}所有{/b}这个傲罗必须提供吗?" ("horny", "closed", "annoyed", "mid")
 
 # game/scripts/characters/astoria/events/imperio_training.rpy:1143
 translate schinese ag_st_imperio_E4_e9404633:
@@ -4396,7 +4396,7 @@ translate schinese ag_st_imperio_E5_dec7b29c:
 translate schinese ag_st_imperio_E5_d3646d2e:
 
     # gen "I did?" ("base", xpos="far_left", ypos="head")
-    gen """是的." ("base", xpos="far_left", ypos="head")
+    gen "是的." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/astoria/events/imperio_training.rpy:1301
 translate schinese ag_st_imperio_E5_1dc2f8d9:
@@ -5182,7 +5182,7 @@ translate schinese ag_st_imperio_E5_4ad71496:
 translate schinese ag_st_imperio_E5_c04b991f:
 
     # ton "I've been an auror for three years now, I'll have you know!" ("mad", "base", "angry", "R")
-    ton "三年来我一直是个恐怖的人,我会让你知道的!" ("mad", "base", "angry", "R")
+    ton "三年来我一直是个傲罗的人,我会让你知道的!" ("mad", "base", "angry", "R")
 
 # game/scripts/characters/astoria/events/imperio_training.rpy:1609
 translate schinese ag_st_imperio_E5_556d0f79:
@@ -5944,19 +5944,19 @@ translate schinese strings:
 
     # game/scripts/characters/astoria/events/imperio_training.rpy:402
     old "\"Say something naughty!\""
-    new """说什么调皮的话!""
+    new "\"说什么调皮的话!\""
 
     # game/scripts/characters/astoria/events/imperio_training.rpy:402
     old "\"Show us those tits!\""
-    new ""给我们看那些潮汐!""
+    new "\"给我们看那些潮汐!\""
 
     # game/scripts/characters/astoria/events/imperio_training.rpy:936
     old "\"Make her turn around!\""
-    new ""让她转过身来!""
+    new "\"让她转过身来!\""
 
     # game/scripts/characters/astoria/events/imperio_training.rpy:936
     old "\"Let her face me!\""
-    new ""让她面对我吧!""
+    new "\"让她面对我吧!\""
 
     # game/scripts/characters/astoria/events/imperio_training.rpy:1333
     old "-Start masturbating!-"
@@ -5964,7 +5964,7 @@ translate schinese strings:
 
     # game/scripts/characters/astoria/events/imperio_training.rpy:1632
     old "-Prompt her to be honest with herself-"
-    new "-促使她对自己诚实----"
+    new "-促使她对自己诚实-"
 
     # game/scripts/characters/astoria/events/imperio_training.rpy:1632
     old "-Call her out on her bullshit-"
@@ -5972,13 +5972,13 @@ translate schinese strings:
 
     # game/scripts/characters/astoria/events/imperio_training.rpy:1708
     old "\"You're a selfish slut!\""
-    new ""你是个自私的荡妇!""
+    new "\"你是个自私的荡妇!\""
 
     # game/scripts/characters/astoria/events/imperio_training.rpy:1708
     old "\"You're a filthy pervert!\""
-    new ""你是个肮脏的变态者!""
+    new "\"你是个肮脏的变态者!\""
 
     # game/scripts/characters/astoria/events/imperio_training.rpy:1708
     old "\"You're nothing more than a whore!\""
-    new ""你只不过是个妓女罢了!""
+    new "\"你只不过是个妓女罢了!\""
 

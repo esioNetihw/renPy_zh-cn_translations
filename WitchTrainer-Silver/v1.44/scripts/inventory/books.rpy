@@ -1006,7 +1006,7 @@ translate schinese game_of_chairs2_book_322ca340:
 translate schinese game_of_chairs2_book_b7c4418a:
 
     # nar "Chubby Watchman asks The Bastard for help, but in his virginal jealousness he refuses."
-    nar "查比·沃奇曼请求牧师帮忙,但他在他的处女嫉妒中拒绝了."
+    nar "查比·沃奇曼请求魔法部帮忙,但他在他的处女嫉妒中拒绝了."
 
 # game/scripts/inventory/books.rpy:255
 translate schinese game_of_chairs2_book_dc69ae0f:
@@ -1030,13 +1030,13 @@ translate schinese game_of_chairs2_book_c098199c:
 translate schinese game_of_chairs2_book_6699fb55:
 
     # nar "The Bastard uncovers the morbid mystery of the lack of male lineage in his host's house."
-    nar "牧师揭开了主人家里缺乏男性血统的病态谜团."
+    nar "魔法部揭开了主人家里缺乏男性血统的病态谜团."
 
 # game/scripts/inventory/books.rpy:259
 translate schinese game_of_chairs2_book_9efac0ce:
 
     # nar "Shortly after, The Bastard gets knocked out cold by the host."
-    nar "不久后,牧师被主人吓倒了."
+    nar "不久后,魔法部被主人吓倒了."
 
 # game/scripts/inventory/books.rpy:260
 translate schinese game_of_chairs2_book_af462736:
@@ -1270,7 +1270,7 @@ translate schinese game_of_chairs2_book_729efe21:
 translate schinese game_of_chairs2_book_a8d812a8:
 
     # nar "The Virgin Bastard captures himself a North-Northwoman but she escapes."
-    nar "维珍牧师抓住了一个北北方女人,但她逃走了."
+    nar "维珍魔法部抓住了一个北北方女人,但她逃走了."
 
 # game/scripts/inventory/books.rpy:307
 translate schinese game_of_chairs2_book_a726b42f:
@@ -1594,7 +1594,7 @@ translate schinese game_of_chairs2_book_8f5f7d03:
 translate schinese game_of_chairs2_book_1c967792:
 
     # nar "The Virgin Bastard is forced to kill one of his friends to prove himself to the North-Northmen."
-    nar "维珍牧师被迫杀了他的一个朋友,向北北方人证明自己."
+    nar "维珍魔法部被迫杀了他的一个朋友,向北北方人证明自己."
 
 # game/scripts/inventory/books.rpy:371
 translate schinese game_of_chairs2_book_9cff790f:
@@ -1900,13 +1900,13 @@ translate schinese game_of_chairs3_book_68be37da:
 translate schinese game_of_chairs3_book_0c0df926:
 
     # nar "The Virgin Bastard is seduced by the woman he was chasing all this time."
-    nar "维珍牧师是被他一直追逐的那个女人引诱的."
+    nar "维珍魔法部是被他一直追逐的那个女人引诱的."
 
 # game/scripts/inventory/books.rpy:440
 translate schinese game_of_chairs3_book_86f3078a:
 
     # nar "The Bastard is no longer a virgin."
-    nar ""牧师"不再是处女了."
+    nar ""魔法部"不再是处女了."
 
 # game/scripts/inventory/books.rpy:441
 translate schinese game_of_chairs3_book_85ca13f0:

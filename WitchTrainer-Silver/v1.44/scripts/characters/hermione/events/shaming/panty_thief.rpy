@@ -706,7 +706,7 @@ translate schinese hg_cum_on_panties_response_87ab9aa8:
 translate schinese hg_cum_on_panties_response_520d5e1f:
 
     # gen "If you'd prefer the points then just take them off." ("base", xpos="far_left", ypos="head")
-    gen "如果你喜欢点数,那就把它们拿走." ("base", xpos="far_left", ypos="head")
+    gen "如果你喜欢分数,那就把它们拿走." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/shaming/panty_thief.rpy:284
 translate schinese hg_cum_on_panties_response_693f1a11:

@@ -4282,7 +4282,7 @@ translate schinese cc_pr_manipulate_boys_twins_branch_choices_9d430b69:
 translate schinese cc_pr_manipulate_boys_twins_branch_choices_a5b5eab7:
 
     # "> You hand the Slytherin uniform to Cho."
-    "你把斯莱特林制服交给乔."
+    "你把斯莱特林制服交给秋."
 
 # game/scripts/characters/cho/events/requests/manipulate_boys.rpy:1127
 translate schinese cc_pr_manipulate_boys_twins_branch_choices_a689c620:
@@ -4636,7 +4636,7 @@ translate schinese cc_pr_manipulate_boys_twins_branch_choices_a6190d88:
 translate schinese cc_pr_manipulate_boys_twins_branch_choices_06aaabac:
 
     # "> You hand the Gryffindor uniform to Cho."
-    "你把格兰芬多制服交给乔."
+    "你把格兰芬多制服交给秋."
 
 # game/scripts/characters/cho/events/requests/manipulate_boys.rpy:1236
 translate schinese cc_pr_manipulate_boys_twins_branch_choices_98d4ccf1:
@@ -4864,7 +4864,7 @@ translate schinese cc_pr_manipulate_boys_twins_branch_choices_048395e6:
 translate schinese cc_pr_manipulate_boys_twins_branch_choices_309db83c:
 
     # "> You hand the Hufflepuff uniform to Cho."
-    "你把哈夫列夫制服交给乔."
+    "你把哈夫列夫制服交给秋."
 
 # game/scripts/characters/cho/events/requests/manipulate_boys.rpy:1314
 translate schinese cc_pr_manipulate_boys_twins_branch_choices_e0ae33b6:
@@ -5158,7 +5158,7 @@ translate schinese cc_pr_manipulate_boys_twins_branch_choices_7d8c22bf:
 translate schinese cc_pr_manipulate_boys_twins_branch_choices_3dbabaa5:
 
     # "> You hand the clothes to Cho."
-    "你把衣服交给乔."
+    "你把衣服交给秋."
 
 # game/scripts/characters/cho/events/requests/manipulate_boys.rpy:1414
 translate schinese cc_pr_manipulate_boys_twins_branch_choices_bf68ec3a:

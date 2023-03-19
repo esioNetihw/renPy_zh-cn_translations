@@ -1168,13 +1168,13 @@ translate schinese strings:
 
     # game/scripts/minigames/mirror/events/suck_and_run.rpy:114
     old "\"A Slutty Nurse?\""
-    new """一个懒散的护士?""
+    new "\"一个放荡的护士?\""
 
     # game/scripts/minigames/mirror/events/suck_and_run.rpy:114
     old "\"A Slutty School girl?\""
-    new """一个懒散的女生?""
+    new "\"一个放荡的女生?\""
 
     # game/scripts/minigames/mirror/events/suck_and_run.rpy:114
     old "\"A Slutty Witch?\""
-    new """一个懒惰的女巫?""
+    new "\"一个放荡的女巫?\""
 

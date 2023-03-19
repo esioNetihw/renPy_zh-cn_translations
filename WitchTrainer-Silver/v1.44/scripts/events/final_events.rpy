@@ -196,7 +196,7 @@ translate schinese ball_quest_E1_choices_28ad86db:
 translate schinese ball_quest_E1_choices_8df86bbb:
 
     # her "And I understand that the nature of the favours I have been selling you lately..." ("open", "base", "angry", "R", cheeks="blush")
-    her "我明白我最近向你兜售的好处的性质." ("open", "base", "angry", "R", cheeks="blush")
+    her "我明白我最近向你出售性服务的性质." ("open", "base", "angry", "R", cheeks="blush")
 
 # game/scripts/events/final_events.rpy:72
 translate schinese ball_quest_E1_choices_158b52d8:
@@ -412,7 +412,7 @@ translate schinese ball_quest_E1_choices_f7467e88:
 translate schinese ball_quest_E1_choices_cf923225:
 
     # gen "Seriously? After all those favours you sold me?" ("base", xpos="far_left", ypos="head")
-    gen "说真的?,在你帮了我这么多忙之后?" ("base", xpos="far_left", ypos="head")
+    gen "说真的?,在你卖给我这么多性服务之后?" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/events/final_events.rpy:121
 translate schinese ball_quest_E1_choices_b6caa221:
@@ -1114,7 +1114,7 @@ translate schinese ball_quest_E1_end_195e3ddf:
 translate schinese ball_quest_E1_end_2cb0ac95:
 
     # gen "(That was weird... she sure changed her mood quick.)" ("base", xpos="far_left", ypos="head")
-    gen "(这很奇怪。。。她肯定很快就改变了心情.)" ("base", xpos="far_left", ypos="head")
+    gen "(这很奇怪...她肯定很快就改变了心情.)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/events/final_events.rpy:449
 translate schinese ball_quest_E1_end_67bdd447:
@@ -1168,7 +1168,7 @@ translate schinese ball_quest_E1_end_058acc74:
 translate schinese ball_quest_E1_end_5276ff0f:
 
     # gen "I wonder if I will have to show up for that..." ("base", xpos="far_left", ypos="head")
-    gen "我想知道,我是否必须在这里露面.。." ("base", xpos="far_left", ypos="head")
+    gen "我想知道,我是否必须在这里露面..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/events/final_events.rpy:485
 translate schinese ball_quest_E2_bfc55895:

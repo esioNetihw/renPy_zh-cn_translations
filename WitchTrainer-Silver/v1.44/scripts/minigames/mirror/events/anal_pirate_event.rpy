@@ -34,25 +34,25 @@ translate schinese anal_pirate_event_1_beb1055b:
 translate schinese anal_pirate_event_1_e7fe98d1:
 
     # gen "How familiar ye be wit' th' term \"Swabbing ye poop deck\"?" ("base", xpos="far_left", ypos="head")
-    gen "你有多熟悉"游泳"这个词吗?"" ("base", xpos="far_left", ypos="head")
+    gen "你有多熟悉\"游泳\"这个词吗?" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/minigames/mirror/events/anal_pirate_event.rpy:74
 translate schinese anal_pirate_event_1_6ca9fc56:
 
     # her "Ninety galleon points..." ("annoyed", "narrow", "annoyed", "mid")
-    her "90个加仑点." ("annoyed", "narrow", "annoyed", "mid")
+    her "90分." ("annoyed", "narrow", "annoyed", "mid")
 
 # game/scripts/minigames/mirror/events/anal_pirate_event.rpy:75
 translate schinese anal_pirate_event_1_d5364b93:
 
     # gen "Wha'?" ("base", xpos="far_left", ypos="head")
-    gen """为什么?" ("base", xpos="far_left", ypos="head")
+    gen "什么?" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/minigames/mirror/events/anal_pirate_event.rpy:76
 translate schinese anal_pirate_event_1_3a87e5f5:
 
     # her "............................." ("disgust", "narrow", "base", "mid_soft")
-    her "(...)" ("disgust", "narrow", "base", "mid_soft")
+    her "............................." ("disgust", "narrow", "base", "mid_soft")
 
 # game/scripts/minigames/mirror/events/anal_pirate_event.rpy:77
 translate schinese anal_pirate_event_1_4d9c4231:
@@ -1090,7 +1090,7 @@ translate schinese anal_pirate_event_common_1_2_cb24e796_1:
 translate schinese anal_pirate_event_common_1_2_5d9ec70f:
 
     # gen "Aye ye be!" ("grin", xpos="far_left", ypos="head")
-    gen """是的!" ("grin", xpos="far_left", ypos="head")
+    gen "好啊!" ("grin", xpos="far_left", ypos="head")
 
 # game/scripts/minigames/mirror/events/anal_pirate_event.rpy:362
 translate schinese anal_pirate_event_common_1_2_5a2f1035_1:
@@ -1672,7 +1672,7 @@ translate schinese anal_pirate_event_3_0c4bde5e:
 translate schinese anal_pirate_event_3_61639c0e:
 
     # her "'n in a no way untarnished..."
-    her """绝对不能不受玷污."
+    her "绝对不能不受玷污..."
 
 # game/scripts/minigames/mirror/events/anal_pirate_event.rpy:539
 translate schinese anal_pirate_event_3_f63d337e:
@@ -2002,7 +2002,7 @@ translate schinese anal_pirate_event_3_3743e1dd:
 translate schinese anal_pirate_event_3_9364c8b3:
 
     # gen "'tis nah water, wench!" ("base", xpos="far_left", ypos="head")
-    gen """这不是水,温奇!" ("base", xpos="far_left", ypos="head")
+    gen "\"这不是水\",温奇!" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/minigames/mirror/events/anal_pirate_event.rpy:616
 translate schinese anal_pirate_event_3_d518ed5f:

@@ -2044,7 +2044,7 @@ translate schinese hg_pf_strip_T6_fingering_c1785303:
 translate schinese hg_pf_strip_T6_fingering_ad1abf3c:
 
     # gen "As you wish..." ("base", xpos="far_left", ypos="head")
-    gen "如你所愿。." ("base", xpos="far_left", ypos="head")
+    gen "如你所愿.." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/dance_for_me_masturbate.rpy:634
 translate schinese hg_pf_strip_T6_fingering_6a6e2091:

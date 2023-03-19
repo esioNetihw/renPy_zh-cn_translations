@@ -22,7 +22,7 @@ translate schinese tonks_intro_E1_1a984542_1:
 translate schinese tonks_intro_E1_6d27fd6a:
 
     # gen "(Can't I even have one quiet day here?...)" ("base", xpos="far_left", ypos="head")
-    gen "(Can't I even have one quiet day here?...)" ("base", xpos="far_left", ypos="head")
+    gen "(我就不能在这里安静地度过一天吗?...)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:15
 translate schinese tonks_intro_E1_6651457f:
@@ -34,13 +34,13 @@ translate schinese tonks_intro_E1_6651457f:
 translate schinese tonks_intro_E1_dd1738c0:
 
     # ton "It's Tonks--"
-    ton "是通话--"
+    ton "是唐克斯--"
 
 # game/scripts/characters/tonks/events/intro.rpy:17
 translate schinese tonks_intro_E1_63e9d8f9:
 
     # ton "*Ugh*..."
-    ton "*Ugh*."
+    ton "*额*。。."
 
 # game/scripts/characters/tonks/events/intro.rpy:18
 translate schinese tonks_intro_E1_a179ccd4:
@@ -52,31 +52,31 @@ translate schinese tonks_intro_E1_a179ccd4:
 translate schinese tonks_intro_E1_e90fe182:
 
     # ton "I meant, Nymphadora Tonks, Sir."
-    ton "我是说,NymphadoraTonks先生."
+    ton "我是说,尼法朵拉·唐克斯先生."
 
 # game/scripts/characters/tonks/events/intro.rpy:20
 translate schinese tonks_intro_E1_25a3ae98:
 
     # gen "(Nympho...{w=0.6} what?)" ("base", xpos="far_left", ypos="head")
-    gen "(Nympho.{w=0.6}什么?)" ("base", xpos="far_left", ypos="head")
+    gen "(尼法...{w=0.6}什么?)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:21
 translate schinese tonks_intro_E1_eaa5700d:
 
     # ton "Ministry of Magic, Auror division.{w=0.8} May I come in, Sir?"
-    ton "魔法部,恐怖部.先生,{w=0.8}我可以进来吗?"
+    ton "魔法部傲罗.先生,{w=0.8}我可以进来吗?"
 
 # game/scripts/characters/tonks/events/intro.rpy:24
 translate schinese tonks_intro_E1_184db8e1:
 
     # gen "(Oh shit, the fuzz!!!)" ("angry", xpos="far_left", ypos="head")
-    gen "(Oh shit, the fuzz!!!)" ("angry", xpos="far_left", ypos="head")
+    gen "(噢，该死的，绒毛!!!)" ("angry", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:25
 translate schinese tonks_intro_E1_6ea7ab18:
 
     # gen "(I thought they would have forgotten about those damn letters by now...)" ("base", xpos="far_left", ypos="head")
-    gen "(I thought they would have forgotten about those damn letters by now...)" ("base", xpos="far_left", ypos="head")
+    gen "(我以为他们现在会忘记那些该死的信了...)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:26
 translate schinese tonks_intro_E1_b7f4dcad:
@@ -88,7 +88,7 @@ translate schinese tonks_intro_E1_b7f4dcad:
 translate schinese tonks_intro_E1_cc873b0f:
 
     # gen "(Governments are all the same with their bloody rules.)" ("base", xpos="far_left", ypos="head")
-    gen "(Governments are all the same with their bloody rules.)" ("base", xpos="far_left", ypos="head")
+    gen "(政府都有同样的血腥规则.)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:28
 translate schinese tonks_intro_E1_dc0e75d0:
@@ -106,13 +106,13 @@ translate schinese tonks_intro_E1_1dec0f0f_1:
 translate schinese tonks_intro_E1_bc2ef9ce:
 
     # gen "(Another female?)" ("base", xpos="far_left", ypos="head")
-    gen "(Another female?)" ("base", xpos="far_left", ypos="head")
+    gen "(另一个女性?)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:32
 translate schinese tonks_intro_E1_ff2de54c:
 
     # gen "(She sounds a bit too old to be a student...)" ("base", xpos="far_left", ypos="head")
-    gen "(She sounds a bit too old to be a student...)" ("base", xpos="far_left", ypos="head")
+    gen "(她听起来有点太老了，不适合当学生...)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:33
 translate schinese tonks_intro_E1_1dec0f0f_2:
@@ -124,13 +124,13 @@ translate schinese tonks_intro_E1_1dec0f0f_2:
 translate schinese tonks_intro_E1_b27947da:
 
     # gen "(Should I let her in?)" nointeract ("base", xpos="far_left", ypos="head")
-    gen "(Should I let her in?)" nointeract ("base", xpos="far_left", ypos="head")
+    gen "(我应该让她进来吗?)" nointeract ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:39
 translate schinese tonks_intro_E1_9d5b84e2:
 
     # gen "(Better to just let my charm play...)" ("grin", xpos="far_left", ypos="head")
-    gen "(Better to just let my charm play...)" ("grin", xpos="far_left", ypos="head")
+    gen "(最好让我的魔咒施展出来...)" ("grin", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:42
 translate schinese tonks_intro_E1_eda7b753:
@@ -148,19 +148,19 @@ translate schinese tonks_intro_E1_149c9d64:
 translate schinese tonks_intro_E1_68423070:
 
     # gen "........................." ("base", xpos="far_left", ypos="head")
-    gen "(...)" ("base", xpos="far_left", ypos="head")
+    gen "........................." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:45
 translate schinese tonks_intro_E1_70c3f863:
 
     # ton "Via apparition, of course. It only took me a couple of seconds..."
-    ton "当然,维娅的幻觉,我花了几秒钟."
+    ton "通过幻影,我花了几秒钟."
 
 # game/scripts/characters/tonks/events/intro.rpy:46
 translate schinese tonks_intro_E1_5c265e71:
 
     # ton "But still, it's quite a long walk up here from Hogsmeade..."
-    ton "但是,从霍格斯米德到这里还走了很长一段路."
+    ton "但是，从霍格莫德到这里要走很长的路。。."
 
 # game/scripts/characters/tonks/events/intro.rpy:47
 translate schinese tonks_intro_E1_982ee67e:
@@ -172,13 +172,13 @@ translate schinese tonks_intro_E1_982ee67e:
 translate schinese tonks_intro_E1_d7268e40:
 
     # gen "(I wouldn't mind having a look at her...)" ("base", xpos="far_left", ypos="head")
-    gen "(I wouldn't mind having a look at her...)" ("base", xpos="far_left", ypos="head")
+    gen "(我不介意看她一眼...)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:49
 translate schinese tonks_intro_E1_4510250d:
 
     # gen "(There is something special about women in uniform...)" ("base", xpos="far_left", ypos="head")
-    gen "(There is something special about women in uniform...)" ("base", xpos="far_left", ypos="head")
+    gen "(穿制服的女人有一些特别之处...)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:50
 translate schinese tonks_intro_E1_dc0e75d0_1:
@@ -190,7 +190,7 @@ translate schinese tonks_intro_E1_dc0e75d0_1:
 translate schinese tonks_intro_E1_e64f04eb:
 
     # gen "*Uhm* Yes, you may enter..." ("base", xpos="far_left", ypos="head")
-    gen "*Uhm*是,你可以进入.." ("base", xpos="far_left", ypos="head")
+    gen "*额*是,你可以进入.。." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:68
 translate schinese tonks_intro_E1_247cd5f0:
@@ -208,19 +208,19 @@ translate schinese tonks_intro_E1_2b572c21:
 translate schinese tonks_intro_E1_7dc29daa:
 
     # gen "(Oh shit,{w=0.1} she's hot...)"
-    gen "(哦,妈的,{w=0.1},她很热...)"
+    gen "(哦,妈的,{w=0.1},她很性感...)"
 
 # game/scripts/characters/tonks/events/intro.rpy:91
 translate schinese tonks_intro_E1_41e05394:
 
     # ton "I apologise for arriving unannounced...{w=0.8} And a couple of days late..." ("open", "base", "base", "R")
-    ton "我很抱歉没有宣布就来了.{w=0.8}晚了几天." ("open", "base", "base", "R")
+    ton "我为未经通知就到达而道歉.{w=0.8}而且晚了几天.。。" ("open", "base", "base", "R")
 
 # game/scripts/characters/tonks/events/intro.rpy:92
 translate schinese tonks_intro_E1_45d70e6d:
 
     # gen "Please, I'm glad you could make it."
-    gen "求你了,我很高兴你能做到."
+    gen "我很高兴你能做到."
 
 # game/scripts/characters/tonks/events/intro.rpy:93
 translate schinese tonks_intro_E1_a2180ba7:
@@ -232,7 +232,7 @@ translate schinese tonks_intro_E1_a2180ba7:
 translate schinese tonks_intro_E1_66d1d41e:
 
     # ton "I had quite the \"pleasant\" encounter with a group of centaurs." ("soft", "wide", "raised", "R")
-    ton "我和一群半人开了一场很"愉快"的会." ("soft", "wide", "raised", "R")
+    ton "我和一群半人开了一场很\"愉快\"的会." ("soft", "wide", "raised", "R")
 
 # game/scripts/characters/tonks/events/intro.rpy:96
 translate schinese tonks_intro_E1_ac9bc305:
@@ -244,7 +244,7 @@ translate schinese tonks_intro_E1_ac9bc305:
 translate schinese tonks_intro_E1_c8e374a1:
 
     # ton "*Mhmm*..." ("base", "base", "base", "mid", hair="horny")
-    ton "*Mhmm*." ("base", "base", "base", "mid", hair="horny")
+    ton "*嗯嗯嗯*。。." ("base", "base", "base", "mid", hair="horny")
 
 # game/scripts/characters/tonks/events/intro.rpy:98
 translate schinese tonks_intro_E1_384bd8fe:
@@ -256,7 +256,7 @@ translate schinese tonks_intro_E1_384bd8fe:
 translate schinese tonks_intro_E1_5a3892bf:
 
     # ton "I had to get them to comply with our rules, to the best of my abilities..." ("soft", "base", "base", "mid")
-    ton "我必须让他们遵守我们的规则,尽我的最大能力." ("soft", "base", "base", "mid")
+    ton "我必须让他们遵守我们的规则,尽我的最大能力.。。" ("soft", "base", "base", "mid")
 
 # game/scripts/characters/tonks/events/intro.rpy:100
 translate schinese tonks_intro_E1_6e2267f5:
@@ -268,19 +268,19 @@ translate schinese tonks_intro_E1_6e2267f5:
 translate schinese tonks_intro_E1_32302e29:
 
     # gen "Tell me more!" ("grin", xpos="far_left", ypos="head")
-    gen ""她说." ("grin", xpos="far_left", ypos="head")
+    gen "告诉我跟多" ("grin", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:119
 translate schinese tonks_intro_E1_49caf74d:
 
     # gen "Tell me about it..." ("base", xpos="far_left", ypos="head")
-    gen "告诉我这件事." ("base", xpos="far_left", ypos="head")
+    gen "告诉我..." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:122
 translate schinese tonks_intro_E1_8c2c98c1:
 
     # ton "Oh... about the centaurs?" ("annoyed", "base", "raised", "mid")
-    ton "哦,关于半岛人的事?" ("annoyed", "base", "raised", "mid")
+    ton "哦,关于半人马的事?" ("annoyed", "base", "raised", "mid")
 
 # game/scripts/characters/tonks/events/intro.rpy:123
 translate schinese tonks_intro_E1_51eacfb6:
@@ -292,7 +292,7 @@ translate schinese tonks_intro_E1_51eacfb6:
 translate schinese tonks_intro_E1_32476e16:
 
     # gen "Half of a man, and the other half that of a horse?" ("angry", xpos="far_left", ypos="head")
-    gen "一个人的一半,另一半人的一半?" ("angry", xpos="far_left", ypos="head")
+    gen "一个人的一半,另一半马?" ("angry", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:125
 translate schinese tonks_intro_E1_612b614d:
@@ -304,37 +304,37 @@ translate schinese tonks_intro_E1_612b614d:
 translate schinese tonks_intro_E1_42bad1fc:
 
     # gen "With the bottom half being that of a{w=0.2}.{w=0.2}.{w=0.2}.{w=0.6} horse?!" ("base", xpos="far_left", ypos="head")
-    gen "下半部是一匹{w=0.2}.{w=0.2}.{w=0.6}的马的下半部?!" ("base", xpos="far_left", ypos="head")
+    gen "下半部是一匹{w=0.2}.{w=0.2}.{w=0.6}马?!" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:127
 translate schinese tonks_intro_E1_056a84f6:
 
     # ton "Of course, Sir." ("base", "base", "shocked", "mid")
-    ton "当然可以,先生." ("base", "base", "shocked", "mid")
+    ton "当然,先生." ("base", "base", "shocked", "mid")
 
 # game/scripts/characters/tonks/events/intro.rpy:128
 translate schinese tonks_intro_E1_3102e0a7:
 
     # gen "(Sweet!)" ("grin", xpos="far_left", ypos="head")
-    gen "(Sweet!)" ("grin", xpos="far_left", ypos="head")
+    gen "(太棒了!)" ("grin", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:129
 translate schinese tonks_intro_E1_c40542b1:
 
     # gen "Just wanted to check if I still knew my mythology..." ("base", xpos="far_left", ypos="head")
-    gen "只是想看看我是否还知道我的神话." ("base", xpos="far_left", ypos="head")
+    gen "只是想看看我是否还知道我的神话。。." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:130
 translate schinese tonks_intro_E1_c17de149:
 
     # gen "(And it wasn't just dudes with horse heads...)" ("angry", xpos="far_left", ypos="head")
-    gen "(And it wasn't just dudes with horse heads...)" ("angry", xpos="far_left", ypos="head")
+    gen "(不仅仅是那些长着马头的家伙...)" ("angry", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:131
 translate schinese tonks_intro_E1_7251f937:
 
     # gen "(That would have been weird...)" ("base", xpos="far_left", ypos="head")
-    gen "(That would have been weird...)" ("base", xpos="far_left", ypos="head")
+    gen "(那会很奇怪...)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:133
 translate schinese tonks_intro_E1_16fa3c79:
@@ -346,7 +346,7 @@ translate schinese tonks_intro_E1_16fa3c79:
 translate schinese tonks_intro_E1_ea22308b:
 
     # gen "What?{w} Oh yes, very fascinating..." ("base", xpos="far_left", ypos="head")
-    gen "什么?,{w}哦,是的,非常迷人." ("base", xpos="far_left", ypos="head")
+    gen "什么?,{w}哦,是的,非常迷人。。." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:137
 translate schinese tonks_intro_E1_1ef33f6e:
@@ -370,25 +370,25 @@ translate schinese tonks_intro_E1_706e70ec:
 translate schinese tonks_intro_E1_1df75dd2:
 
     # ton "The Ministry would be furious if they knew I had told you!" ("upset", "wide", "raised", "mid")
-    ton "如果他们知道我告诉过你,外交部会大发雷霆的!" ("upset", "wide", "raised", "mid")
+    ton "如果他们知道我告诉过你,魔法部会大发雷霆的!" ("upset", "wide", "raised", "mid")
 
 # game/scripts/characters/tonks/events/intro.rpy:141
 translate schinese tonks_intro_E1_f960aa72:
 
     # ton "(Not that I would mention any of it... They'd probably sack me on the spot for that...)" ("mad", "base", "worried", "R", cheeks="blush")
-    ton "(Not that I would mention any of it... They'd probably sack me on the spot for that...)" ("mad", "base", "worried", "R", cheeks="blush")
+    ton "(我不会提及任何一件事。。。他们可能会因此当场解雇我...)" ("mad", "base", "worried", "R", cheeks="blush")
 
 # game/scripts/characters/tonks/events/intro.rpy:142
 translate schinese tonks_intro_E1_7dfe6709:
 
     # ton "(I did the job. That's all that should matter to them...)" ("upset", "base", "base", "down")
-    ton "(I did the job. That's all that should matter to them...)" ("upset", "base", "base", "down")
+    ton "(我完成了任务。这对他们来说才是最重要的...)" ("upset", "base", "base", "down")
 
 # game/scripts/characters/tonks/events/intro.rpy:143
 translate schinese tonks_intro_E1_5822ba47:
 
     # gen "Come on! ..." ("angry", xpos="far_left", ypos="head")
-    gen "来吧!" ("angry", xpos="far_left", ypos="head")
+    gen "来吧!。。" ("angry", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:144
 translate schinese tonks_intro_E1_35307b94:
@@ -406,7 +406,7 @@ translate schinese tonks_intro_E1_c825da2c:
 translate schinese tonks_intro_E1_ddf786ec:
 
     # gen "(Balls...)" ("base", xpos="far_left", ypos="head")
-    gen "(Balls...)" ("base", xpos="far_left", ypos="head")
+    gen "(草...)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:155
 translate schinese tonks_intro_E1_c7703cf0:
@@ -418,7 +418,7 @@ translate schinese tonks_intro_E1_c7703cf0:
 translate schinese tonks_intro_E1_f4979f4c:
 
     # ton "I had to make a compelling offer so they'd peacefully return to their assigned territory, which isn't easy..." ("open", "base", "base", "mid")
-    ton "我不得不作出令人信服的提议,使他们能够和平地返回其指定的领土,这并不容易.." ("open", "base", "base", "mid")
+    ton "我不得不作出令人信服的提议,使他们能够和平地返回其指定的领土,这并不容易.。." ("open", "base", "base", "mid")
 
 # game/scripts/characters/tonks/events/intro.rpy:157
 translate schinese tonks_intro_E1_1dec0f0f_3:
@@ -436,13 +436,13 @@ translate schinese tonks_intro_E1_ea7d13b6:
 translate schinese tonks_intro_E1_4646978f:
 
     # ton "Unfortunately, I cannot tell you...{w} Strictly confidential Ministry information..." ("soft", "base", "raised", "mid")
-    ton "不幸的是,我无法告诉你.{w}严格保密的部委信息." ("soft", "base", "raised", "mid")
+    ton "不幸的是,我无法告诉你.{w}严格保密的魔法信息.。。" ("soft", "base", "raised", "mid")
 
 # game/scripts/characters/tonks/events/intro.rpy:160
 translate schinese tonks_intro_E1_aac870db:
 
     # gen "(Why? Did she suck them off?)" ("base", xpos="far_left", ypos="head")
-    gen "(Why? Did she suck them off?)" ("base", xpos="far_left", ypos="head")
+    gen "(为什么？她口了吗?)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:161
 translate schinese tonks_intro_E1_0f60d220:
@@ -460,13 +460,13 @@ translate schinese tonks_intro_E1_98a41266:
 translate schinese tonks_intro_E1_eeca2318:
 
     # gen "More or less..." ("base", xpos="far_left", ypos="head")
-    gen "或多或少." ("base", xpos="far_left", ypos="head")
+    gen "或多或少。。." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:167
 translate schinese tonks_intro_E1_f8f87c9f:
 
     # ton "We have received a letter from a Miss named \"Hermione Granger\", about the trading of... \"favours\" between staff and students at this school." ("open", "base", "base", "mid")
-    ton "我们收到了一封名叫"HermioneGranger"的小姐的信,信中叙述了这所学校教职员和学生之间的“恩惠”交易." ("open", "base", "base", "mid")
+    ton "我们收到了一封名叫\"赫敏格兰杰\"的小姐的信,信中叙述了这所学校教职员和学生之间的\"性\"交易." ("open", "base", "base", "mid")
 
 # game/scripts/characters/tonks/events/intro.rpy:168
 translate schinese tonks_intro_E1_1e47a7f8:
@@ -1156,7 +1156,7 @@ translate schinese ss_he_tonks_E1_205cfaaa:
 translate schinese ss_he_tonks_E1_6b391ce6:
 
     # sna "And now we have an Auror breathing down our necks... All thanks to that mischievous little whore!" ("snape_15")
-    sna "现在我们的脖子上又有了一个恐怖...都要归功于那个卑鄙的小妓女!" ("snape_15")
+    sna "现在我们的脖子上又有了一个傲罗...都要归功于那个卑鄙的小妓女!" ("snape_15")
 
 # game/scripts/characters/tonks/events/intro.rpy:348
 translate schinese ss_he_tonks_E1_2ea6e317:
@@ -1174,7 +1174,7 @@ translate schinese ss_he_tonks_E1_cfe4afb6:
 translate schinese ss_he_tonks_E1_810cf5d9:
 
     # gen "On the subject of that Auror..." ("base", xpos="far_left", ypos="head")
-    gen "关于那场恐怖...." ("base", xpos="far_left", ypos="head")
+    gen "关于那场傲罗...." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:351
 translate schinese ss_he_tonks_E1_5e1212ae:
@@ -1288,7 +1288,7 @@ translate schinese ss_he_tonks_E1_1d03f6de:
 translate schinese ss_he_tonks_E1_8625a77a:
 
     # sna "Listen, we have to be even more cautious, now that there's an Auror making her rounds..." ("snape_10")
-    sna "听着,我们必须更加谨慎,因为有一个恐怖让她转身." ("snape_10")
+    sna "听着,我们必须更加谨慎,因为有一个傲罗让她转身." ("snape_10")
 
 # game/scripts/characters/tonks/events/intro.rpy:377
 translate schinese ss_he_tonks_E1_18b44dfb:
@@ -1726,7 +1726,7 @@ translate schinese tonks_intro_E3_dff3591e:
 translate schinese tonks_intro_E3_52370304:
 
     # ton "Teachers taking advantage of their students, promising house points in return for sexual acts..." ("open", "base", "angry", "R", hair="angry")
-    ton "教师利用其学生的优势,有希望的家庭点数作为性行为的回报.." ("open", "base", "angry", "R", hair="angry")
+    ton "教师利用其学生的优势,有希望的家庭分数作为性行为的回报.." ("open", "base", "angry", "R", hair="angry")
 
 # game/scripts/characters/tonks/events/intro.rpy:511
 translate schinese tonks_intro_E3_a2226f6f:
@@ -2308,7 +2308,7 @@ translate schinese tonks_intro_E3_0db5603e:
 translate schinese tonks_intro_E3_f792c6c9:
 
     # ton "The alternative would be me informing the ministry, and locking you both up." ("soft", "base", "base", "mid")
-    ton "另一个办法是我通知牧师,并把你们都锁起来." ("soft", "base", "base", "mid")
+    ton "另一个办法是我通知魔法部,并把你们都锁起来." ("soft", "base", "base", "mid")
 
 # game/scripts/characters/tonks/events/intro.rpy:672
 translate schinese tonks_intro_E3_1363d29f:
@@ -2764,7 +2764,7 @@ translate schinese ss_he_tonks_E2_a8fb1050:
 translate schinese ss_he_tonks_E2_5c78ccb0:
 
     # sna "Why would the Ministry have sent a full-fledged Auror, to deal with some eccentric insinuations made by some petty student..." ("snape_16")
-    sna "为什么教育部会派出一个正式的"恐怖",来处理一些小学生所做的一些古怪的暗示.." ("snape_16")
+    sna "为什么教育部会派出一个正式的"傲罗",来处理一些小学生所做的一些古怪的暗示.." ("snape_16")
 
 # game/scripts/characters/tonks/events/intro.rpy:789
 translate schinese ss_he_tonks_E2_1038411c:
@@ -2842,7 +2842,7 @@ translate schinese ss_he_tonks_E2_0dec80ea:
 translate schinese ss_he_tonks_E2_c41bc18e:
 
     # gen "And in return she'll keep things quiet with the ministry." ("base", xpos="far_left", ypos="head")
-    gen "作为回报,她将保持牧师的安静." ("base", xpos="far_left", ypos="head")
+    gen "作为回报,她将保持魔法部的安静." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/tonks/events/intro.rpy:803
 translate schinese ss_he_tonks_E2_46249bc2:

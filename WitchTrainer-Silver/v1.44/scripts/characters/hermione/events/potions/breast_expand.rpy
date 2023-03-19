@@ -1864,7 +1864,7 @@ translate schinese her_potion_breasts_give_f2512609:
 translate schinese her_potion_breasts_give_3b28f29e:
 
     # gen "If I were to give you the same amount of points every time then why would you ever want to do something new." ("base", xpos="far_left", ypos="head")
-    gen "如果我每次给你同样的点数,那你为什么要做一些新的事情呢?" ("base", xpos="far_left", ypos="head")
+    gen "如果我每次给你同样的分数,那你为什么要做一些新的事情呢?" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/potions/breast_expand.rpy:694
 translate schinese her_potion_breasts_give_1673113b:

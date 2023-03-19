@@ -5056,13 +5056,13 @@ translate schinese hg_vibrators_personal_low_tier_89a5b3be:
 translate schinese hg_vibrators_personal_low_tier_004fe0ad:
 
     # her "I--{w=0.2} You didn't have to...{w=0.4} Some points would've been--" ("disgust", "happyCl", "worried", "mid", cheeks="blush")
-    her "我...{w=0.2}你不必...{w=0.4}会有点数的--" ("disgust", "happyCl", "worried", "mid", cheeks="blush")
+    her "我...{w=0.2}你不必...{w=0.4}会有分数的--" ("disgust", "happyCl", "worried", "mid", cheeks="blush")
 
 # game/scripts/characters/hermione/events/items/vibrators.rpy:1998
 translate schinese hg_vibrators_personal_low_tier_119df71c:
 
     # gen "Points? Is that really the only thing you want?" ("base", xpos="far_left", ypos="head")
-    gen "点数?,这真的是你唯一想要的吗?" ("base", xpos="far_left", ypos="head")
+    gen "分数?,这真的是你唯一想要的吗?" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/items/vibrators.rpy:1999
 translate schinese hg_vibrators_personal_low_tier_8f149c02:
@@ -5074,7 +5074,7 @@ translate schinese hg_vibrators_personal_low_tier_8f149c02:
 translate schinese hg_vibrators_personal_low_tier_90c570f4:
 
     # gen "Looks to me like you're not doing it just for points..." ("base", xpos="far_left", ypos="head")
-    gen "在我看来,你不是为了点数才这么做的." ("base", xpos="far_left", ypos="head")
+    gen "在我看来,你不是为了分数才这么做的." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/items/vibrators.rpy:2001
 translate schinese hg_vibrators_personal_low_tier_ebfd2938:
@@ -7588,7 +7588,7 @@ translate schinese hg_vibrators_public_return_high_tier_85404ba1:
 translate schinese hg_vibrators_public_return_high_tier_898d82b5:
 
     # her "I was never supposed to let it go this far, I just wanted to earn points for my house and make them happy!"
-    her "我从没想过让它走这么远,我只是想为我的学院赢得点数,让他们开心!"
+    her "我从没想过让它走这么远,我只是想为我的学院赢得分数,让他们开心!"
 
 # game/scripts/characters/hermione/events/items/vibrators.rpy:3071
 translate schinese hg_vibrators_public_return_high_tier_903ddd08:

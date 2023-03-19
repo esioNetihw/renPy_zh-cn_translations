@@ -976,7 +976,7 @@ translate schinese ss_he_story_intro_E8_e83721f5:
 translate schinese ss_he_story_intro_E8_02149d65:
 
     # ">The bond of male friendship between you two strengthens even more.\n>Slytherin house point payouts have increased formidably..."
-    "你们之间的男性友谊纽带进一步加强了.斯莱特林的家庭点数支付已大幅增加."
+    "你们之间的男性友谊纽带进一步加强了.斯莱特林的家庭分数支付已大幅增加."
 
 # game/scripts/characters/snape/events/hangouts.rpy:432
 translate schinese ss_he_story_intro_E9_73cf919d:
@@ -1888,7 +1888,7 @@ translate schinese ss_he_story_intro_E15_bd9d918e:
 translate schinese ss_he_story_intro_E15_d0515ca2:
 
     # sna "Well in that case I shall personally ensure that the Slytherin house gets as many house points as possible." ("snape_23")
-    sna "在这种情况下,我将亲自确保斯莱特林的学院得到尽可能多的点数." ("snape_23")
+    sna "在这种情况下,我将亲自确保斯莱特林的学院得到尽可能多的分数." ("snape_23")
 
 # game/scripts/characters/snape/events/hangouts.rpy:653
 translate schinese ss_he_story_intro_E15_07ae07cd:
@@ -1906,13 +1906,13 @@ translate schinese ss_he_story_intro_E15_3db2de49:
 translate schinese ss_he_story_intro_E15_9b5795c6:
 
     # ">The Slytherin house point payout has increased greatly and reached its maximum level as well."
-    "斯莱特林房屋点数支付大幅增加,也达到了最高水平."
+    "斯莱特林房屋分数支付大幅增加,也达到了最高水平."
 
 # game/scripts/characters/snape/events/hangouts.rpy:663
 translate schinese sly_plus_249ff895:
 
     # ">The Slytherin house point payout has increased..."
-    "斯莱特林房屋点数的支付增加了."
+    "斯莱特林房屋分数的支付增加了."
 
 translate schinese strings:
 

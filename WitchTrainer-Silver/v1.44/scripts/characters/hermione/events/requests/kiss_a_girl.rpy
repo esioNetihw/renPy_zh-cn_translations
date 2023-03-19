@@ -100,7 +100,7 @@ translate schinese hg_pr_kiss_83262519:
 translate schinese hg_pr_kiss_9ba74a97:
 
     # gen "[hermione_name], {number=current_payout} house points are up for grabs today!" ("base", xpos="far_left", ypos="head")
-    gen "[hermione_name],{number=current_payout}家的点数今天要被抢走了!" ("base", xpos="far_left", ypos="head")
+    gen "[hermione_name],{number=current_payout}家的分数今天要被抢走了!" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/requests/kiss_a_girl.rpy:42
 translate schinese hg_pr_kiss_a5b74258:
@@ -148,7 +148,7 @@ translate schinese hg_pr_kiss_ff00930f:
 translate schinese hg_pr_kiss_9ba74a97_1:
 
     # gen "[hermione_name], {number=current_payout} house points are up for grabs today!" ("base", xpos="far_left", ypos="head")
-    gen "[hermione_name],{number=current_payout}家的点数今天要被抢走了!" ("base", xpos="far_left", ypos="head")
+    gen "[hermione_name],{number=current_payout}家的分数今天要被抢走了!" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/requests/kiss_a_girl.rpy:51
 translate schinese hg_pr_kiss_a5b74258_1:
@@ -196,7 +196,7 @@ translate schinese hg_pr_kiss_ff00930f_1:
 translate schinese hg_pr_kiss_9ba74a97_2:
 
     # gen "[hermione_name], {number=current_payout} house points are up for grabs today!" ("base", xpos="far_left", ypos="head")
-    gen "[hermione_name],{number=current_payout}家的点数今天要被抢走了!" ("base", xpos="far_left", ypos="head")
+    gen "[hermione_name],{number=current_payout}家的分数今天要被抢走了!" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/requests/kiss_a_girl.rpy:60
 translate schinese hg_pr_kiss_a5b74258_2:

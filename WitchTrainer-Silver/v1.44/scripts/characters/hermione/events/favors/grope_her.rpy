@@ -376,7 +376,7 @@ translate schinese hg_pf_grope_T3_intro_E1_161db324:
 translate schinese hg_pf_grope_T3_intro_E1_512ada8a:
 
     # gen "I'll give you {number=current_payout} house points for this." ("base", xpos="far_left", ypos="head")
-    gen "我给你01点学院的点数." ("base", xpos="far_left", ypos="head")
+    gen "我给你01点学院的分数." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/grope_her.rpy:228
 translate schinese hg_pf_grope_T3_intro_E1_dce6675d:

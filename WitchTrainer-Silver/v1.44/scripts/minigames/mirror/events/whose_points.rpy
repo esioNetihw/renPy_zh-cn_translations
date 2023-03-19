@@ -16,7 +16,7 @@ translate schinese whose_points_91bc8bab:
 translate schinese whose_points_2de4c544:
 
     # gen "The show where everything is made up and the points don't matter." ("grin", xpos="far_left", ypos="head")
-    gen "所有的东西都是在什么地方组成的,而点数并不重要." ("grin", xpos="far_left", ypos="head")
+    gen "所有的东西都是在什么地方组成的,而分数并不重要." ("grin", xpos="far_left", ypos="head")
 
 # game/scripts/minigames/mirror/events/whose_points.rpy:36
 translate schinese whose_points_4c44a161:
@@ -442,7 +442,7 @@ translate schinese whose_points_ca97a33d:
 translate schinese whose_points_69bcc922:
 
     # her "I win, all the points for me!" ("crooked_smile", "closed", "base", "mid")
-    her "我赢了,所有的点数都给了我!" ("crooked_smile", "closed", "base", "mid")
+    her "我赢了,所有的分数都给了我!" ("crooked_smile", "closed", "base", "mid")
 
 # game/scripts/minigames/mirror/events/whose_points.rpy:212
 translate schinese whose_points_379621e1:
@@ -460,7 +460,7 @@ translate schinese whose_points_0ca1854d:
 translate schinese whose_points_9f22c42c:
 
     # her "Wait, they don't?! I thought they were house points!" ("annoyed", "base", "worried", "mid")
-    her "等等,他们不是吗?,我以为他们是学院的点数!" ("annoyed", "base", "worried", "mid")
+    her "等等,他们不是吗?,我以为他们是学院的分数!" ("annoyed", "base", "worried", "mid")
 
 # game/scripts/minigames/mirror/events/whose_points.rpy:222
 translate schinese whose_points_c36c201b:

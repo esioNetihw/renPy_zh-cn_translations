@@ -10,7 +10,7 @@ translate schinese ast_reaction_category_fail_78203744:
 translate schinese ast_reaction_category_fail_2390ba8d:
 
     # gen "I wasn't--" ("base", xpos="far_left", ypos="head")
-    gen """是的." ("base", xpos="far_left", ypos="head")
+    gen "我不是--" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/astoria/wardrobe_reactions.rpy:32
 translate schinese ast_reaction_category_fail_f70f1bd0:

@@ -616,7 +616,7 @@ translate schinese hg_pf_admire_panties_T3_intro_E1_8caf5912:
 translate schinese hg_pf_admire_panties_T3_intro_E1_fff4c313:
 
     # her "So I will get extra points for this?" ("open", "closed", "worried", "mid", cheeks="blush")
-    her "所以我会得到额外的点数吗?" ("open", "closed", "worried", "mid", cheeks="blush")
+    her "所以我会得到额外的分数吗?" ("open", "closed", "worried", "mid", cheeks="blush")
 
 # game/scripts/characters/hermione/events/favors/show_me_your_panties.rpy:335
 translate schinese hg_pf_admire_panties_T3_intro_E1_433d7910:

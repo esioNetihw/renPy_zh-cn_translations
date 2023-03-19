@@ -10,19 +10,19 @@ translate schinese cho_requests_ff20ca82:
 translate schinese cho_requests_3a91ee25:
 
     # gen "(If I want Cho to do anything in public with those {i}Muffletuffs{/i} I better do it before the match.)" ("base", xpos="far_left", ypos="head")
-    gen "(如果我想乔在公开场合对第01号Muffletuff{/i}做任何事情,我最好在比赛前做.)" ("base", xpos="far_left", ypos="head")
+    gen "(如果我想让张在公共场合用那些{i}围巾{/i}做任何事情，我最好在比赛前做.)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/summon.rpy:43
 translate schinese cho_requests_4d802717:
 
     # gen "(Although maybe not...)" ("base", xpos="far_left", ypos="head")
-    gen "(Although maybe not...)" ("base", xpos="far_left", ypos="head")
+    gen "(虽然可能不...)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/summon.rpy:54
 translate schinese cho_requests_da36cce8:
 
     # gen "(If I want Cho to do anything in public with those {i}Slythershits{/i} I better do it before the match.)" ("base", xpos="far_left", ypos="head")
-    gen "(如果我想乔在公开场合做任何事情,我最好在比赛前做.)" ("base", xpos="far_left", ypos="head")
+    gen "(如果我想秋在公开场合做任何{i}斯莱特林{i},我最好在比赛前做.)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/summon.rpy:55
 translate schinese cho_requests_4d802717_1:
@@ -34,7 +34,7 @@ translate schinese cho_requests_4d802717_1:
 translate schinese cho_requests_43b4d17c:
 
     # gen "(If I want Cho to do anything in public with those {i}Gryphoncucks{/i} I better do it before the match.)" ("base", xpos="far_left", ypos="head")
-    gen "(如果我想乔用01Gryphoncuck{/i}在公开场合做任何事情,我最好在比赛前做.)" ("base", xpos="far_left", ypos="head")
+    gen "(如果我想秋用01Gryphoncuck{/i}在公开场合做任何事情,我最好在比赛前做.)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/summon.rpy:67
 translate schinese cho_requests_4d802717_2:
@@ -46,7 +46,7 @@ translate schinese cho_requests_4d802717_2:
 translate schinese cho_requests_6203bf68:
 
     # ">Starting the match will progress Cho's story to the next stage."
-    "比赛的开始将把乔的故事推进到下一阶段."
+    "比赛的开始将把秋的故事推进到下一阶段."
 
 # game/scripts/characters/cho/summon.rpy:72
 translate schinese cho_requests_2245c8ca:

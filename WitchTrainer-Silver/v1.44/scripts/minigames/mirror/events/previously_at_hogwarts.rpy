@@ -256,7 +256,7 @@ translate schinese prev_at_hogwarts_137950a4:
 translate schinese prev_at_hogwarts_82df5eda:
 
     # dum2 "\"I don't think I'll ever understa\"--"
-    dum2 """我想我永远也不会理解."
+    dum2 "\"我想我永远也不会理解.\"--"
 
 # game/scripts/minigames/mirror/events/previously_at_hogwarts.rpy:97
 translate schinese prev_at_hogwarts_a96b9b3c:
@@ -268,7 +268,7 @@ translate schinese prev_at_hogwarts_a96b9b3c:
 translate schinese prev_at_hogwarts_56e4c3b0:
 
     # gen "............................." ("base", xpos="far_left", ypos="head")
-    gen "(...)" ("base", xpos="far_left", ypos="head")
+    gen "............................." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/minigames/mirror/events/previously_at_hogwarts.rpy:99
 translate schinese prev_at_hogwarts_c76a6a16:

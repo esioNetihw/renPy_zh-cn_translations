@@ -70,7 +70,7 @@ translate schinese map_attic_2cf275d4:
 translate schinese map_attic_5a37ef70:
 
     # gen "(So now what... I'm supposed to take a piece of something and use with this scroll?)" ("base", xpos="far_left", ypos="head")
-    gen "(那么现在呢。。。我应该拿一块东西和这个卷轴一起使用?)" ("base", xpos="far_left", ypos="head")
+    gen "(那么现在呢...我应该拿一块东西和这个卷轴一起使用?)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/events/map.rpy:36
 translate schinese map_attic_1f88144d:
@@ -190,13 +190,13 @@ translate schinese map_attic_4ede473f:
 translate schinese map_attic_b22a11a0:
 
     # gen "(On second thought... she's probably busy right now.)" ("base", xpos="far_left", ypos="head")
-    gen "(转念一想。。。她现在可能很忙.)" ("base", xpos="far_left", ypos="head")
+    gen "(转念一想...她现在可能很忙.)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/events/map.rpy:81
 translate schinese map_attic_30f79062:
 
     # gen "(It's a bit late... Miss granger wont be having any classes right now...)" ("base", xpos="far_left", ypos="head")
-    gen "(现在有点晚了。。。格兰杰小姐现在不上课...)" ("base", xpos="far_left", ypos="head")
+    gen "(现在有点晚了...格兰杰小姐现在不上课...)" ("base", xpos="far_left", ypos="head")
 
 # game/scripts/events/map.rpy:85
 translate schinese map_attic_562d7c05:

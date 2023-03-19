@@ -1756,7 +1756,7 @@ translate schinese give_her_gift_dba9390f_1:
 translate schinese give_her_gift_e308b9a3:
 
     # her "the Joanne sex doll?" ("annoyed", "narrow", "worried", "down")
-    her "乔安妮的性玩偶?" ("annoyed", "narrow", "worried", "down")
+    her "秋安妮的性玩偶?" ("annoyed", "narrow", "worried", "down")
 
 # game/scripts/characters/hermione/gifts.rpy:543
 translate schinese give_her_gift_bfa39b20:

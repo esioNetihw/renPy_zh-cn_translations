@@ -34,7 +34,7 @@ translate schinese hg_anal_sex_1_intro_49f8731d:
 translate schinese hg_anal_sex_1_intro_027bce50:
 
     # her "Ninety house points..." ("annoyed", "narrow", "annoyed", "mid")
-    her "90个内部点数." ("annoyed", "narrow", "annoyed", "mid")
+    her "90个内部分数." ("annoyed", "narrow", "annoyed", "mid")
 
 # game/scripts/characters/hermione/events/favors/lets_have_sex_anal.rpy:18
 translate schinese hg_anal_sex_1_intro_bc41cf55:
@@ -58,7 +58,7 @@ translate schinese hg_anal_sex_1_intro_ff1d94f7:
 translate schinese hg_anal_sex_1_intro_ce4f1215:
 
     # gen "Well alright then. Ninety house points it is." ("base", xpos="far_left", ypos="head")
-    gen "好吧,那是90个学院的点数." ("base", xpos="far_left", ypos="head")
+    gen "好吧,那是90个学院的分数." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/hermione/events/favors/lets_have_sex_anal.rpy:52
 translate schinese hg_anal_sex_1_intro_952d5268:

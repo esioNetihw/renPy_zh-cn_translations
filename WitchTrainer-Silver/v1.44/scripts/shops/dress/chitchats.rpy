@@ -184,7 +184,7 @@ translate schinese purchase_outfit_3d2cbf5f:
 translate schinese purchase_outfit_90b40a50:
 
     # gen "I was thinking that I could have a custom one made. For a very good girl of mine." ("base", xpos="far_left", ypos="head")
-    gen "我在想我可以做一个定制的。为了我的一个好女孩." ("base", xpos="far_left", ypos="head")
+    gen "我在想我可以做一个定制的.为了我的一个好女孩." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/shops/dress/chitchats.rpy:46
 translate schinese purchase_outfit_8e1247da:
@@ -202,7 +202,7 @@ translate schinese purchase_outfit_bed58fd8:
 translate schinese purchase_outfit_da8119a4:
 
     # gen "A 'girl' approached me with a problem. Apparently she's unable to acquire a dress for this years autumn ball." ("base", xpos="far_left", ypos="head")
-    gen "一个“女孩”向我提出了一个问题。显然她买不到今年秋季舞会的裙子." ("base", xpos="far_left", ypos="head")
+    gen "一个“女孩”向我提出了一个问题.显然她买不到今年秋季舞会的裙子." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/shops/dress/chitchats.rpy:49
 translate schinese purchase_outfit_438dd02c:
@@ -286,7 +286,7 @@ translate schinese purchase_outfit_14ca5bd2:
 translate schinese purchase_outfit_2a6aab01:
 
     # maf "But I'm sure that my grandson has a comic of hers. I'm set to visit him this tonight so I can take a look."
-    maf "但我确信我的孙子有她的漫画。今晚我要去看望他,这样我就可以看一看了."
+    maf "但我确信我的孙子有她的漫画.今晚我要去看望他,这样我就可以看一看了."
 
 # game/scripts/shops/dress/chitchats.rpy:64
 translate schinese purchase_outfit_017b29af:
@@ -334,7 +334,7 @@ translate schinese purchase_outfit_62e594d1:
 translate schinese purchase_outfit_089602a5:
 
     # maf "As you wish."
-    maf "如你所愿。."
+    maf "如你所愿.."
 
 # game/scripts/shops/dress/chitchats.rpy:73
 translate schinese purchase_outfit_017b29af_1:
@@ -2704,13 +2704,13 @@ translate schinese purchase_outfit_969331fe:
 translate schinese purchase_outfit_6026ee93:
 
     # maf "Puppies, sir? I'm not sure I follow."
-    maf "小狗,先生?我不确定我是否理解。."
+    maf "小狗,先生?我不确定我是否理解.."
 
 # game/scripts/shops/dress/chitchats.rpy:550
 translate schinese purchase_outfit_b3acee78:
 
     # gen "Trust me, it's for their own good." ("base", xpos="far_left", ypos="head")
-    gen "相信我,这是为了他们自己好。" ("base", xpos="far_left", ypos="head")
+    gen "相信我,这是为了他们自己好." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/shops/dress/chitchats.rpy:551
 translate schinese purchase_outfit_4030af92:

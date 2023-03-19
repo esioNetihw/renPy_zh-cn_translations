@@ -424,7 +424,7 @@ translate schinese cc_pf_strip_T3_tonks_03b3b0b5:
 translate schinese cc_pf_strip_T3_tonks_strip_cho_14ad372d:
 
     # ton "Move between us, Cho." ("soft", "narrow", "shocked", "L", hair="horny")
-    ton "在我们中间走,乔." ("soft", "narrow", "shocked", "L", hair="horny")
+    ton "在我们中间走,秋." ("soft", "narrow", "shocked", "L", hair="horny")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:210
 translate schinese cc_pf_strip_T3_tonks_strip_cho_f39be866:
@@ -958,7 +958,7 @@ translate schinese cc_pf_strip_T3_tonks_spank_cho_4b18c267:
 translate schinese cc_pf_strip_T3_tonks_spank_cho_c24aa58b:
 
     # gen "Go on, Cho... Ask your teacher to spank you." ("grin", xpos="far_left", ypos="head")
-    gen "继续,乔...让你的老师打你的屁股." ("grin", xpos="far_left", ypos="head")
+    gen "继续,秋...让你的老师打你的屁股." ("grin", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:448
 translate schinese cc_pf_strip_T3_tonks_spank_cho_e2368b3b:
@@ -1060,7 +1060,7 @@ translate schinese cc_pf_strip_T3_tonks_spank_cho_8da0b0a1:
 translate schinese cc_pf_strip_T3_tonks_strip_tonks_2df2465c:
 
     # ton "Cho, would you mind if I stood between you two?" ("open", "narrow", "base", "L", hair="horny")
-    ton "乔,你介意我站在你们中间吗?" ("open", "narrow", "base", "L", hair="horny")
+    ton "秋,你介意我站在你们中间吗?" ("open", "narrow", "base", "L", hair="horny")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:492
 translate schinese cc_pf_strip_T3_tonks_strip_tonks_538afd14:
@@ -1450,7 +1450,7 @@ translate schinese cc_pf_strip_T3_tonks_spank_tonks_68dd572f:
 translate schinese cc_pf_strip_T3_tonks_spank_tonks_1938c615:
 
     # ton "Surely you can do better than that, Cho." ("soft", "narrow", "base", "downR", hair="horny")
-    ton "你肯定能做得比那更好,乔." ("soft", "narrow", "base", "downR", hair="horny")
+    ton "你肯定能做得比那更好,秋." ("soft", "narrow", "base", "downR", hair="horny")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:699
 translate schinese cc_pf_strip_T3_tonks_spank_tonks_65843ab7:
@@ -1666,7 +1666,7 @@ translate schinese cc_pf_strip_T3_tonks_transformations_a0ad7abe:
 translate schinese cc_pf_strip_T3_tonks_transformations_a22857e4:
 
     # ton "*Hmm*... not so nervous around me anymore, are you, Cho?" ("crooked_smile", "narrow", "base", "L")
-    ton "*嗯*...在我身边不再那么紧张了,你是吗,乔?" ("crooked_smile", "narrow", "base", "L")
+    ton "*嗯*...在我身边不再那么紧张了,你是吗,秋?" ("crooked_smile", "narrow", "base", "L")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:801
 translate schinese cc_pf_strip_T3_tonks_transformations_eccdb498:
@@ -1810,7 +1810,7 @@ translate schinese cc_pf_strip_T3_tonks_doppler_E1_0aeb131d:
 translate schinese cc_pf_strip_T3_tonks_doppler_E1_9c0eb121:
 
     # ton "The Auror division does a lot more than \"animal control\"..." ("open", "narrow", "base", "mid")
-    ton "恐怖魔法部的工作远远不止于"动物控制".." ("open", "narrow", "base", "mid")
+    ton "傲罗魔法部的工作远远不止于"动物控制".." ("open", "narrow", "base", "mid")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:853
 translate schinese cc_pf_strip_T3_tonks_doppler_E1_89689043:
@@ -2434,7 +2434,7 @@ translate schinese cc_pf_strip_T3_tonks_succubus_E1_83238701:
 translate schinese cc_pf_strip_T3_tonks_succubus_E1_8f4c81ed:
 
     # ton "It was part of an auror job, obviously. Maybe I'll tell you about it some time." ("crooked_smile", "base", "base", "mid", hair="horny")
-    ton "这显然是恐怖工作的一部分,也许我再给你讲一会儿吧." ("crooked_smile", "base", "base", "mid", hair="horny")
+    ton "这显然是傲罗工作的一部分,也许我再给你讲一会儿吧." ("crooked_smile", "base", "base", "mid", hair="horny")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:978
 translate schinese cc_pf_strip_T3_tonks_succubus_E1_48cc3afa:
@@ -2752,7 +2752,7 @@ translate schinese cc_pf_strip_T3_tonks_succubus_E2_ccceb59c:
 translate schinese cc_pf_strip_T3_tonks_succubus_E2_ce76c589:
 
     # cho "But what about your Auror Training professor?" ("annoyed", "narrow", "base", "L")
-    cho "但是你的恐怖训练教授呢?" ("annoyed", "narrow", "base", "L")
+    cho "但是你的傲罗训练教授呢?" ("annoyed", "narrow", "base", "L")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:1051
 translate schinese cc_pf_strip_T3_tonks_succubus_E2_a1db6fae:
@@ -2854,7 +2854,7 @@ translate schinese cc_pf_strip_T3_tonks_succubus_E2_93cfd3ce:
 translate schinese cc_pf_strip_T3_tonks_succubus_E2_c8baf733:
 
     # gen "See that hungry look in her eyes, Cho?" ("angry", xpos="far_left", ypos="head")
-    gen "看到饥饿的目光在她的眼睛里吗,乔?" ("angry", xpos="far_left", ypos="head")
+    gen "看到饥饿的目光在她的眼睛里吗,秋?" ("angry", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:1068
 translate schinese cc_pf_strip_T3_tonks_succubus_E2_9d288d2b:
@@ -2896,7 +2896,7 @@ translate schinese cc_pf_strip_T3_tonks_succubus_E2_ba852b16:
 translate schinese cc_pf_strip_T3_tonks_succubus_E2_81e3e16a:
 
     # ton "It happened during my first year of Auror training, when I was still a complete novice." ("open", "narrow", "raised", "L")
-    ton "它发生在我在恐怖训练的第一年,当时我仍然是一个完全的新手." ("open", "narrow", "raised", "L")
+    ton "它发生在我在傲罗训练的第一年,当时我仍然是一个完全的新手." ("open", "narrow", "raised", "L")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:1077
 translate schinese cc_pf_strip_T3_tonks_succubus_E2_c15a2472:
@@ -3028,7 +3028,7 @@ translate schinese cc_pf_strip_T3_tonks_succubus_E2_5f309fc7:
 translate schinese cc_pf_strip_T3_tonks_succubus_E2_fa23181d:
 
     # cho "And then you used your auror training to fight her!" ("grin", "narrow", "angry", "L")
-    cho "然后你用你的恐怖训练来对付她!" ("grin", "narrow", "angry", "L")
+    cho "然后你用你的傲罗训练来对付她!" ("grin", "narrow", "angry", "L")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:1100
 translate schinese cc_pf_strip_T3_tonks_succubus_E2_6280c500:
@@ -3490,7 +3490,7 @@ translate schinese cc_pf_strip_T3_tonks_hermione_E1_418b08fd:
 translate schinese cc_pf_strip_T3_tonks_hermione_E1_ea37940f:
 
     # her "Feel free to touch me, Cho." ("base", "narrow", "annoyed", "R")
-    her "你可以自由地触摸我,乔." ("base", "narrow", "annoyed", "R")
+    her "你可以自由地触摸我,秋." ("base", "narrow", "annoyed", "R")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:1238
 translate schinese cc_pf_strip_T3_tonks_hermione_E1_a0eb96ac:
@@ -4012,7 +4012,7 @@ translate schinese cc_pf_strip_T3_tonks_end_event_6cb5d7c4:
 translate schinese cc_pf_strip_T3_tonks_end_event_481eaf6b:
 
     # gen "You're requesting house points for this, Miss Granger?" ("grin", xpos="far_left", ypos="head")
-    gen "格兰格小姐,你是在要求学院的点数吗?" ("grin", xpos="far_left", ypos="head")
+    gen "格兰格小姐,你是在要求学院的分数吗?" ("grin", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:1503
 translate schinese cc_pf_strip_T3_tonks_end_event_32e3ebb4:
@@ -4174,7 +4174,7 @@ translate schinese cc_pf_strip_T3_tonks_end_event_9759bfc3:
 translate schinese cc_pf_strip_T3_tonks_end_event_e0ce66a2:
 
     # ton "I know I deserve those Gryffin-whore points more than anyone!"
-    ton "我知道我比任何人都更应该得到格里芬的点数!"
+    ton "我知道我比任何人都更应该得到格里芬的分数!"
 
 # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:1536
 translate schinese cc_pf_strip_T3_tonks_end_event_a95b329f:
@@ -4204,7 +4204,7 @@ translate schinese cc_pf_strip_T3_tonks_end_event_3d5b0b2b:
 translate schinese cc_pf_strip_T3_tonks_end_event_aba2825b:
 
     # gen "Cho isn't asking for points either, Miss Granger. I'd say it's quite fair if you receive none as well..." ("base", xpos="far_left", ypos="head")
-    gen "乔也没有问分数,格兰格小姐.如果你没有得到,我说是相当公平的." ("base", xpos="far_left", ypos="head")
+    gen "秋也没有问分数,格兰格小姐.如果你没有得到,我说是相当公平的." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:1543
 translate schinese cc_pf_strip_T3_tonks_end_event_e6cffcb4:
@@ -4282,11 +4282,11 @@ translate schinese strings:
 
     # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:184
     old "\"Miss Chang will go first.\""
-    new ""张小姐先走.""
+    new "\"张小姐先走.\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:184
     old "\"You go first, Miss Tonks!\""
-    new """你先走,唐克斯小姐!""
+    new "\"你先走,唐克斯小姐!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:341
     old "-Spank her!-"
@@ -4306,27 +4306,27 @@ translate schinese strings:
 
     # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:651
     old "-Ask Cho to spank her.-"
-    new "-请乔向她吐痰.-"
+    new "-请秋向她吐痰.-"
 
     # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:816
     old "\"A Doppler!\""
-    new """一个多普勒!""
+    new "\"一个多普勒!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:816
     old "\"A Succubus!\""
-    new ""ASuccubus!""
+    new "\"ASuccubus!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:836
     old "\"Hermione!\""
-    new "("Hermione!")"
+    new "\"Hermione!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:1110
     old "\"Yes please!\""
-    new "("是的,请!""
+    new "\"是的,请!\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:1110
     old "\"What do you say, Miss Chang?\""
-    new ""张小姐,你说什么?""
+    new "\"张小姐,你说什么?\""
 
     # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:1506
     old "You shall receive five points."
@@ -4338,5 +4338,5 @@ translate schinese strings:
 
     # game/scripts/characters/cho/events/favors/inspect_her_body_tonks.rpy:1506
     old "No points for you, Granger."
-    new "你没有分量,格兰格."
+    new "你没有分,格兰格."
 

@@ -46,7 +46,7 @@ translate schinese hermione_cardgame_menu_747b8d0c:
 translate schinese hermione_cardgame_menu_5b0de06f:
 
     # her "Unless Fred and Geo..." ("clench", "wide")
-    her "除非弗雷德和乔治." ("clench", "wide")
+    her "除非弗雷德和秋治." ("clench", "wide")
 
 # game/scripts/minigames/cardgame/_hermione_card_game_.rpy:15
 translate schinese hermione_cardgame_menu_d71ad9b0:
@@ -76,7 +76,7 @@ translate schinese hermione_cardgame_menu_98a7135f:
 translate schinese hermione_cardgame_menu_6e924cdc:
 
     # her "Fred and George have a secret shop set up in the school." ("normal", "base", "worried", "R")
-    her "弗雷德和乔治在学校里开了一家秘密商店." ("normal", "base", "worried", "R")
+    her "弗雷德和秋治在学校里开了一家秘密商店." ("normal", "base", "worried", "R")
 
 # game/scripts/minigames/cardgame/_hermione_card_game_.rpy:20
 translate schinese hermione_cardgame_menu_13836d85:
@@ -496,13 +496,13 @@ translate schinese hermione_random_duel_d31d90ed:
 translate schinese hermione_random_duel_48ec0142:
 
     # gen "Well, I was thinking house points." ("base", xpos="far_left", ypos="head")
-    gen "嗯,我在考虑学院的点数." ("base", xpos="far_left", ypos="head")
+    gen "嗯,我在考虑学院的分数." ("base", xpos="far_left", ypos="head")
 
 # game/scripts/minigames/cardgame/_hermione_card_game_.rpy:222
 translate schinese hermione_random_duel_095fab3c:
 
     # her "House points..." ("normal", "happy", "base", "R")
-    her "房屋点数." ("normal", "happy", "base", "R")
+    her "房屋分数." ("normal", "happy", "base", "R")
 
 # game/scripts/minigames/cardgame/_hermione_card_game_.rpy:223
 translate schinese hermione_random_duel_1b04e556:
@@ -740,7 +740,7 @@ translate schinese strings:
 
     # game/scripts/minigames/cardgame/_hermione_card_game_.rpy:268
     old "-Deduct the points-"
-    new "-减去点数-"
+    new "-减去分数-"
 
     # game/scripts/minigames/cardgame/_hermione_card_game_.rpy:298
     old "-Rematch-"
